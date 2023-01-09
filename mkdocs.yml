@@ -1,0 +1,27 @@
+site_name: Brand Guide
+site_url: https://fiware-lab-academy.readthedocs.org
+repo_url: https://github.com/fiware/lab.academy
+site_description: Brand Guideline
+docs_dir: docs
+site_dir: html
+use_directory_urls: false
+theme: readthedocs
+markdown_extensions:
+  - fenced_code
+extra_css: ["https://www.fiware.org/style/fiware_readthedocs.css"]
+nav:
+  - Home: 'index.md'
+  - 'Logo': 
+    - 'FIWARE': 'logo-fiware.md' 
+    - 'FIWARE Foundation': 'logo-foundation.md'
+    - 'FIWARE Domains': 'logo-domains.md'
+    - 'FIWARE Components': 'logo-components.md'
+    - 'FIWARE Ecosystem': 'logo-ecosystem.md'
+  - 'Logo Usage': 
+    - 'Clear Space': 'clear-space.md' 
+    - 'Sizes': 'sizes.md'
+    - 'On Backgrounds': 'on-backgrounds.md'
+    - 'Dont’s': 'donts.md'
+  - 'Settings': 
+    - 'Fonts': 'fonts.md' 
+    - 'Colors': 'colors.md'
