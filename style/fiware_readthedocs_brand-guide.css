@@ -1,5 +1,9 @@
 /* Typography */
 
+a {
+    text-decoration: none!important;
+}
+
 h2 {
     margin-bottom: 20px !important;
 }
@@ -127,4 +131,57 @@ h6 {
 
 .rst-content img {
     margin-bottom: 0px;
+}
+
+/* CTA */
+
+.cta {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    padding: 30px 0 0;
+}
+
+.cta .details {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background: #002e67;
+    padding: 10px 15px;
+    border-radius: 4px;
+    font-size: 15px;
+    line-height: 1.5em;
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+}
+
+.cta .details:hover {
+    background: #002452;
+}
+
+.cta .details:any-link {
+    color: #fff !important;
+    width: 50%;
+}
+
+.cta .details-negative {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background: rgba(255, 255, 255, 0);
+    padding: 20px 15px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    font-size: 15px;
+    line-height: 1.5em;
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+}
+
+.cta .details-negative:hover,
+.cta .details-negative:focus {
+    background: rgba(255, 255, 255, 1);
+    color: #002E67 !important;
 }

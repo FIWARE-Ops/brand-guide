@@ -21,6 +21,11 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     </div>
 </div>
 
+<div class="cta">
+<a class="details" href="#" rel="noopener"><span class="material-symbols-outlined">download</span>Download the Digital Logo Kit</a>
+<a class="details" href="#" rel="noopener"><span class="material-symbols-outlined">download</span>Download the Print Logo Kit</a>
+</div>
+
 <div class="logo-usage">Logo Usage</div>
 <div class="container">
     <div class="col-2">
