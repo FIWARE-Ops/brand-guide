@@ -1,11 +1,37 @@
+/* Typography */
+
+h3 {
+    color: #000 !important;
+}
+
+h4,
+h5,
+h6 {
+    margin-top: 0px !important;
+}
+
+.logo-usage {
+    color: #002e67;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+}
+
+/* –––––––––– */
+
 .logo-container {
     width: 100%;
     border: 1px solid #ccc;
     border-radius: 4px;
     display: flex;
     justify-content: center;
-    margin: 15px 0px;
+    margin: 15px 0px !important;
     padding: 15%;
+}
+
+#logo-fiware-min-width {
+    max-width: 75px;
 }
 
 .cover-container {
@@ -13,13 +39,14 @@
     border-radius: 4px;
     display: flex;
     justify-content: center;
-    margin: 0 0 30px;
+    margin: 0 0 30px !important;
     padding: 0 30px 30px 30px;
 }
 
 .container {
-    display:flex;
+    display: flex;
     flex-direction: row;
+    align-items: flex-start;
     gap: 30px;
     margin-bottom: 30px;
 }
@@ -32,6 +59,29 @@
     width: calc(33% - 15px);
 }
 
+.grid {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.grid-item {
+    width: 50%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+}
+
 .negative {
     background-color: #000;
+}
+
+.no-attributes {
+    padding: 0;
+    border: none;
+}
+
+.rst-content img {
+    margin-bottom: 0px;
 }
