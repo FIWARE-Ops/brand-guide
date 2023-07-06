@@ -31,8 +31,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     <div class="col-2">
         <h3>Clear Space</h3>
         <img class="logo-container no-attributes gutter-s" src="./img/logo/fiware/usage/logo-fiware-clear-zone.svg" alt="Main Logo Black">
-        <p>All versions of our logo have exclusion zones around them to help them stand out.</p>
-        <p>The exclusion zone is equal to the height of letter A.</p>
+        <p>All versions of our logo have exclusion zones around them to help them stand out. The exclusion zone is equal to the height of letter A.</p>
     </div>
     <div class="col-2">
         <h3>Minimum Sizes</h3>
