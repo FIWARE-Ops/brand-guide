@@ -1,5 +1,9 @@
 /* Typography */
 
+h2 {
+    margin-bottom: 20px !important;
+}
+
 h3 {
     color: #000 !important;
 }
@@ -15,7 +19,7 @@ h6 {
     font-size: 16px;
     font-weight: 700;
     text-transform: uppercase;
-    padding-bottom: 15px;
+    margin-top: 60px;
 }
 
 /* –––––––––– */
@@ -26,12 +30,13 @@ h6 {
     border-radius: 4px;
     display: flex;
     justify-content: center;
-    margin: 15px 0px !important;
+    margin: 0px !important;
     padding: 15%;
 }
 
 #logo-fiware-min-width {
     max-width: 75px;
+    margin: 0.45em 0 !important;
 }
 
 .cover-container {
@@ -48,22 +53,33 @@ h6 {
     flex-direction: row;
     align-items: flex-start;
     gap: 30px;
-    margin-bottom: 30px;
+    margin: 0 0 30px;
 }
 
-.container .col-2 {
-    width: calc(50% - 15px);
+.col-2 {
+    width: 50%;
 }
 
-.container .col-3 {
-    width: calc(33% - 15px);
+.col-3 {
+    width: 33%;
+}
+
+.col-4 {
+    width: 25%;
+}
+
+.col-2 p,
+.col-3 p,
+.col-4 p {
+    font-size: 14px;
+    line-height: 1.4em;
+    padding: 0;
 }
 
 .grid {
     display: flex;
     flex-direction: row;
     gap: 15px;
-    margin-top: 15px;
 }
 
 .grid-item {
@@ -71,15 +87,42 @@ h6 {
     border: 1px solid #ccc;
     border-radius: 4px;
     padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.grid-item p {
+    padding-bottom: 0;
+    margin: auto 0;
+}
+
+.grid-item h4 {
+    margin: auto 0!important;
 }
 
 .negative {
     background-color: #000;
+    border: 1px solid rgba(255,255,255,0);
+}
+
+.dont-01 {
+    background-color: #9b6cc3;
+    border: 1px solid rgba(255,255,255,0);
 }
 
 .no-attributes {
     padding: 0;
     border: none;
+}
+
+.gutter-xs {
+    margin-bottom: 10px!important;
+    padding: 15% 10% !important;
+}
+
+.gutter-s {
+    margin-bottom: 20px!important;
 }
 
 .rst-content img {
