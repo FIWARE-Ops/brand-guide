@@ -1,0 +1,37 @@
+.logo-container {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    margin: 15px 0px;
+    padding: 15%;
+}
+
+.cover-container {
+    background-color: #5DC0CF;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    margin: 0 0 30px;
+    padding: 0 30px 30px 30px;
+}
+
+.container {
+    display:flex;
+    flex-direction: row;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.container .col-2 {
+    width: calc(50% - 15px);
+}
+
+.container .col-3 {
+    width: calc(33% - 15px);
+}
+
+.negative {
+    background-color: #000;
+}
