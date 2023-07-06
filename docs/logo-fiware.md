@@ -64,7 +64,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <p>Don’t recreate, add effects or change the colours of our logos. Don’t tilt or angle the logo in any way.</p>
     </div>
     <div class="col-4">
-        <h4>03</h4>
+        <h4>04</h4>
         <img class="logo-container gutter-xs" src="./img/logo/fiware/usage/logo-fiware-dont-4.svg" alt="Main Logo Monochrome">
         <p>Don’t stack the logo, or reconfigure it in any way.</p>
     </div>

@@ -8,7 +8,7 @@ use_directory_urls: false
 theme: readthedocs
 markdown_extensions:
   - fenced_code
-extra_css: 
+extra_css:
   - https://www.fiware.org/style/fiware_readthedocs.css
   - https://www.fiware.org/style/fiware_readthedocs_brand-guide.css
 nav:
