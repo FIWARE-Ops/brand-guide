@@ -151,7 +151,7 @@ h6 {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 10px;
+    gap: 5px;
     background: rgba(235, 235, 235, 0);
     padding: 10px 15px;
     border-radius: 4px;
