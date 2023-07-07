@@ -1,9 +1,5 @@
 /* Typography */
 
-p {
-    padding-bottom: 30px;
-}
-
 a {
     text-decoration: none !important;
 }
@@ -14,13 +10,13 @@ h2 {
 
 h3 {
     color: #000 !important;
-    margin-top: 0px !important;
 }
 
+h3,
 h4,
 h5,
 h6 {
-    margin-top: 0px !important;
+    margin: 0px 0px !important;
 }
 
 .logo-usage {
@@ -28,26 +24,19 @@ h6 {
     font-size: 15px;
     font-weight: 600;
     text-transform: uppercase;
-    margin: 30px 0 0 0;
-    padding: 30px 0 15px 0;
+    margin: 0;
+    padding: 30px 0 0 0;
     border-top: 1px solid #ccc;
 }
 
 /* –––––––––– */
 
-.logo-container {
-    width: 100%;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+.container {
     display: flex;
-    justify-content: center;
-    margin: 0px !important;
-    padding: 15%;
-}
-
-#logo-fiware-min-width {
-    max-width: 75px;
-    margin: 0.45em 0 !important;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 30px;
+    margin: 0 0 15px;
 }
 
 .cover-container {
@@ -59,24 +48,71 @@ h6 {
     padding: 0 30px 30px 30px;
 }
 
-.container {
+.main-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: 30px 0;
+}
+
+.logo-usage-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: 60px 0 30px;
+}
+
+.logo-container {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    margin: 0px !important;
+    padding: 15%;
+}
+
+.cta-container {
     display: flex;
     flex-direction: row;
-    align-items: flex-start;
-    gap: 30px;
-    margin: 0 0 30px;
+    justify-content: center;
+    gap: 0;
+    padding: 0;
+    margin: 30px 0 0;
+}
+
+.dwl-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 0;
+    padding: 0;
+}
+
+#logo-fiware-min-width {
+    max-width: 75px;
+    margin: 0.45em 0 !important;
 }
 
 .col-2 {
     width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 .col-3 {
     width: 33%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 .col-4 {
     width: 25%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
 .col-2 p,
@@ -144,16 +180,53 @@ h6 {
     margin-bottom: 0px;
 }
 
-/* CTA */
 
-.cta-container {
+/* Default Components */
+
+input[type=submit].dwl {
+    -webkit-appearance: none;
+    border: none;
+    background: none;
+    font-family: 'Material Symbols Outlined';
+    font-weight: 400;
+    font-size: 24px;
+    background-color: rgba(235, 235, 235, 1);
+    border-radius: 20px;
+    width: 36px;
+    height: 36px;
+    transition: all 0.3s ease-in-out;
+}
+
+input[type=submit].dwl:hover {
+    background-color: rgba(0, 46, 103, 1);
+    color: #fff;
+}
+
+form {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    gap: 0;
-    padding: 0;
-    margin: 30px 0 0;
+    gap: 5px;
+    align-items: center;
 }
+
+select {
+    width: 75px;
+    height: 36px;
+    padding: 10px;
+    font-family: 'Montserrat';
+    font-size: 15px;
+    line-height: 1;
+    font-weight: 500;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: none;
+    background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right rgba(255, 255, 255, 0);
+    -webkit-appearance: none;
+    background-position-x: 48px;
+}
+
+
+/* CTA */
 
 .secondary-btn {
     display: flex;
@@ -168,8 +241,22 @@ h6 {
     transition: all 0.3s ease-in-out;
 }
 
+.tertiary-btn {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 15px;
+    line-height: 1.5em;
+    color: #696969;
+    transition: all 0.3s ease-in-out;
+}
+
 .secondary-btn:hover {
     background: rgba(235, 235, 235, 1);
+}
+
+.tertiary-btn:hover {
+    color: #002e67;
 }
 
 .secondary-btn:any-link {
