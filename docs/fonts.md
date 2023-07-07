@@ -1,10 +1,10 @@
 # Fonts
 
-This is an image
+This is an image.
 
 ![xxx](./img/fiware.png)
 
-This is an url
+This is a URL.
 
 [xxx](http://...xxxxxc)
 
