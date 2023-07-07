@@ -1,6 +1,3 @@
-# FIWARE Foundation Logo
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
 <div class="main-container">
     <h4>Color</h4>
     <div class="logo-container"><img src="./img/logo/fiware-foundation/logo-fiware-foundation.svg" alt="Main Logo" onContextMenu="return false;"></div>
@@ -78,12 +75,12 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
                 <div class="grid-item">
                     <h4>Digital</h4>
                     <img id="logo-fiware-foundation-min-width" class="logo-container no-attributes" src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                    <p>75px</p>
+                    <p>100px</p>
                 </div>
                 <div class="grid-item">
                     <h4>Print</h4>
                     <img id="logo-fiware-foundation-min-width" class="logo-container no-attributes" src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                    <p>20mm</p>
+                    <p>25mm</p>
                 </div>
             </div>
         </div>
