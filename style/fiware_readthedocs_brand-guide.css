@@ -11,10 +11,33 @@
     pointer-events: none;
 } */
 
+/* Read the Docs Settings */
+
+div[role="navigation"] .wy-breadcrumbs {
+    display: none;
+}
+
+div[role="navigation"] hr {
+    display: none;
+}
+
+.wy-nav-content {
+    padding: 2.9em 3.236em;
+}
+
+
 /* Typography */
 
 a {
     text-decoration: none !important;
+}
+
+p {
+    padding-bottom: 0;
+}
+
+h1 {
+    margin-top: 0 !important;
 }
 
 h2 {
@@ -64,7 +87,7 @@ h6 {
 .main-container {
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 10px;
     margin: 30px 0;
 }
 
