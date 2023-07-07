@@ -247,7 +247,7 @@ input[type=submit].dwl {
 
 input[type=submit].dwl:hover {
     background-color: rgba(0, 46, 103, 1);
-    color: #fff;
+    color: #fff!important;
 }
 
 form {
