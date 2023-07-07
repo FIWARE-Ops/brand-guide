@@ -1,3 +1,7 @@
+<h1>FIWARE Foundation Logo</h1>
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+
 <div class="main-container">
     <h4>Color</h4>
     <div class="logo-container"><img src="./img/logo/fiware-foundation/logo-fiware-foundation.svg" alt="Main Logo" onContextMenu="return false;"></div>
