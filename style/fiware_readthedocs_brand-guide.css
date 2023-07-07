@@ -173,7 +173,7 @@ h6 {
 }
 
 .logo-full {
-    padding: 20px 12px;
+    padding: 15% 9%;
 }
 
 .dont-01 {
@@ -207,16 +207,20 @@ h6 {
 /* Default Components */
 
 input[type=submit].dwl {
-    -webkit-appearance: none;
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
     border: none;
     background: none;
     font-family: 'Material Symbols Outlined';
     font-weight: 400;
     font-size: 24px;
+    color: #000 !important;
     background-color: rgba(235, 235, 235, 1);
     border-radius: 20px;
     width: 36px;
     height: 36px;
+    padding: 0;
     transition: all 0.3s ease-in-out;
 }
 
@@ -233,6 +237,9 @@ form {
 }
 
 select {
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
     width: 75px;
     height: 36px;
     padding: 10px;
@@ -240,11 +247,11 @@ select {
     font-size: 15px;
     line-height: 1;
     font-weight: 500;
+    color: #000 !important;
     border: 1px solid #ccc;
     border-radius: 4px;
     box-shadow: none;
     background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right rgba(255, 255, 255, 0);
-    -webkit-appearance: none;
     background-position-x: 48px;
 }
 
@@ -344,6 +351,20 @@ select {
     .col-4 {
         width: 100%;
     }
+
+    .logo-full {
+        padding: 15%;
+    }
+
+
+    /* Default Components */
+
+    form {
+        gap: 10px;
+    }
+
+
+    /* CTA */
 
     .cta-container {
         width: fit-content;
