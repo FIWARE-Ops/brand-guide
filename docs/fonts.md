@@ -10,9 +10,7 @@ This is an url
 
 ## Primary Fonts
 
-
 <p><a href="https://www.youtube.com/watch?v=gED5mAtBtYg"><img style="padding-left:50px;" src="./img/fiware.png"></a></p>
-
 
 ## Secondary Fonts
 
