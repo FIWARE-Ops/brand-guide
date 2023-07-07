@@ -7,9 +7,9 @@
     user-select: none;
 } */
 
-img {
+/* img {
     pointer-events: none;
-}
+} */
 
 /* Typography */
 
@@ -107,6 +107,12 @@ h6 {
     margin: 0.45em 0 !important;
 }
 
+#logo-fiware-full-min-width {
+    width: 145px;
+    max-width: 145px;
+    margin: 0.45em 0 !important;
+}
+
 .col-2 {
     width: 50%;
     display: flex;
@@ -164,6 +170,10 @@ h6 {
 .negative {
     background-color: #000;
     border: 1px solid rgba(255, 255, 255, 0);
+}
+
+.logo-full {
+    padding: 20px 12px;
 }
 
 .dont-01 {
