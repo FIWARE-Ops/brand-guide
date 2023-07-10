@@ -11,6 +11,10 @@
     pointer-events: none;
 } */
 
+.injected {
+    display: none;
+}
+
 /* Read the Docs Settings */
 
 div[role="navigation"] .wy-breadcrumbs {
@@ -66,7 +70,7 @@ h6 {
 }
 
 .title-section {
-    padding-bottom: 10px!important;
+    padding-bottom: 10px !important;
 }
 
 /* –––––––––– */
@@ -192,7 +196,7 @@ h6 {
     gap: 10px;
 }
 
- .col-4 .logo-container {
+.col-4 .logo-container {
     min-height: 100px;
 }
 
@@ -456,7 +460,8 @@ select {
     }
 
 
-    .padding-s, .square {
+    .padding-s,
+    .square {
         padding: 10%;
         max-height: 185px;
     }
