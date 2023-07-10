@@ -20,7 +20,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 <div class="grid">
     <div class="col-3">
         <h4>Black</h4>
-        <img class="logo-container" src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;">
+        <div class="logo-container"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
         <div class="dwl-container">
             <form onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
@@ -35,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     </div>
     <div class="col-3">
         <h4>White</h4>
-        <img class="logo-container negative" src="./img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo White" onContextMenu="return false;">
+        <div class="logo-container negative"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo White" onContextMenu="return false;"></div>
         <div class="dwl-container">
             <form onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
@@ -50,7 +50,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     </div>
     <div class="col-3">
         <h4>Monochrome</h4>
-        <img class="logo-container" src="./img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
+        <div  class="logo-container"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
         <div class="dwl-container">
             <form onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
@@ -70,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     <div class="container">
         <div class="col-2">
             <h3>Clear Space</h3>
-            <img class="logo-container no-attributes" src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-clear-zone.svg" alt="Main Logo Black" onContextMenu="return false;">
+            <div class="logo-container no-attributes"><img src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-clear-zone.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
             <p>All versions of our logo have exclusion zones around them to help them stand out. The exclusion zone is equal to the height of letter A.</p>
         </div>
         <div class="col-2">
@@ -78,12 +78,12 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             <div class="grid wrap">
                 <div class="grid-item foundation">
                     <h4>Digital</h4>
-                    <img id="logo-fiware-foundation-min-width" class="logo-container no-attributes" src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    <div  id="logo-fiware-foundation-min-width" class="logo-container no-attributes"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                     <p>100px</p>
                 </div>
                 <div class="grid-item foundation">
                     <h4>Print</h4>
-                    <img id="logo-fiware-foundation-min-width" class="logo-container no-attributes" src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    <div id="logo-fiware-foundation-min-width" class="logo-container no-attributes"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                     <p>25mm</p>
                 </div>
             </div>
@@ -94,17 +94,17 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="grid wrap">
             <div class="col-3">
                 <h4>01</h4>
-                <img class="logo-container" src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-1.svg" alt="Main Logo White" onContextMenu="return false;">
+                <div  class="logo-container"><img src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-1.svg" alt="Main Logo White" onContextMenu="return false;"></div>
                 <p>Don’t recolour the logo in any way, unless the primary colour.</p>
             </div>
             <div class="col-3">
                 <h4>02</h4>
-                <img class="logo-container" src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-2.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
+                <div  class="logo-container"><img src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-2.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
                 <p>Don’t recreate, add effects or change the colours of our logos. Don’t tilt or angle the logo in any way.</p>
             </div>
             <div class="col-3">
                 <h4>03</h4>
-                <img class="logo-container" src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
+                <div  class="logo-container"><img src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
                 <p>Don’t stack the logo, or reconfigure it in any way.</p>
             </div>
         </div>
