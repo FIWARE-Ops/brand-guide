@@ -72,7 +72,7 @@ h6 {
     flex-direction: row;
     align-items: flex-start;
     gap: 30px;
-    margin: 0 0 15px;
+    margin: 0;
 }
 
 .cover-container {
@@ -94,8 +94,26 @@ h6 {
 .logo-usage-container {
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 30px;
     margin: 60px 0 30px;
+}
+
+.section-container {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.module-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.title-container {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
 }
 
 .logo-container {
@@ -224,6 +242,36 @@ h6 {
 
 .dont-01 {
     background-color: #9b6cc3;
+    border: 1px solid rgba(255, 255, 255, 0);
+}
+
+.primary-col {
+    background-color: #002e67;
+    border: 1px solid rgba(255, 255, 255, 0);
+}
+
+.secondary-col {
+    background-color: #5DC0CF;
+    border: 1px solid rgba(255, 255, 255, 0);
+}
+
+.gray-col {
+    background-color: #b1b2b4;
+    border: 1px solid rgba(255, 255, 255, 0);
+}
+
+.background-01 {
+    background-color: #e5f5f7;
+    border: 1px solid rgba(255, 255, 255, 0);
+}
+
+.background-02 {
+    background-color: #f4fbfc;
+    border: 1px solid rgba(255, 255, 255, 0);
+}
+
+.background-03 {
+    background-color: #f5f5f5;
     border: 1px solid rgba(255, 255, 255, 0);
 }
 

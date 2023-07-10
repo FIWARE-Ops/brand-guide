@@ -93,27 +93,86 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </div>
         </div>
     </div>
-    <h3>Dont’s</h3>
-    <div class="grid wrap">
-        <div class="col-4">
-            <h4>01</h4>
-            <img class="logo-container dont-01" src="./img/logo/fiware/primary/usage/logo-fiware-dont-1.svg" alt="Main Logo Black" onContextMenu="return false;">
-            <p>Don't use the white version on any other colour unless the primary and secondary.</p>
+    <div class="section-container">
+        <h3>On Backgrounds</h3>
+        <div class="module-container">
+            <div class="title-container">
+                <h4>Color</h4>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>
+            </div>
+            <div class="grid">
+                <div class="col-4">
+                    <img class="logo-container background-01" src="./img/logo/fiware/primary/logo-fiware.svg" alt="Main Logo Black" onContextMenu="return false;">
+                </div>
+                <div class="col-4">
+                    <img class="logo-container background-02" src="./img/logo/fiware/primary/logo-fiware.svg" alt="Main Logo Black" onContextMenu="return false;">
+                </div>
+                <div class="col-4">
+                    <img class="logo-container background-03" src="./img/logo/fiware/primary/logo-fiware.svg" alt="Main Logo Black" onContextMenu="return false;">
+                </div>
+            </div>
         </div>
-        <div class="col-4">
-            <h4>02</h4>
-            <img class="logo-container" src="./img/logo/fiware/primary/usage/logo-fiware-dont-2.svg" alt="Main Logo White" onContextMenu="return false;">
-            <p>Don’t recolour the logo in any way, unless the primary colour.</p>
+        <div class="module-container">
+            <div class="title-container">
+                <h4>Black</h4>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>
+            </div>
+            <div class="grid">
+                <div class="col-4">
+                    <img class="logo-container gray-col" src="./img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
+                </div>
+            </div>
         </div>
-        <div class="col-4">
-            <h4>03</h4>
-            <img class="logo-container" src="./img/logo/fiware/primary/usage/logo-fiware-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-            <p>Don’t recreate, add effects or change the colours of our logos. Don’t tilt or angle the logo in any way.</p>
+        <div class="module-container">
+            <div class="title-container">
+                <h4>White</h4>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>
+            </div>
+            <div class="grid">
+                <div class="col-4">
+                    <img class="logo-container primary-col" src="./img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;">
+                </div>
+                <div class="col-4">
+                    <img class="logo-container secondary-col" src="./img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;">
+                </div>
+                <div class="col-4">
+                    <img class="logo-container negative" src="./img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;">
+                </div>
+                <div class="col-4">
+                    <img class="logo-container gray-col" src="./img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;">
+                </div>
+            </div>
         </div>
-        <div class="col-4">
-            <h4>04</h4>
-            <img class="logo-container" src="./img/logo/fiware/primary/usage/logo-fiware-dont-4.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-            <p>Don’t stack the logo, or reconfigure it in any way.</p>
+        <div class="module-container">
+            <div class="title-container">
+                <h4>Monochrome</h4>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>
+            </div>
+            <div class="grid">
+                <div class="col-4">
+                    <img class="logo-container secondary-col" src="./img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="module-container">
+        <h3>Dont’s</h3>
+        <div class="grid wrap">
+            <div class="col-3">
+                <h4>01</h4>
+                <img class="logo-container" src="./img/logo/fiware/primary/usage/logo-fiware-dont-2.svg" alt="Main Logo White" onContextMenu="return false;">
+                    <p>Don’t recolour the logo in any way, unless the primary colour.</p>
+            </div>
+            <div class="col-3">
+                <h4>02</h4>
+                <img class="logo-container" src="./img/logo/fiware/primary/usage/logo-fiware-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
+                <p>Don’t recreate, add effects or change the colours of our logos. Don’t tilt or angle the logo in any way.</p>
+            </div>
+            <div class="col-3">
+                <h4>03</h4>
+                <img class="logo-container" src="./img/logo/fiware/primary/usage/logo-fiware-dont-4.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
+                <p>Don’t stack the logo, or reconfigure it in any way.</p>
+            </div>
         </div>
     </div>
 </div>
