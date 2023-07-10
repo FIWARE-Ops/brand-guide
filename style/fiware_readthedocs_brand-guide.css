@@ -186,6 +186,7 @@ h6 {
 
 .grid-item {
     width: 50%;
+    /* min-height: 152px; */
     border: 1px solid #ccc;
     border-radius: 4px;
     padding: 20px;
@@ -230,6 +231,7 @@ h6 {
     padding: 0;
     border: none;
     border-radius: 0;
+    min-height: auto;
 }
 
 .wrap {

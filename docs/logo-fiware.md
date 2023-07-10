@@ -256,7 +256,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 <div class="grid">
     <div class="col-3">
         <h4>Black</h4>
-        <img class="logo-container padding-m" src="./img/logo/fiware/secondary/logo-fiware-secondary-black.svg" alt="Main Logo Black" onContextMenu="return false;">
+        <img class="logo-container square" src="./img/logo/fiware/secondary/logo-fiware-secondary-black.svg" alt="Main Logo Black" onContextMenu="return false;">
         <div class="dwl-container">
             <form onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
@@ -271,7 +271,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     </div>
     <div class="col-3">
         <h4>White</h4>
-        <img class="logo-container negative padding-m" src="./img/logo/fiware/secondary/logo-fiware-secondary-white.svg" alt="Main Logo White" onContextMenu="return false;">
+        <img class="logo-container negative square" src="./img/logo/fiware/secondary/logo-fiware-secondary-white.svg" alt="Main Logo White" onContextMenu="return false;">
         <div class="dwl-container">
             <form onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
@@ -286,7 +286,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     </div>
     <div class="col-3">
         <h4>Monochrome</h4>
-        <img class="logo-container padding-m" src="./img/logo/fiware/secondary/logo-fiware-secondary-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
+        <img class="logo-container square" src="./img/logo/fiware/secondary/logo-fiware-secondary-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
         <div class="dwl-container">
             <form onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
