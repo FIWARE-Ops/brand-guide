@@ -18,7 +18,7 @@ nav:
     - 'FIWARE': 'logo-fiware.md' 
     - 'FIWARE Foundation': 'logo-foundation.md'
     - 'FIWARE Ecosystem': 'logo-ecosystem.md'
-    - 'FIWARE Components': 'logo-components.md'
+    - 'FIWARE Badges': 'logo-badges.md'
   - 'Resources': 
     - 'Fonts': 'fonts.md' 
     - 'Colors': 'colors.md'
