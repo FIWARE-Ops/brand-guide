@@ -123,7 +123,7 @@ h6 {
 .logo-container {
     width: 100%;
     max-height: 355px;
-    min-height: 100px;
+    min-height: 132px;
     border: 1px solid #ccc;
     border-radius: 4px;
     display: flex;
@@ -192,9 +192,14 @@ h6 {
     gap: 10px;
 }
 
+ .col-4 .logo-container {
+    min-height: 100px;
+}
+
 .col-2 p,
 .col-3 p,
-.col-4 p {
+.col-4 p,
+.title-container p {
     font-size: 14px;
     line-height: 1.4em;
     padding: 0;
@@ -208,7 +213,6 @@ h6 {
 
 .grid-item {
     width: 50%;
-    /* min-height: 152px; */
     border: 1px solid #ccc;
     border-radius: 4px;
     padding: 20px;
@@ -242,11 +246,6 @@ h6 {
 
 .logo-full {
     padding: 15% 9%;
-}
-
-.dont-01 {
-    background-color: #9b6cc3;
-    border: 1px solid rgba(255, 255, 255, 0);
 }
 
 .primary-col {
@@ -297,6 +296,10 @@ h6 {
 
 .gutter-s {
     margin-bottom: 20px !important;
+}
+
+.foundation {
+    min-height: 152px;
 }
 
 .rst-content img {

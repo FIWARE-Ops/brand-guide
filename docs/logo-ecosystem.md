@@ -54,7 +54,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     </div>
 </div>
 
-<!-- <div class="logo-usage-container"> -->
 
 ## FIWARE Global Summit
 
@@ -123,54 +122,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     </div>
 </div>
 
-<!-- <div class="logo-usage-container">
-    <div class="logo-usage">Logo Usage</div>
-    <div class="container">
-        <div class="col-2">
-            <h3>Clear Space</h3>
-            <img class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-clear-zone.svg" alt="Main Logo Black" onContextMenu="return false;">
-            <p>All versions of our logo have exclusion zones around them to help them stand out. The exclusion zone is equal to the height of letter A.</p>
-        </div>
-        <div class="col-2">
-            <h3>Minimum Sizes</h3>
-            <div class="grid wrap">
-                <div class="grid-item">
-                    <h4>Digital</h4>
-                    <img id="logo-fiware-min-width" class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                    <p>75px</p>
-                </div>
-                <div class="grid-item">
-                    <h4>Print</h4>
-                    <img id="logo-fiware-min-width" class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                    <p>20mm</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <h3>Dont’s</h3>
-    <div class="grid wrap">
-        <div class="col-4">
-            <h4>01</h4>
-            <img class="logo-container dont-01" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-1.svg" alt="Main Logo Black" onContextMenu="return false;">
-            <p>Don't use the white version on any other colour unless the primary and secondary.</p>
-        </div>
-        <div class="col-4">
-            <h4>02</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-2.svg" alt="Main Logo White" onContextMenu="return false;">
-            <p>Don’t recolour the logo in any way, unless the primary colour.</p>
-        </div>
-        <div class="col-4">
-            <h4>03</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-            <p>Don’t recreate, add effects or change the colours of our logos. Don’t tilt or angle the logo in any way.</p>
-        </div>
-        <div class="col-4">
-            <h4>04</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-4.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-            <p>Don’t stack the logo, or reconfigure it in any way.</p>
-        </div>
-    </div>
-</div> -->
 
 ## FIWARE iHubs
 
@@ -239,54 +190,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     </div>
 </div>
 
-<!-- <div class="logo-usage-container">
-    <div class="logo-usage">Logo Usage</div>
-    <div class="container">
-        <div class="col-2">
-            <h3>Clear Space</h3>
-            <img class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-clear-zone.svg" alt="Main Logo Black" onContextMenu="return false;">
-            <p>All versions of our logo have exclusion zones around them to help them stand out. The exclusion zone is equal to the height of letter A.</p>
-        </div>
-        <div class="col-2">
-            <h3>Minimum Sizes</h3>
-            <div class="grid wrap">
-                <div class="grid-item">
-                    <h4>Digital</h4>
-                    <img id="logo-fiware-min-width" class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                    <p>75px</p>
-                </div>
-                <div class="grid-item">
-                    <h4>Print</h4>
-                    <img id="logo-fiware-min-width" class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                    <p>20mm</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <h3>Dont’s</h3>
-    <div class="grid wrap">
-        <div class="col-4">
-            <h4>01</h4>
-            <img class="logo-container dont-01" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-1.svg" alt="Main Logo Black" onContextMenu="return false;">
-            <p>Don't use the white version on any other colour unless the primary and secondary.</p>
-        </div>
-        <div class="col-4">
-            <h4>02</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-2.svg" alt="Main Logo White" onContextMenu="return false;">
-            <p>Don’t recolour the logo in any way, unless the primary colour.</p>
-        </div>
-        <div class="col-4">
-            <h4>03</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-            <p>Don’t recreate, add effects or change the colours of our logos. Don’t tilt or angle the logo in any way.</p>
-        </div>
-        <div class="col-4">
-            <h4>04</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-4.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-            <p>Don’t stack the logo, or reconfigure it in any way.</p>
-        </div>
-    </div>
-</div> -->
 
 ## FIWARE Impact Stories
 
@@ -340,54 +243,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     </div>
 </div>
 
-<!-- <div class="logo-usage-container">
-    <div class="logo-usage">Logo Usage</div>
-    <div class="container">
-        <div class="col-2">
-            <h3>Clear Space</h3>
-            <img class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-clear-zone.svg" alt="Main Logo Black" onContextMenu="return false;">
-            <p>All versions of our logo have exclusion zones around them to help them stand out. The exclusion zone is equal to the height of letter A.</p>
-        </div>
-        <div class="col-2">
-            <h3>Minimum Sizes</h3>
-            <div class="grid wrap">
-                <div class="grid-item">
-                    <h4>Digital</h4>
-                    <img id="logo-fiware-min-width" class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                    <p>75px</p>
-                </div>
-                <div class="grid-item">
-                    <h4>Print</h4>
-                    <img id="logo-fiware-min-width" class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                    <p>20mm</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <h3>Dont’s</h3>
-    <div class="grid wrap">
-        <div class="col-4">
-            <h4>01</h4>
-            <img class="logo-container dont-01" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-1.svg" alt="Main Logo Black" onContextMenu="return false;">
-            <p>Don't use the white version on any other colour unless the primary and secondary.</p>
-        </div>
-        <div class="col-4">
-            <h4>02</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-2.svg" alt="Main Logo White" onContextMenu="return false;">
-            <p>Don’t recolour the logo in any way, unless the primary colour.</p>
-        </div>
-        <div class="col-4">
-            <h4>03</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-            <p>Don’t recreate, add effects or change the colours of our logos. Don’t tilt or angle the logo in any way.</p>
-        </div>
-        <div class="col-4">
-            <h4>04</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-4.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-            <p>Don’t stack the logo, or reconfigure it in any way.</p>
-        </div>
-    </div>
-</div> -->
 
 ## FIWARE Lab
 
@@ -456,54 +311,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     </div>
 </div>
 
-<!-- <div class="logo-usage-container">
-    <div class="logo-usage">Logo Usage</div>
-    <div class="container">
-        <div class="col-2">
-            <h3>Clear Space</h3>
-            <img class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-clear-zone.svg" alt="Main Logo Black" onContextMenu="return false;">
-            <p>All versions of our logo have exclusion zones around them to help them stand out. The exclusion zone is equal to the height of letter A.</p>
-        </div>
-        <div class="col-2">
-            <h3>Minimum Sizes</h3>
-            <div class="grid wrap">
-                <div class="grid-item">
-                    <h4>Digital</h4>
-                    <img id="logo-fiware-min-width" class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                    <p>75px</p>
-                </div>
-                <div class="grid-item">
-                    <h4>Print</h4>
-                    <img id="logo-fiware-min-width" class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                    <p>20mm</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <h3>Dont’s</h3>
-    <div class="grid wrap">
-        <div class="col-4">
-            <h4>01</h4>
-            <img class="logo-container dont-01" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-1.svg" alt="Main Logo Black" onContextMenu="return false;">
-            <p>Don't use the white version on any other colour unless the primary and secondary.</p>
-        </div>
-        <div class="col-4">
-            <h4>02</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-2.svg" alt="Main Logo White" onContextMenu="return false;">
-            <p>Don’t recolour the logo in any way, unless the primary colour.</p>
-        </div>
-        <div class="col-4">
-            <h4>03</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-            <p>Don’t recreate, add effects or change the colours of our logos. Don’t tilt or angle the logo in any way.</p>
-        </div>
-        <div class="col-4">
-            <h4>04</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-4.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-            <p>Don’t stack the logo, or reconfigure it in any way.</p>
-        </div>
-    </div>
-</div> -->
 
 ## FIWARE Marketplace
 
@@ -572,54 +379,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     </div>
 </div>
 
-<!-- <div class="logo-usage-container">
-    <div class="logo-usage">Logo Usage</div>
-    <div class="container">
-        <div class="col-2">
-            <h3>Clear Space</h3>
-            <img class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-clear-zone.svg" alt="Main Logo Black" onContextMenu="return false;">
-            <p>All versions of our logo have exclusion zones around them to help them stand out. The exclusion zone is equal to the height of letter A.</p>
-        </div>
-        <div class="col-2">
-            <h3>Minimum Sizes</h3>
-            <div class="grid wrap">
-                <div class="grid-item">
-                    <h4>Digital</h4>
-                    <img id="logo-fiware-min-width" class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                    <p>75px</p>
-                </div>
-                <div class="grid-item">
-                    <h4>Print</h4>
-                    <img id="logo-fiware-min-width" class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                    <p>20mm</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <h3>Dont’s</h3>
-    <div class="grid wrap">
-        <div class="col-4">
-            <h4>01</h4>
-            <img class="logo-container dont-01" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-1.svg" alt="Main Logo Black" onContextMenu="return false;">
-            <p>Don't use the white version on any other colour unless the primary and secondary.</p>
-        </div>
-        <div class="col-4">
-            <h4>02</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-2.svg" alt="Main Logo White" onContextMenu="return false;">
-            <p>Don’t recolour the logo in any way, unless the primary colour.</p>
-        </div>
-        <div class="col-4">
-            <h4>03</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-            <p>Don’t recreate, add effects or change the colours of our logos. Don’t tilt or angle the logo in any way.</p>
-        </div>
-        <div class="col-4">
-            <h4>04</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-4.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-            <p>Don’t stack the logo, or reconfigure it in any way.</p>
-        </div>
-    </div>
-</div> -->
 
 ## FISAB
 
@@ -687,52 +446,3 @@ FIWARE Scientific Advisory Board lorem ipsum dolor sit amet, consectetuer adipis
         </div>
     </div>
 </div>
-
-<!-- <div class="logo-usage-container">
-    <div class="logo-usage">Logo Usage</div>
-    <div class="container">
-        <div class="col-2">
-            <h3>Clear Space</h3>
-            <img class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-clear-zone.svg" alt="Main Logo Black" onContextMenu="return false;">
-            <p>All versions of our logo have exclusion zones around them to help them stand out. The exclusion zone is equal to the height of letter A.</p>
-        </div>
-        <div class="col-2">
-            <h3>Minimum Sizes</h3>
-            <div class="grid wrap">
-                <div class="grid-item">
-                    <h4>Digital</h4>
-                    <img id="logo-fiware-min-width" class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                    <p>75px</p>
-                </div>
-                <div class="grid-item">
-                    <h4>Print</h4>
-                    <img id="logo-fiware-min-width" class="logo-container no-attributes" src="./img/logo/ecosystem/ihubs/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                    <p>20mm</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <h3>Dont’s</h3>
-    <div class="grid wrap">
-        <div class="col-4">
-            <h4>01</h4>
-            <img class="logo-container dont-01" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-1.svg" alt="Main Logo Black" onContextMenu="return false;">
-            <p>Don't use the white version on any other colour unless the primary and secondary.</p>
-        </div>
-        <div class="col-4">
-            <h4>02</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-2.svg" alt="Main Logo White" onContextMenu="return false;">
-            <p>Don’t recolour the logo in any way, unless the primary colour.</p>
-        </div>
-        <div class="col-4">
-            <h4>03</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-            <p>Don’t recreate, add effects or change the colours of our logos. Don’t tilt or angle the logo in any way.</p>
-        </div>
-        <div class="col-4">
-            <h4>04</h4>
-            <img class="logo-container" src="./img/logo/ecosystem/ihubs/usage/logo-fiware-dont-4.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-            <p>Don’t stack the logo, or reconfigure it in any way.</p>
-        </div>
-    </div>
-</div> -->
