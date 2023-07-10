@@ -94,17 +94,17 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="grid wrap">
             <div class="col-3">
                 <h4>01</h4>
-                <img class="logo-container" src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-2.svg" alt="Main Logo White" onContextMenu="return false;">
+                <img class="logo-container" src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-1.svg" alt="Main Logo White" onContextMenu="return false;">
                 <p>Don’t recolour the logo in any way, unless the primary colour.</p>
             </div>
             <div class="col-3">
                 <h4>02</h4>
-                <img class="logo-container" src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
+                <img class="logo-container" src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-2.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
                 <p>Don’t recreate, add effects or change the colours of our logos. Don’t tilt or angle the logo in any way.</p>
             </div>
             <div class="col-3">
                 <h4>03</h4>
-                <img class="logo-container" src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-4.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
+                <img class="logo-container" src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
                 <p>Don’t stack the logo, or reconfigure it in any way.</p>
             </div>
         </div>
