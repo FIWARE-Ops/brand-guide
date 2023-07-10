@@ -184,7 +184,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             <div class="col-3">
                 <h4>02</h4>
                 <div class="logo-container"><img src="./img/logo/fiware/primary/usage/logo-fiware-dont-2.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
-                <p>Don’t recreate, add effects or change the colours of our logos. Don’t tilt or angle the logo in any way.</p>
+                <p>Don’t add effects, tilt or angle the logo in any way.</p>
             </div>
             <div class="col-3">
                 <h4>03</h4>
@@ -297,7 +297,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             <div class="col-3">
                 <h4>02</h4>
                 <div class="logo-container logo-full"><img src="./img/logo/fiware/full/usage/logo-fiware-full-dont-2.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
-                <p>Don’t recreate, add effects or change the colours of our logos. Don’t tilt or angle the logo in any way.</p>
+                <p>Don’t add effects, tilt or angle the logo in any way.</p>
             </div>
             <div class="col-3">
                 <h4>03</h4>
@@ -410,7 +410,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             <div class="col-3">
                 <h4>02</h4>
                 <div  class="logo-container square"><img src="./img/logo/fiware/secondary/usage/logo-fiware-secondary-dont-2.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
-                <p>Don’t recreate, add effects or change the colours of our logos. Don’t tilt or angle the logo in any way.</p>
+                <p>Don’t add effects, tilt or angle the logo in any way.</p>
             </div>
             <div class="col-3">
                 <h4>03</h4>
