@@ -1,6 +1,6 @@
 <div class="cover-container"><img style="margin:0px" src="https://www.fiware.org/style/imgs/FIWARE_MainVisual.svg" alt="FIWARE Cover"></div>
 
-# the FIWARE Brand Guide
+<h1>The FIWARE Brand Guide</h1>
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis
 natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque
