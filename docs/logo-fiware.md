@@ -119,7 +119,16 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </div>
             <div class="grid">
                 <div class="col-4">
-                    <div class="logo-container gray-col"><img src="./img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container secondary-col"><img src="./img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                </div>
+                <div class="col-4">
+                    <div class="logo-container background-01"><img src="./img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                </div>
+                <div class="col-4">
+                    <div class="logo-container background-02"><img src="./img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                </div>
+                <div class="col-4">
+                    <div class="logo-container background-03"><img src="./img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
             </div>
         </div>
@@ -151,6 +160,15 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             <div class="grid">
                 <div class="col-4">
                     <div class="logo-container secondary-col"><img src="./img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                </div>
+                <div class="col-4">
+                    <div class="logo-container background-01"><img src="./img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                </div>
+                <div class="col-4">
+                    <div class="logo-container background-02"><img src="./img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                </div>
+                <div class="col-4">
+                    <div class="logo-container background-03"><img src="./img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
             </div>
         </div>
