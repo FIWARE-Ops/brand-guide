@@ -94,9 +94,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         </div>
     </div>
     <div class="section-container">
-        <h3>On Backgrounds</h3>
         <div class="module-container">
             <div class="title-container">
+                <h3 class="title-section">On Backgrounds</h3>
                 <h4>Color</h4>
                 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>
             </div>
