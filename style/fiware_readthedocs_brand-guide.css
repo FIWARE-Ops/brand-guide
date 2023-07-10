@@ -270,7 +270,7 @@ input[type=submit].dwl {
 
 input[type=submit].dwl:hover {
     background-color: rgba(0, 46, 103, 1);
-    color: #fff!important;
+    color: #fff !important;
 }
 
 form {
@@ -394,6 +394,12 @@ select {
 
     .col-4 {
         width: 100%;
+    }
+
+
+    .padding-s, .padding-m {
+        padding: 10%;
+        max-height: 185px;
     }
 
     .logo-full {
