@@ -10,9 +10,11 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <h3>Core Context Management</h3>
     <div class="badges-container">
         <div class="badge-container">
-            <a href="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/core.svg"><img class="badge" src="./img/badges/catalogue/01/core.svg" alt="FIWARE Core" onContextMenu="return false;"></a>
-            <div id="copy-button"></div>
+            <img class="badge" src="./img/badges/catalogue/01/core.svg" alt="FIWARE Core" onContextMenu="return false;">
             <div class="dwl-container">
+                <div class="copylink-container">
+                <a onclick="navigator.clipboard.writeText(window.location.href);this.insertAdjacentHTML('afterend', '<div class=linktooltips-container>Link copied</div>');setTimeout(() => { document.querySelectorAll('.linktooltips-container').forEach(el => el.remove()); }, 3000);" target="_blank">Copy</a>
+                </div>
                 <form onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>

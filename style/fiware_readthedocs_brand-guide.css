@@ -77,6 +77,21 @@ div[role="navigation"] hr {
 }
 
 
+/* Copy Link */
+
+.copylink-container {
+    border: 1px solid var(--gray-400);
+}
+
+.linktooltips-container {
+       background-color: #030303;
+       color: #ffffff;
+       padding: 5px 30px;
+       border-radius: 10px;
+
+}
+
+
 /* Color Palette */
 
 .bg-primary-500 {
