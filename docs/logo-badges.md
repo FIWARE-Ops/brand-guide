@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="badge-container">
             <img class="badge" src="./img/badges/catalogue/01/core.svg" alt="FIWARE Core" onContextMenu="return false;">
             <div class="dwl-container">
-                <button class="clipboard" data-clipboard-text="This will be copied">Copy</button>
+                <button class="clipboard" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/core.svg"><span id="copy" class="material-symbols-outlined">content_copy</span></button>
                 <form onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
@@ -27,6 +27,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="badge-container">
             <img class="badge" src="./img/badges/catalogue/01/documentation.svg" alt="FIWARE Documentation" onContextMenu="return false;">
             <div class="dwl-container">
+                <button class="clipboard" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/documentation.svg"><span id="copy" class="material-symbols-outlined">content_copy</span></button>
                 <form onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
@@ -41,6 +42,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="badge-container">
             <img class="badge" src="./img/badges/catalogue/01/fundamentals.svg" alt="FIWARE Documentation" onContextMenu="return false;">
             <div class="dwl-container">
+                <button class="clipboard" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/fundamentals.svg"><span id="copy" class="material-symbols-outlined">content_copy</span></button>
                 <form onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
