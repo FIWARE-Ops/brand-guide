@@ -8,6 +8,35 @@
     --secondary-300: rgb(199, 233, 238);
     --secondary-200: rgb(229, 245, 247);
     --secondary-100: rgb(244, 251, 252);
+
+    --purple-500: rgb(155, 108, 195);
+    --purple-400: rgb(175, 137, 207);
+    --purple-300: rgb(195, 166, 219);
+    --purple-200: rgb(215, 196, 231);
+    --purple-100: rgb(235, 225, 243);
+
+    --green-500: rgb(21, 169, 124);
+    --green-400: rgb(67, 186, 150);
+    --green-300: rgb(114, 203, 176);
+    --green-200: rgb(161, 220, 202);
+    --green-100: rgb(231, 246, 241);
+
+    --gray-900: rgb(35, 35, 36);
+    --gray-800: rgb(70, 71, 72);
+    --gray-700: rgb(106, 106, 108);
+    --gray-600: rgb(141, 142, 144);
+    --gray-500: rgb(177, 178, 180);
+    --gray-400: rgb(207, 208, 209);
+    --gray-300: rgb(227, 227, 228);
+    --gray-200: rgb(237, 237, 238);
+    --gray-100: rgb(247, 247, 247);
+
+    --success-500: rgb(60, 171, 59);
+    --danger-500: rgb(238, 75, 43);
+    --danger-700: rgb(166, 52, 30);
+    --warning-500: rgb(243, 116, 13);
+    --info-500: rgb(244, 213, 37);
+    --stackoverflow: rgb(244, 130, 37);
 }
 
 
@@ -46,6 +75,145 @@ div[role="navigation"] hr {
 .wy-nav-content {
     padding: 2.9em 3.236em;
 }
+
+
+/* Color Palette */
+
+.bg-primary-500 {
+    background-color: var(--primary-500);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-primary-600 {
+    background-color: var(--primary-600);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-primary-700 {
+    background-color: var(--primary-700);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-secondary-500 {
+    background-color: var(--secondary-500);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-secondary-400 {
+    background-color: var(--secondary-400);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-secondary-300 {
+    background-color: var(--secondary-300);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-secondary-200 {
+    background-color: var(--secondary-200);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-secondary-100 {
+    background-color: var(--secondary-100);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-purple-500 {
+    background-color: var(--purple-500);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-purple-400 {
+    background-color: var(--purple-400);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-purple-300 {
+    background-color: var(--purple-300);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-purple-200 {
+    background-color: var(--purple-200);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-purple-100 {
+    background-color: var(--purple-100);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-green-500 {
+    background-color: var(--green-500);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-green-400 {
+    background-color: var(--green-400);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-green-300 {
+    background-color: var(--green-300);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-green-200 {
+    background-color: var(--green-200);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-green-100 {
+    background-color: var(--green-100);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-gray-900 {
+    background-color: var(--gray-900);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-gray-800 {
+    background-color: var(--gray-800);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-gray-700 {
+    background-color: var(--gray-700);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-gray-600 {
+    background-color: var(--gray-600);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-gray-500 {
+    background-color: var(--gray-500);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-gray-400 {
+    background-color: var(--gray-400);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-gray-300 {
+    background-color: var(--gray-300);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-gray-200 {
+    background-color: var(--gray-200);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
+.bg-gray-100 {
+    background-color: var(--gray-100);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
+}
+
 
 
 /* Typography */
@@ -102,7 +270,7 @@ h6 {
 }
 
 .cover-container {
-    background-color: #5DC0CF;
+    background-color: var(--secondary-500);
     border-radius: 4px;
     display: flex;
     justify-content: center;
@@ -146,7 +314,7 @@ h6 {
     width: 100%;
     max-height: 355px;
     min-height: 132px;
-    border: 1px solid #ccc;
+    border: 1px solid var(--gray-400);
     border-radius: 4px;
     display: flex;
     justify-content: center;
@@ -179,7 +347,7 @@ h6 {
 #logo-fiware-full-min-width {
     width: 100%;
     max-width: 145px;
-    margin: 0 !important;
+    margin: .28em 0 !important;
 }
 
 #logo-fiware-secondary-min-width {
@@ -235,7 +403,7 @@ h6 {
 
 .grid-item {
     width: 50%;
-    border: 1px solid #ccc;
+    border: 1px solid var(--gray-400);
     border-radius: 4px;
     padding: 20px;
     display: flex;
@@ -254,7 +422,7 @@ h6 {
 
 .negative {
     background-color: #000;
-    border: 1px solid rgba(255, 255, 255, 0);
+    border: 1px solid rgba(var(--gray-400, 0))!important;
 }
 
 .padding-s {
@@ -268,36 +436,6 @@ h6 {
 
 .logo-full {
     padding: 15% 9%;
-}
-
-.primary-col {
-    background-color: #002e67;
-    border: 1px solid rgba(255, 255, 255, 0);
-}
-
-.secondary-col {
-    background-color: #5DC0CF;
-    border: 1px solid rgba(255, 255, 255, 0);
-}
-
-.gray-col {
-    background-color: #b1b2b4;
-    border: 1px solid rgba(255, 255, 255, 0);
-}
-
-.background-01 {
-    background-color: #c7e9ee;
-    border: 1px solid rgba(255, 255, 255, 0);
-}
-
-.background-02 {
-    background-color: #e5f5f7;
-    border: 1px solid rgba(255, 255, 255, 0);
-}
-
-.background-03 {
-    background-color: #f4fbfc;
-    border: 1px solid rgba(255, 255, 255, 0);
 }
 
 .no-attributes {
@@ -374,7 +512,7 @@ select {
     line-height: 1;
     font-weight: 500;
     color: #000 !important;
-    border: 1px solid #ccc;
+    border: 1px solid var(--gray-400);
     border-radius: 4px;
     box-shadow: none;
     background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right rgba(255, 255, 255, 0);
