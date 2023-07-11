@@ -99,12 +99,11 @@
 <h2 id="fiware-catalogue">FIWARE Catalogue</h2>
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 <div class="section-container">
+        <h3>Core Context Management</h3>
     <div class="badges-container">
         <div class="badge-container">
-            <img class="badge" src="./img/badges/catalogue/01/core.svg" alt="FIWARE Core" onContextMenu="return false;">
-            <div>
-             <button class="clipboard">Click me to copy current Url</button>
-            </div>
+            <a href="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/core.svg"><img class="badge" src="./img/badges/catalogue/01/core.svg" alt="FIWARE Core" onContextMenu="return false;"></a>
+            <div id="copy-button"></div>
             <div class="dwl-container">
                 <form onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
@@ -119,6 +118,95 @@
         </div>
         <div class="badge-container">
             <img class="badge" src="./img/badges/catalogue/01/documentation.svg" alt="FIWARE Documentation" onContextMenu="return false;">
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
+        </div>
+        <div class="badge-container">
+            <img class="badge" src="./img/badges/catalogue/01/fundamentals.svg" alt="FIWARE Documentation" onContextMenu="return false;">
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section-container">
+        <h3>Interface with IoT, Robots and Third-Party Systems</h3>
+    <div class="badges-container">
+        <div class="badge-container">
+            <img class="badge" src="./img/badges/catalogue/02/iot-agents.svg" alt="FIWARE Core" onContextMenu="return false;">
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
+        </div>
+        <div class="badge-container">
+            <img class="badge" src="./img/badges/catalogue/02/media-streams.svg" alt="FIWARE Documentation" onContextMenu="return false;">
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
+        </div>
+        <div class="badge-container">
+            <img class="badge" src="./img/badges/catalogue/02/operations.svg" alt="FIWARE Documentation" onContextMenu="return false;">
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
+        </div>
+        <div class="badge-container">
+            <img class="badge" src="./img/badges/catalogue/02/robotics.svg" alt="FIWARE Documentation" onContextMenu="return false;">
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
+        </div>
+        <div class="badge-container">
+            <img class="badge" src="./img/badges/catalogue/02/third-party.svg" alt="FIWARE Documentation" onContextMenu="return false;">
             <div class="dwl-container">
                 <form onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
@@ -175,7 +263,8 @@
     <script>var base_url = '.';</script>
     <script src="js/theme_extra.js" defer></script>
     <script src="js/theme.js" defer></script>
-      <script src="https://gist.github.com/tommedema/c99079f90e49f5e545feb2a50d594f6e.js" defer></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.4/clipboard.min.js" defer></script>
+      <script src="https://www.fiware.org/custom/brand-guide/js/app_brand-guide.js" defer></script>
       <script src="search/main.js" defer></script>
     <script defer>
         window.onload = function () {
