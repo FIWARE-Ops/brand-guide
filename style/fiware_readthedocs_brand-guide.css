@@ -1,9 +1,7 @@
 :root {
     --primary-500: rgb(0, 46, 103);
-    --primary-600: rgb(0, 37, 83);
-    --primary-700: rgb(0, 28, 64);
-    --primary-800: rgb(0, 21, 46);
-    --primary-900: rgb(0, 2, 5);
+    --primary-600: rgb(0, 36, 82);
+    --primary-700: rgb(0, 27, 61);
 
     --secondary-500: rgb(93, 192, 207);
     --secondary-400: rgb(138, 210, 220);
