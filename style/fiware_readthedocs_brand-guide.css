@@ -81,137 +81,137 @@ div[role="navigation"] hr {
 
 .bg-primary-500 {
     background-color: var(--primary-500);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-primary-600 {
     background-color: var(--primary-600);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-primary-700 {
     background-color: var(--primary-700);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-secondary-500 {
     background-color: var(--secondary-500);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-secondary-400 {
     background-color: var(--secondary-400);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-secondary-300 {
     background-color: var(--secondary-300);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-secondary-200 {
     background-color: var(--secondary-200);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-secondary-100 {
     background-color: var(--secondary-100);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-purple-500 {
     background-color: var(--purple-500);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-purple-400 {
     background-color: var(--purple-400);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-purple-300 {
     background-color: var(--purple-300);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-purple-200 {
     background-color: var(--purple-200);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-purple-100 {
     background-color: var(--purple-100);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-green-500 {
     background-color: var(--green-500);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-green-400 {
     background-color: var(--green-400);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-green-300 {
     background-color: var(--green-300);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-green-200 {
     background-color: var(--green-200);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-green-100 {
     background-color: var(--green-100);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-gray-900 {
     background-color: var(--gray-900);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-gray-800 {
     background-color: var(--gray-800);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-gray-700 {
     background-color: var(--gray-700);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-gray-600 {
     background-color: var(--gray-600);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-gray-500 {
     background-color: var(--gray-500);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-gray-400 {
     background-color: var(--gray-400);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-gray-300 {
     background-color: var(--gray-300);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-gray-200 {
     background-color: var(--gray-200);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .bg-gray-100 {
     background-color: var(--gray-100);
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 
@@ -296,6 +296,7 @@ h6 {
     width: 100%;
     display: flex;
     flex-direction: row;
+    align-items: center;
     justify-content: space-between;
     padding-bottom: 15px;
     border-bottom: 1px solid var(--gray-400);
@@ -347,7 +348,7 @@ h6 {
 }
 
 .badge {
-    height: 32px!important;
+    height: 28px !important;
     border: 1px solid rgba(var(--gray-400, 0));
     margin: 0px !important;
 }
@@ -459,7 +460,7 @@ h6 {
 
 .negative {
     background-color: #000;
-    border: 1px solid rgba(var(--gray-400, 0))!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .padding-s {
@@ -672,6 +673,11 @@ select {
 
     .logo-full {
         padding: 15%;
+    }
+
+
+    .badge {
+        height: 24px !important;
     }
 
 
