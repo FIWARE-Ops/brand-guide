@@ -6,25 +6,12 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-<div class="main-container">
-    <h4>Color</h4>
-    <div class="logo-container"><img src="./img/logo/fiware/primary/logo-fiware.svg" alt="Main Logo" onContextMenu="return false;"></div>
-    <div class="dwl-container">
-        <form onsubmit="this.action = document.getElementById('filename').value">
-            <select id="filename">
-                <option value="#">JPG</option>
-                <option value="#">PNG</option>
-                <option value="#">SVG</option>
-                <option value="#">EPS</option>
-            </select>
-                <input type="submit" value="download" class="material-symbols-outlined dwl" />
-        </form>
-    </div>
-</div>
-<div class="grid">
-    <div class="col-3">
-        <h4>Monochrome</h4>
-       <div class="logo-container"><img src="./img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
+<div class="section-container">
+    <div class="main-container">
+        <div class="title-container">
+            <h4>Color</h4>
+        </div>
+        <div class="logo-container"><img src="./img/logo/fiware/primary/logo-fiware.svg" alt="Main Logo" onContextMenu="return false;"></div>
         <div class="dwl-container">
             <form onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
@@ -37,34 +24,51 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </form>
         </div>
     </div>
-    <div class="col-3">
-        <h4>Black</h4>
-        <div class="logo-container"><img src="./img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
-        <div class="dwl-container">
-            <form onsubmit="this.action = document.getElementById('filename').value">
-                <select id="filename">
-                    <option value="#">JPG</option>
-                    <option value="#">PNG</option>
-                    <option value="#">SVG</option>
-                    <option value="#">EPS</option>
-                </select>
-                    <input type="submit" value="download" class="material-symbols-outlined dwl" />
-            </form>
+    <div class="grid">
+        <div class="col-3">
+            <h4>Monochrome</h4>
+        <div class="logo-container"><img src="./img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
         </div>
-    </div>
-    <div class="col-3">
-        <h4>White</h4>
-        <div class="logo-container negative"><img src="./img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo White" onContextMenu="return false;"></div>
-        <div class="dwl-container">
-            <form onsubmit="this.action = document.getElementById('filename').value">
-                <select id="filename">
-                    <option value="#">JPG</option>
-                    <option value="#">PNG</option>
-                    <option value="#">SVG</option>
-                    <option value="#">EPS</option>
-                </select>
-                    <input type="submit" value="download" class="material-symbols-outlined dwl" />
-            </form>
+        <div class="col-3">
+            <h4>Black</h4>
+            <div class="logo-container"><img src="./img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
+        </div>
+        <div class="col-3">
+            <h4>White</h4>
+            <div class="logo-container negative"><img src="./img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo White" onContextMenu="return false;"></div>
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
         </div>
     </div>
 </div>
@@ -267,25 +271,12 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-<div class="main-container">
-    <h4>Color</h4>
-    <div class="logo-container"><img src="./img/logo/fiware/full/logo-fiware-full.svg" alt="Main Logo" onContextMenu="return false;"></div>
-    <div class="dwl-container">
-        <form onsubmit="this.action = document.getElementById('filename').value">
-            <select id="filename">
-                <option value="#">JPG</option>
-                <option value="#">PNG</option>
-                <option value="#">SVG</option>
-                <option value="#">EPS</option>
-            </select>
-                <input type="submit" value="download" class="material-symbols-outlined dwl" />
-        </form>
-    </div>
-</div>
-<div class="grid">
-    <div class="col-3">
-        <h4>Monochrome</h4>
-        <div  class="logo-container"><img src="./img/logo/fiware/full/logo-fiware-full-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
+<div class="section-container">
+    <div class="main-container">
+        <div class="title-container">
+            <h4>Color</h4>
+        </div>
+        <div class="logo-container"><img src="./img/logo/fiware/full/logo-fiware-full.svg" alt="Main Logo" onContextMenu="return false;"></div>
         <div class="dwl-container">
             <form onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
@@ -298,34 +289,51 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </form>
         </div>
     </div>
-    <div class="col-3">
-        <h4>Black</h4>
-        <div class="logo-container"><img src="./img/logo/fiware/full/logo-fiware-full-black.svg" alt="Main Logo Black"></div>
-        <div class="dwl-container">
-            <form onsubmit="this.action = document.getElementById('filename').value">
-                <select id="filename">
-                    <option value="#">JPG</option>
-                    <option value="#">PNG</option>
-                    <option value="#">SVG</option>
-                    <option value="#">EPS</option>
-                </select>
-                    <input type="submit" value="download" class="material-symbols-outlined dwl" />
-            </form>
+    <div class="grid">
+        <div class="col-3">
+            <h4>Monochrome</h4>
+            <div  class="logo-container"><img src="./img/logo/fiware/full/logo-fiware-full-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
         </div>
-    </div>
-    <div class="col-3">
-        <h4>White</h4>
-        <div class="logo-container negative"><img src="./img/logo/fiware/full/logo-fiware-full-white.svg" alt="Main Logo White" onContextMenu="return false;"></div>
-        <div class="dwl-container">
-            <form onsubmit="this.action = document.getElementById('filename').value">
-                <select id="filename">
-                    <option value="#">JPG</option>
-                    <option value="#">PNG</option>
-                    <option value="#">SVG</option>
-                    <option value="#">EPS</option>
-                </select>
-                    <input type="submit" value="download" class="material-symbols-outlined dwl" />
-            </form>
+        <div class="col-3">
+            <h4>Black</h4>
+            <div class="logo-container"><img src="./img/logo/fiware/full/logo-fiware-full-black.svg" alt="Main Logo Black"></div>
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
+        </div>
+        <div class="col-3">
+            <h4>White</h4>
+            <div class="logo-container negative"><img src="./img/logo/fiware/full/logo-fiware-full-white.svg" alt="Main Logo White" onContextMenu="return false;"></div>
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
         </div>
     </div>
 </div>
@@ -380,25 +388,12 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-<div class="main-container">
-    <h4>Color</h4>
-    <div class="logo-container padding-s"><img src="./img/logo/fiware/secondary/logo-fiware-secondary.svg" alt="Main Logo" onContextMenu="return false;"></div>
-    <div class="dwl-container">
-        <form onsubmit="this.action = document.getElementById('filename').value">
-            <select id="filename">
-                <option value="#">JPG</option>
-                <option value="#">PNG</option>
-                <option value="#">SVG</option>
-                <option value="#">EPS</option>
-            </select>
-                <input type="submit" value="download" class="material-symbols-outlined dwl" />
-        </form>
-    </div>
-</div>
-<div class="grid">
-    <div class="col-3">
-        <h4>Monochrome</h4>
-        <div  class="logo-container square"><img src="./img/logo/fiware/secondary/logo-fiware-secondary-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
+<div class="section-container">
+    <div class="main-container">
+        <div class="title-container">
+            <h4>Color</h4>
+        </div>
+        <div class="logo-container padding-s"><img src="./img/logo/fiware/secondary/logo-fiware-secondary.svg" alt="Main Logo" onContextMenu="return false;"></div>
         <div class="dwl-container">
             <form onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
@@ -411,34 +406,51 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </form>
         </div>
     </div>
-    <div class="col-3">
-        <h4>Black</h4>
-        <div class="logo-container square"><img src="./img/logo/fiware/secondary/logo-fiware-secondary-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
-        <div class="dwl-container">
-            <form onsubmit="this.action = document.getElementById('filename').value">
-                <select id="filename">
-                    <option value="#">JPG</option>
-                    <option value="#">PNG</option>
-                    <option value="#">SVG</option>
-                    <option value="#">EPS</option>
-                </select>
-                    <input type="submit" value="download" class="material-symbols-outlined dwl" />
-            </form>
+    <div class="grid">
+        <div class="col-3">
+            <h4>Monochrome</h4>
+            <div  class="logo-container square"><img src="./img/logo/fiware/secondary/logo-fiware-secondary-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
         </div>
-    </div>
-    <div class="col-3">
-        <h4>White</h4>
-        <div class="logo-container negative square"><img src="./img/logo/fiware/secondary/logo-fiware-secondary-white.svg" alt="Main Logo White" onContextMenu="return false;"></div>
-        <div class="dwl-container">
-            <form onsubmit="this.action = document.getElementById('filename').value">
-                <select id="filename">
-                    <option value="#">JPG</option>
-                    <option value="#">PNG</option>
-                    <option value="#">SVG</option>
-                    <option value="#">EPS</option>
-                </select>
-                    <input type="submit" value="download" class="material-symbols-outlined dwl" />
-            </form>
+        <div class="col-3">
+            <h4>Black</h4>
+            <div class="logo-container square"><img src="./img/logo/fiware/secondary/logo-fiware-secondary-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
+        </div>
+        <div class="col-3">
+            <h4>White</h4>
+            <div class="logo-container negative square"><img src="./img/logo/fiware/secondary/logo-fiware-secondary-white.svg" alt="Main Logo White" onContextMenu="return false;"></div>
+            <div class="dwl-container">
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
         </div>
     </div>
 </div>
