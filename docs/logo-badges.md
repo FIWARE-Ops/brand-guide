@@ -8,10 +8,6 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 <div class="section-container">
     <div class="badge-container">
-        <div class="title-container">
-            <h3 class="title-section">Primary</h3>
-            <h4>Color</h4>
-        </div>
         <div class="logo-container padding-s"><img src="./img/logo/ecosystem/fgs/logo-fgs.svg" alt="Main Logo" onContextMenu="return false;"></div>
         <div class="dwl-container">
             <form onsubmit="this.action = document.getElementById('filename').value">
