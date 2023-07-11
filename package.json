@@ -1,24 +1,21 @@
 {
-	"name": "fiware-lab-academy",
+	"name": "fiware-brand-guide",
 	"version": "8.2.0",
-	"description": "Video tutorials, slide decks and other training materials for developers learning about FIWARE Lab.",
+	"description": "Visuals for the FIWARE Brand.",
 	"keywords": [
-		"node",
 		"fiware",
-		"tutorials",
-		"ngsi"
+		"brand"
 	],
 	"license": "CC-BY-4.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/fiware/lab.academy"
+		"url": "https://github.com/FIWARE-Ops/brand-guide"
 	},
-	"homepage": "https://fiware-lab-academy.rtfd.io/",
+	"homepage": "https://fiware-ops.github.io/brand-guide/",
 	"devDependencies": {
 		"eslint": "^8.9.0",
 		"eslint-config-tamia": "^7.2.7",
 		"eslint-plugin-prettier": "^4.0.0",
-		"husky": "^4.3.8",
 		"lint-staged": "^12.3.4",
 		"memfs": "3.4.1",
 		"prettier": "^2.5.1",
@@ -40,11 +37,6 @@
 		"lint:md": "remark -f 'README.md' 'docs'",
 		"prettier:text": "prettier 'README.md' 'docs/*.md'  'docs/**/*.md' --no-config --tab-width 4 --print-width 120 --write --prose-wrap always",
 		"prepare": "husky install"
-	},
-	"lint-staged": {
-		"*.md": [
-			"prettier  --no-config --tab-width 4 --print-width 120 --write --prose-wrap always"
-		]
 	},
 	"remarkConfig": {
 		"settings": {
