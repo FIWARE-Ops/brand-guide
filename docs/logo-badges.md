@@ -12,9 +12,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="badge-container">
             <img class="badge" src="./img/badges/catalogue/01/core.svg" alt="FIWARE Core" onContextMenu="return false;">
             <div class="dwl-container">
-                <div class="copylink-container">
-                <a onclick="navigator.clipboard.writeText(window.location.href);this.insertAdjacentHTML('afterend', '<div class=linktooltips-container>Link copied</div>');setTimeout(() => { document.querySelectorAll('.linktooltips-container').forEach(el => el.remove()); }, 3000);" target="_blank">Copy</a>
-                </div>
+                <button class="clipboard" data-clipboard-text="This will be copied">Copy</button>
                 <form onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
