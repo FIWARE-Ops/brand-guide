@@ -23,7 +23,6 @@ nav:
     - 'FIWARE Ecosystem': 'logo-ecosystem.md'
   - 'Badges': 
     - 'FIWARE': 'badge-catalogue.md' 
-    - 'FIWARE Badges': 'logo-badges.md'
   - 'Resources': 
     - 'Fonts': 'fonts.md' 
     - 'Colors': 'colors.md'
