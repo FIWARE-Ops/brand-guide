@@ -77,21 +77,6 @@ div[role="navigation"] hr {
 }
 
 
-/* Copy Link */
-
-.copylink-container {
-    border: 1px solid var(--gray-400);
-}
-
-.linktooltips-container {
-       background-color: #030303;
-       color: #ffffff;
-       padding: 5px 30px;
-       border-radius: 10px;
-
-}
-
-
 /* Color Palette */
 
 .bg-primary-500 {
@@ -387,7 +372,7 @@ h6 {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    gap: 0;
+    gap: 10px;
     padding: 0;
 }
 
@@ -522,6 +507,24 @@ h6 {
 
 
 /* Default Components */
+
+button.copy {
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+    border: none;
+    background: none;
+    font-family: 'Material Symbols Outlined';
+    font-weight: 400;
+    font-size: 24px;
+    color: #000 !important;
+    background-color: rgba(235, 235, 235, 1);
+    border-radius: 20px;
+    width: 36px;
+    height: 36px;
+    padding: 0;
+    transition: all 0.3s ease-in-out;
+}
 
 input[type=submit].dwl {
     -webkit-appearance: none !important;

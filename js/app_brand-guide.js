@@ -1,13 +1,14 @@
-$( document ).ready(function() {
-  var clipboard = new Clipboard('.clipboard');
+var clipboard = new ClipboardJS('.copy');
+
+clipboard.on('success', function(e) {
+    console.info('Action:', e.action);
+    console.info('Text:', e.text);
+    console.info('Trigger:', e.trigger);
+
+    e.clearSelection();
 });
 
-$( document ).ready(function() {
-  clipboard.on('success', function(e) {
-    $(e.trigger).text("Copied!");
-    e.clearSelection();
-    setTimeout(function() {
-      $(e.trigger).text("Copy");
-    }, 2500);
-  });
-})
+clipboard.on('error', function(e) {
+    console.error('Action:', e.action);
+    console.error('Trigger:', e.trigger);
+});
