@@ -302,6 +302,11 @@ h6 {
     border-bottom: 1px solid var(--gray-400);
 }
 
+.badge-container:last-of-type {
+    padding-bottom: 0px;
+    border-bottom: 1px solid rgba(var(--gray-400, 0));
+}
+
 .secondary-container {
     display: flex;
     flex-direction: column;
@@ -529,6 +534,12 @@ button.copy {
 button.copy:hover {
     background-color: var(--primary-500);
     color: #fff !important;
+}
+
+button.copy:focus-visible {
+    background-color: var(--gray-200);
+    color: #000 !important;
+    outline: none!important;
 }
 
 input[type=submit].dwl {
