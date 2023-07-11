@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             <img class="badge" src="./img/badges/catalogue/01/core.svg" alt="FIWARE Core" onContextMenu="return false;">
             <div class="dwl-container">
                 <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/core.svg"><span class="material-symbols-outlined">content_copy</span></button>
-                <form onsubmit="this.action = document.getElementById('filename').value">
+                <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
                         <option value="#">PNG</option>
@@ -27,8 +27,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="badge-container">
             <img class="badge" src="./img/badges/catalogue/01/documentation.svg" alt="FIWARE Documentation" onContextMenu="return false;">
             <div class="dwl-container">
-                <button class="clipboard" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/documentation.svg"><span id="copy" class="material-symbols-outlined">content_copy</span></button>
-                <form onsubmit="this.action = document.getElementById('filename').value">
+                <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/documentation.svg"><span class="material-symbols-outlined">content_copy</span></button>
+                <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
                         <option value="#">PNG</option>
@@ -42,8 +42,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="badge-container">
             <img class="badge" src="./img/badges/catalogue/01/fundamentals.svg" alt="FIWARE Documentation" onContextMenu="return false;">
             <div class="dwl-container">
-                <button class="clipboard" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/fundamentals.svg"><span id="copy" class="material-symbols-outlined">content_copy</span></button>
-                <form onsubmit="this.action = document.getElementById('filename').value">
+                <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/fundamentals.svg"><span class="material-symbols-outlined">content_copy</span></button>
+                <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
                         <option value="#">PNG</option>
@@ -62,7 +62,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="badge-container">
             <img class="badge" src="./img/badges/catalogue/02/iot-agents.svg" alt="FIWARE Core" onContextMenu="return false;">
             <div class="dwl-container">
-                <form onsubmit="this.action = document.getElementById('filename').value">
+                <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/02/iot-agents.svg"><span class="material-symbols-outlined">content_copy</span></button>
+                <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
                         <option value="#">PNG</option>
@@ -76,7 +77,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="badge-container">
             <img class="badge" src="./img/badges/catalogue/02/media-streams.svg" alt="FIWARE Documentation" onContextMenu="return false;">
             <div class="dwl-container">
-                <form onsubmit="this.action = document.getElementById('filename').value">
+                <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/02/media-streams.svg"><span class="material-symbols-outlined">content_copy</span></button>
+                <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
                         <option value="#">PNG</option>
@@ -90,7 +92,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="badge-container">
             <img class="badge" src="./img/badges/catalogue/02/operations.svg" alt="FIWARE Documentation" onContextMenu="return false;">
             <div class="dwl-container">
-                <form onsubmit="this.action = document.getElementById('filename').value">
+                <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/02/operations.svg"><span class="material-symbols-outlined">content_copy</span></button>
+                <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
                         <option value="#">PNG</option>
@@ -104,7 +107,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="badge-container">
             <img class="badge" src="./img/badges/catalogue/02/robotics.svg" alt="FIWARE Documentation" onContextMenu="return false;">
             <div class="dwl-container">
-                <form onsubmit="this.action = document.getElementById('filename').value">
+                <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/02/robotics.svg"><span class="material-symbols-outlined">content_copy</span></button>
+                <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
                         <option value="#">PNG</option>
@@ -118,7 +122,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="badge-container">
             <img class="badge" src="./img/badges/catalogue/02/third-party.svg" alt="FIWARE Documentation" onContextMenu="return false;">
             <div class="dwl-container">
-                <form onsubmit="this.action = document.getElementById('filename').value">
+                <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/02/third-party.svg"><span class="material-symbols-outlined">content_copy</span></button>
+                <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
                         <option value="#">PNG</option>

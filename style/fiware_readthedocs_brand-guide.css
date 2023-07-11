@@ -518,12 +518,17 @@ button.copy {
     font-weight: 400;
     font-size: 24px;
     color: #000 !important;
-    background-color: rgba(235, 235, 235, 1);
+    background-color: var(--gray-200);
     border-radius: 20px;
     width: 36px;
     height: 36px;
     padding: 0;
     transition: all 0.3s ease-in-out;
+}
+
+button.copy:hover {
+    background-color: var(--primary-500);
+    color: #fff !important;
 }
 
 input[type=submit].dwl {
@@ -536,7 +541,7 @@ input[type=submit].dwl {
     font-weight: 400;
     font-size: 24px;
     color: #000 !important;
-    background-color: rgba(235, 235, 235, 1);
+    background-color: var(--gray-200);
     border-radius: 20px;
     width: 36px;
     height: 36px;
@@ -545,7 +550,7 @@ input[type=submit].dwl {
 }
 
 input[type=submit].dwl:hover {
-    background-color: rgba(0, 46, 103, 1);
+    background-color: var(--primary-500);
     color: #fff !important;
 }
 
@@ -582,7 +587,7 @@ select {
     display: flex;
     align-items: center;
     gap: 5px;
-    background: rgba(235, 235, 235, 0);
+    background: rgba(var(--gray-200, 0));
     padding: 10px 15px;
     border-radius: 4px;
     font-size: 15px;
@@ -602,11 +607,11 @@ select {
 }
 
 .secondary-btn:hover {
-    background: rgba(235, 235, 235, 1);
+    background:  rgba(var(--gray-200, 1));
 }
 
 .tertiary-btn:hover {
-    color: #002e67;
+    color: var(--primary-500);
 }
 
 .secondary-btn:any-link {
@@ -694,15 +699,14 @@ select {
     }
 
 
-    .badge {
-        height: 24px !important;
-    }
-
-
     /* Default Components */
 
     form {
         gap: 10px;
+    }
+
+    form.badge-dwl {
+        display: none;
     }
 
 
