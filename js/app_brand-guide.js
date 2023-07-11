@@ -1,3 +1,5 @@
+// Clipboard
+
 var clipboard = new ClipboardJS('.copy');
 
 clipboard.on('success', function(e) {
