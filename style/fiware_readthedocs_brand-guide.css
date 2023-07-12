@@ -531,15 +531,18 @@ button.copy {
     transition: all 0.3s ease-in-out;
 }
 
+
+button.copy:active,
 button.copy:hover {
-    background-color: var(--primary-500);
-    color: #fff !important;
+    background-color: var(--gray-400);
+    color: #000 !important;
 }
 
+button.copy:focus,
 button.copy:focus-visible {
     background-color: var(--gray-200);
     color: #000 !important;
-    outline: none!important;
+    outline: none !important;
 }
 
 input[type=submit].dwl {
@@ -613,12 +616,12 @@ select {
     gap: 5px;
     font-size: 15px;
     line-height: 1.5em;
-    color: #696969;
+    color: var(--gray-500);
     transition: all 0.3s ease-in-out;
 }
 
 .secondary-btn:hover {
-    background:  rgba(var(--gray-200, 1));
+    background: rgba(var(--gray-200, 1));
 }
 
 .tertiary-btn:hover {
@@ -628,6 +631,67 @@ select {
 .secondary-btn:any-link {
     color: #000 !important;
 }
+
+/* Tooltip */
+
+.tooltip.bottom {
+    padding: 5px 0;
+    margin-top: 3px;
+}
+
+.tooltip.in {
+    opacity: .9;
+    filter: alpha(opacity=90);
+}
+
+.fade.in {
+    opacity: 1;
+}
+
+.tooltip {
+    position: absolute;
+    z-index: 1030;
+    display: block;
+    font-size: 12px;
+    line-height: 1.4;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    visibility: visible;
+}
+
+.fade {
+    opacity: 0;
+    -webkit-transition: opacity .15s linear;
+    transition: opacity .15s linear;
+}
+
+.tooltip.bottom .tooltip-arrow {
+    top: 0;
+    left: 50%;
+    margin-left: -5px;
+    border-bottom-color: var(--primary-500);
+    border-width: 0 5px 5px;
+}
+
+.tooltip-arrow {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+}
+
+.tooltip-inner {
+    max-width: 200px;
+    padding: 3px 8px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    background-color: var(--primary-500);
+    border-radius: 4px;
+}
+
+
 
 @media (max-width: 990px) {
 

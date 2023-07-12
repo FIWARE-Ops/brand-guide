@@ -1,3 +1,23 @@
+// Tooltip
+
+$('button').tooltip({
+  trigger: 'click',
+  placement: 'bottom'
+});
+
+function setTooltip(btn, message) {
+  $(btn).tooltip('hide')
+    .attr('data-original-title', message)
+    .tooltip('show');
+}
+
+function hideTooltip(btn) {
+  setTimeout(function() {
+    $(btn).tooltip('hide');
+  }, 500);
+}
+
+
 // Clipboard
 
 var clipboard = new ClipboardJS('.copy');
