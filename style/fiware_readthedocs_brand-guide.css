@@ -834,7 +834,7 @@ select {
         flex-wrap: wrap; */
     }
 
-    .item-content {
+    .grid .col-3.scroll-x .item-content {
         width: 85%!important;
     }
 
