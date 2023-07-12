@@ -16,6 +16,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://fiware-brand-guide.readthedocs.org/badge-marketplace.html</loc>
+         <lastmod>2023-07-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://fiware-brand-guide.readthedocs.org/colors.html</loc>
          <lastmod>2023-07-12</lastmod>
          <changefreq>daily</changefreq>
