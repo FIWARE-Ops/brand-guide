@@ -534,7 +534,7 @@ button.copy {
 
 button.copy:active,
 button.copy:hover {
-    background-color: var(--gray-400);
+    background-color: var(--gray-400)!important;
     color: #000 !important;
 }
 
@@ -669,7 +669,7 @@ select {
     top: 0;
     left: 50%;
     margin-left: -5px;
-    border-bottom-color: var(--primary-500);
+    border-bottom-color: var(--primary-500)!important;
     border-width: 0 5px 5px;
 }
 
@@ -687,7 +687,7 @@ select {
     color: #fff;
     text-align: center;
     text-decoration: none;
-    background-color: var(--primary-500);
+    background-color: var(--primary-500)!important;
     border-radius: 4px;
 }
 
