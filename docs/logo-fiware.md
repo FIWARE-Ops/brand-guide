@@ -135,6 +135,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
                     <div class="logo-container bg-secondary-100"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
             </div>
+            </div>
         </div>
         <div class="module-container">
             <div class="title-container">
