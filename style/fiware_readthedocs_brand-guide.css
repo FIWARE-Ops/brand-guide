@@ -54,15 +54,15 @@
     pointer-events: none;
 } */
 
-.injected {
-    display: none;
-}
-
-.rst-current-version span {
-    display: none;
-}
-
 /* Read the Docs Settings */
+
+.rst-content {
+    min-height: calc(100vh - 220px);
+}
+
+div[role="main"] {
+    min-height: calc(100vh - 220px);
+}
 
 div[role="navigation"] .wy-breadcrumbs {
     display: none;
@@ -79,8 +79,14 @@ div[role="navigation"] hr {
 .wy-nav-content {
     padding: 2.9em 3.236em;
 }
+
 .wy-form {
     border: none !important;
+}
+
+.injected,
+.rst-versions {
+    display: none;
 }
 
 
