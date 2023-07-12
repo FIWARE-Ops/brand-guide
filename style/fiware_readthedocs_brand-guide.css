@@ -659,16 +659,18 @@ select {
 
 /* CTA */
 
-.secondary-btn {
+.primary-btn {
     display: flex;
     align-items: center;
-    gap: 5px;
-    background: rgba(var(--gray-200, 0));
-    padding: 10px 15px;
+    gap: 10px;
+    width: fit-content !important;
+    background: var(--primary-500) !important;
+    /* padding: 10px 15px; */
     border-radius: 4px;
     font-size: 15px;
     line-height: 1.5em;
-    color: #000;
+    font-weight: 400 !important;
+    color: #fff !important;
     transition: all 0.3s ease-in-out;
 }
 
@@ -682,16 +684,23 @@ select {
     transition: all 0.3s ease-in-out;
 }
 
-.secondary-btn:hover {
-    background: rgba(var(--gray-200, 1));
+.primary-btn:hover {
+    background: var(--primary-600)!important;
 }
 
 .tertiary-btn:hover {
     color: var(--primary-500);
 }
 
-.secondary-btn:any-link {
-    color: #000 !important;
+.primary-btn a:any-link {
+    color: #fff !important;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 15px;
+    font-size: 15px;
+    line-height: 1.5em;
+    font-weight: 400 !important;
 }
 
 /* Tooltip */
