@@ -272,7 +272,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="grid">
             <div class="grid-items">
                 <div class="col-3 scroll-x">
-                    <div class="item-content"><h4>01</h4></div>
+                    <h4>01</h4>
                     <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/usage/logo-fiware-dont-1.svg" alt="Main Logo White" onContextMenu="return false;"></div>
                     <div class="item-content"><p>Don’t recolour the logo in any way, unless the primary colour.</p></div>
                 </div>

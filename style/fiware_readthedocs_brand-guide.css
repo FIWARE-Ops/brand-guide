@@ -238,6 +238,7 @@ a {
 p {
     padding-bottom: 10px;
     text-wrap: balance!important;
+    word-break: break-word!important;
 }
 
 p:last-child,
