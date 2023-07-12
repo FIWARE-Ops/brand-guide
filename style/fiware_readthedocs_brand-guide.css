@@ -72,8 +72,15 @@ div[role="navigation"] hr {
     display: none;
 }
 
+.wy-nav-top {
+    z-index: 1;
+}
+
 .wy-nav-content {
     padding: 2.9em 3.236em;
+}
+.wy-form {
+    border: none !important;
 }
 
 
