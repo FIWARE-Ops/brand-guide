@@ -237,6 +237,7 @@ a {
 
 p {
     padding-bottom: 10px;
+    text-wrap: wrap;
 }
 
 p:last-child,
@@ -802,17 +803,8 @@ select {
         flex-wrap: wrap;
     }
 
-    .grid .col-4.scroll-x {
-        overflow: hidden;
-        display: inline-block;
-        width: 85%;
-        margin-right: 10px;
-        /* flex-direction: row !important;
-        flex-wrap: wrap; */
-    }
-
-    .col-2,
-    .col-3 {
+    .col-3,
+    .col-2 {
         width: 100%;
     }
 
@@ -832,6 +824,20 @@ select {
         flex-direction: column;
     }
 
+    .grid .col-3.scroll-x,
+    .grid .col-4.scroll-x {
+        overflow: hidden;
+        display: inline-block;
+        width: 85%;
+        margin-right: 10px;
+        /* flex-direction: row !important;
+        flex-wrap: wrap; */
+    }
+
+    .grid .col-3.scroll-x .logo-container {
+        margin: 15px 0 !important;
+    }
+
 }
 
 @media (max-width: 480px) {
@@ -840,6 +846,7 @@ select {
         flex-direction: column;
     }
 
+    .col-3,
     .col-4 {
         width: 100%;
     }
@@ -849,6 +856,7 @@ select {
         height: 185px;
     }
 
+    .col-3 .logo-container,
     .col-4 .logo-container {
         min-height: 100px;
         height: 155px;
@@ -872,6 +880,10 @@ select {
 
     .logo-full {
         padding: 15%;
+    }
+
+    .badge {
+        height: 24px !important;
     }
 
 

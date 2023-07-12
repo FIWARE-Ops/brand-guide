@@ -263,21 +263,23 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     </div>
     <div class="module-container">
         <h3>Dont’s</h3>
-        <div class="grid wrap">
-            <div class="col-3">
-                <h4>01</h4>
-                <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-1.svg" alt="Main Logo White" onContextMenu="return false;"></div>
-                <p>Don’t recolour the logo in any way, unless the primary colour.</p>
-            </div>
-            <div class="col-3">
-                <h4>02</h4>
-                <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-2.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
-                <p>Don’t add effects, tilt or angle the logo in any way.</p>
-            </div>
-            <div class="col-3">
-                <h4>03</h4>
-                <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
-                <p>Don’t stack the logo, or reconfigure it in any way.</p>
+        <div class="grid">
+            <div class="grid-items">
+                <div class="col-3 scroll-x">
+                    <h4>01</h4>
+                    <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-1.svg" alt="Main Logo White" onContextMenu="return false;"></div>
+                    <p>Don’t recolour the logo in any way, unless the primary colour.</p>
+                </div>
+                <div class="col-3 scroll-x">
+                    <h4>02</h4>
+                    <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-2.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
+                    <p>Don’t add effects, tilt or angle the logo in any way.</p>
+                </div>
+                <div class="col-3 scroll-x">
+                    <h4>03</h4>
+                    <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
+                    <p>Don’t stack the logo, or reconfigure it in any way.</p>
+                </div>
             </div>
         </div>
     </div>
