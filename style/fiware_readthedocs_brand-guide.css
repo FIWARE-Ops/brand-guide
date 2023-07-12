@@ -237,7 +237,7 @@ a {
 
 p {
     padding-bottom: 10px;
-    text-wrap: wrap;
+    text-wrap: balance!important;
 }
 
 p:last-child,
