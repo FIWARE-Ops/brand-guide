@@ -834,6 +834,10 @@ select {
         flex-wrap: wrap; */
     }
 
+    .dont-content {
+        width: 85%!important;
+    }
+
     .grid .col-3.scroll-x .logo-container {
         margin: 15px 0 !important;
     }
