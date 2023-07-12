@@ -518,7 +518,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 </div>
 
 
-## FISAB
+## FIWARE Scientific Advisory Board
 
 FIWARE Scientific Advisory Board lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient.
 
