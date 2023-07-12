@@ -6,10 +6,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 <div class="badges-container">
     <div class="badge-container">
-            <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/01/core.svg" alt="FIWARE Core" onContextMenu="return false;">
+        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/01/core.svg" alt="FIWARE Core" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
-                <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/core.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+            <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/core.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
@@ -21,36 +21,37 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </form>
         </div>
     </div>
-        <div class="badge-container">
-            <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/01/documentation.svg" alt="FIWARE Documentation" onContextMenu="return false;">
-            <div class="dwl-container">
-                <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/documentation.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
-                    <select id="filename">
-                        <option value="#">JPG</option>
-                        <option value="#">PNG</option>
-                        <option value="#">SVG</option>
-                        <option value="#">EPS</option>
-                    </select>
-                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                </form>
-            </div>
+    <div class="badge-container">
+        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/01/documentation.svg" alt="FIWARE Documentation" onContextMenu="return false;">
+        <div class="dwl-container">
+            <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/documentation.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
+            <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/documentation.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+                <select id="filename">
+                    <option value="#">JPG</option>
+                    <option value="#">PNG</option>
+                    <option value="#">SVG</option>
+                    <option value="#">EPS</option>
+                </select>
+                <input type="submit" value="download" class="material-symbols-outlined dwl" />
+            </form>
         </div>
-        <div class="badge-container">
-            <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/01/fundamentals.svg" alt="FIWARE Documentation" onContextMenu="return false;">
-            <div class="dwl-container">
-                <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/fundamentals.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
-                    <select id="filename">
-                        <option value="#">JPG</option>
-                        <option value="#">PNG</option>
-                        <option value="#">SVG</option>
-                        <option value="#">EPS</option>
-                    </select>
-                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                </form>
-            </div>
+    </div>
+    <div class="badge-container">
+        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/01/fundamentals.svg" alt="FIWARE Documentation" onContextMenu="return false;">
+        <div class="dwl-container">
+            <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/fundamentals.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+                <select id="filename">
+                    <option value="#">JPG</option>
+                    <option value="#">PNG</option>
+                    <option value="#">SVG</option>
+                    <option value="#">EPS</option>
+                </select>
+                <input type="submit" value="download" class="material-symbols-outlined dwl" />
+            </form>
         </div>
+    </div>
 </div>
 
 ## Interface with IoT, Robots and Third-Party Systems
@@ -59,6 +60,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     <div class="badge-container">
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/02/iot-agents.svg" alt="FIWARE Core" onContextMenu="return false;">
         <div class="dwl-container">
+            <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/02/iot-agents.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
@@ -74,6 +76,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     <div class="badge-container">
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/02/media-streams.svg" alt="FIWARE Documentation" onContextMenu="return false;">
         <div class="dwl-container">
+            <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/media-streams.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/02/media-streams.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
@@ -104,6 +107,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     <div class="badge-container">
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/02/robotics.svg" alt="FIWARE Documentation" onContextMenu="return false;">
         <div class="dwl-container">
+            <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/02/robotics.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
@@ -119,6 +123,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     <div class="badge-container">
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/02/third-party.svg" alt="FIWARE Documentation" onContextMenu="return false;">
             <div class="dwl-container">
+            <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/third-party.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
                 <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/02/third-party.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                 <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
