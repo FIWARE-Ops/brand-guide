@@ -308,7 +308,7 @@ h6 {
     display: flex;
     flex-direction: column;
     gap: 15px;
-    margin: 0;
+    margin: 30px 0 0;
 }
 
 .badge-container {
@@ -837,14 +837,18 @@ select {
     }
 
     .logo-container {
-        padding: 10%;
+        padding: 14%;
         height: 185px;
     }
 
     .main-container .logo-container {
-        padding: 10%;
+        padding: 14%;
         max-height: 185px;
         min-height: 185px;
+    }
+
+    .main-container .logo-container.square {
+        padding: 10%;
     }
 
     .padding-s,
