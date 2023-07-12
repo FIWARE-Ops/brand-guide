@@ -24,7 +24,8 @@ nav:
     - 'FIWARE Ecosystem': 'logo-ecosystem.md'
   - 'Badges': 
     - 'FIWARE Catalogue': 'badge-catalogue.md'
-    - 'FIWARE Domains': 'badge-domains.md' 
+    - 'FIWARE Domains': 'badge-domains.md'
+    - 'FIWARE Marketplace': 'badge-marketplace.md' 
   - 'Resources': 
     - 'Fonts': 'fonts.md' 
     - 'Colors': 'colors.md'
