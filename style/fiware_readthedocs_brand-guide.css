@@ -876,6 +876,7 @@ select {
     .square {
         padding: 12%;
         max-height: 185px;
+        height: 185px!important;
     }
 
     .logo-full {
