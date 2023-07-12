@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="title-container">
             <h4>Color</h4>
         </div>
-        <div class="logo-container"><img src="./img/logo/fiware-foundation/logo-fiware-foundation.svg" alt="Main Logo" onContextMenu="return false;"></div>
+        <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation.svg" alt="Main Logo" onContextMenu="return false;"></div>
         <div class="dwl-container">
             <form onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     <div class="grid">
         <div class="col-3">
             <h4>Monochrome</h4>
-        <div class="logo-container"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
+        <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
             <div class="dwl-container">
                 <form onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
@@ -38,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         </div>
         <div class="col-3">
             <h4>Black</h4>
-            <div class="logo-container"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+            <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
             <div class="dwl-container">
                 <form onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         </div>
         <div class="col-3">
             <h4>White</h4>
-            <div class="logo-container negative"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo White" onContextMenu="return false;"></div>
+            <div class="logo-container negative"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo White" onContextMenu="return false;"></div>
             <div class="dwl-container">
                 <form onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     <div class="container">
         <div class="col-2">
             <h3>Clear Space</h3>
-            <div  class="logo-container no-attributes"><img src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-clear-zone.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+            <div  class="logo-container no-attributes"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/usage/logo-fiware-foundation-clear-zone.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
             <p>All versions of our logo have exclusion zones around them to help them stand out. The exclusion zone is equal to the height of letter A.</p>
         </div>
         <div class="col-2">
@@ -82,12 +82,12 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             <div class="grid wrap">
                 <div class="grid-item">
                     <h4>Digital</h4>
-                    <div id="logo-fiware-foundation-min-width" class="logo-container no-attributes"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div id="logo-fiware-foundation-min-width" class="logo-container no-attributes"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                     <p>75px</p>
                 </div>
                 <div class="grid-item">
                     <h4>Print</h4>
-                    <div id="logo-fiware-foundation-min-width" class="logo-container no-attributes"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div id="logo-fiware-foundation-min-width" class="logo-container no-attributes"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                     <p>20mm</p>
                 </div>
             </div>
@@ -102,10 +102,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </div>
             <div class="grid">
                 <div class="col-4">
-                    <div class="logo-container bg-secondary-200" ><img src="./img/logo/fiware-foundation/logo-fiware-foundation.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-secondary-200" ><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-secondary-100"><img src="./img/logo/fiware-foundation/logo-fiware-foundation.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-secondary-100"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
             </div>
         </div>
@@ -116,16 +116,16 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </div>
             <div class="grid">
                 <div class="col-4">
-                    <div class="logo-container bg-secondary-500"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-secondary-500"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-secondary-300"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-secondary-300"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-secondary-200"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-secondary-200"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-secondary-100"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-secondary-100"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
             </div>
         </div>
@@ -136,16 +136,16 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </div>
             <div class="grid">
                 <div class="col-4">
-                    <div class="logo-container bg-secondary-500"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-secondary-500"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-secondary-300"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-secondary-300"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-secondary-200"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-secondary-200"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-secondary-100"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-secondary-100"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
             </div>
         </div>
@@ -156,10 +156,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </div>
             <div class="grid">
                 <div class="col-4">
-                    <div class="logo-container bg-primary-500"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-primary-500"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-secondary-500"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-secondary-500"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
             </div>
         </div>
@@ -173,10 +173,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </div>
             <div class="grid">
                 <div class="col-4">
-                    <div class="logo-container bg-gray-200" ><img src="./img/logo/fiware-foundation/logo-fiware-foundation.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-gray-200" ><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-gray-100"><img src="./img/logo/fiware-foundation/logo-fiware-foundation.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-gray-100"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
             </div>
         </div>
@@ -187,16 +187,16 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </div>
             <div class="grid">
                 <div class="col-4">
-                    <div class="logo-container bg-gray-400"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-gray-400"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-gray-300"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-gray-300"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-gray-200"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-gray-200"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-gray-100"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-gray-100"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
             </div>
         </div>
@@ -207,16 +207,16 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </div>
             <div class="grid">
                 <div class="col-4">
-                    <div class="logo-container bg-gray-400"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-gray-400"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-gray-300"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-gray-300"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-gray-200"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-gray-200"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-gray-100"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-gray-100"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
             </div>
         </div>
@@ -227,16 +227,16 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </div>
             <div class="grid">
                 <div class="col-4">
-                    <div class="logo-container bg-gray-900"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-gray-900"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-gray-800"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-gray-800"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-gray-700"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-gray-700"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
                 <div class="col-4">
-                    <div class="logo-container bg-gray-600"><img src="./img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container bg-gray-600"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/logo-fiware-foundation-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
                 </div>
             </div>
         </div>
@@ -246,17 +246,17 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="grid wrap">
             <div class="col-3">
                 <h4>01</h4>
-                <div class="logo-container"><img src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-1.svg" alt="Main Logo White" onContextMenu="return false;"></div>
+                <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-1.svg" alt="Main Logo White" onContextMenu="return false;"></div>
                 <p>Don’t recolour the logo in any way, unless the primary colour.</p>
             </div>
             <div class="col-3">
                 <h4>02</h4>
-                <div class="logo-container"><img src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-2.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
+                <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-2.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
                 <p>Don’t add effects, tilt or angle the logo in any way.</p>
             </div>
             <div class="col-3">
                 <h4>03</h4>
-                <div class="logo-container"><img src="./img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
+                <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/usage/logo-fiware-foundation-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
                 <p>Don’t stack the logo, or reconfigure it in any way.</p>
             </div>
         </div>

@@ -10,7 +10,7 @@ markdown_extensions:
   - fenced_code
 extra_css:
   - https://www.fiware.org/style/fiware_readthedocs.css
-  - https://www.fiware.org/style/fiware_readthedocs_brand-guide.css
+  - https://www.fiware.org/custom/brand-guide/css/fiware_readthedocs_brand-guide.css
   - https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.11/clipboard.min.js
