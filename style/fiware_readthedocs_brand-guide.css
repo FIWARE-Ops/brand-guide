@@ -446,6 +446,27 @@ h6 {
     gap: 15px;
 }
 
+.grid-items {
+    display: flex;
+    gap: 15px;
+    position: relative;
+    width: 100%;
+    /* height: 100vh; */
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    padding: 0 !important;
+    transition: all 0.2s ease-in-out;
+    /* transform: scale(0.98); */
+    will-change: transform;
+    user-select: none;
+    cursor: default;
+}
+
+.grid-items::-webkit-scrollbar {
+    display: none;
+}
+
 .grid-item {
     width: 50%;
     border: 1px solid var(--gray-400);
@@ -516,7 +537,7 @@ h6 {
 /* Default Components */
 
 .material-symbols-outlined {
-    line-height: normal!important;
+    line-height: normal !important;
 }
 
 button.copy {
@@ -610,8 +631,8 @@ select {
     line-height: 1;
     font-weight: 500;
     color: #000 !important;
-    border: 1px solid rgba(var(--gray-400, 0))!important;
-    border-radius: 0px!important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
+    border-radius: 0px !important;
     box-shadow: none;
     background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right rgba(255, 255, 255, 0);
     background-position-x: 48px;
@@ -692,7 +713,7 @@ select {
     top: 0;
     left: 50%;
     margin-left: -5px;
-    border-bottom-color: var(--primary-500)!important;
+    border-bottom-color: var(--primary-500) !important;
     border-width: 0 5px 5px;
 }
 
@@ -710,7 +731,7 @@ select {
     color: #fff;
     text-align: center;
     text-decoration: none;
-    background-color: var(--primary-500)!important;
+    background-color: var(--primary-500) !important;
     border-radius: 4px;
 }
 
@@ -746,6 +767,15 @@ select {
         flex-wrap: wrap;
     }
 
+    .grid .col-4.scroll-x {
+        overflow: hidden;
+        display: inline-block;
+        width: 90%;
+        margin-right: 10px;
+        /* flex-direction: row !important;
+        flex-wrap: wrap; */
+    }
+
     .col-2,
     .col-3 {
         width: 100%;
@@ -753,6 +783,10 @@ select {
 
     .col-4 {
         width: calc(50% - 8px);
+    }
+
+    .grid-items {
+        display: block;
     }
 
     .grid-item {
