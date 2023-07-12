@@ -8,6 +8,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
     <div class="badge-container">
             <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/01/core.svg" alt="FIWARE Core" onContextMenu="return false;">
         <div class="dwl-container">
+            <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
                 <button class="copy" data-clipboard-text="https://fiware-brand-guide.readthedocs.io/en/latest/img/badges/catalogue/01/core.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">

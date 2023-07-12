@@ -261,6 +261,7 @@ h6 {
 
 /* –––––––––– */
 
+
 .container {
     display: flex;
     flex-direction: row;
@@ -376,8 +377,9 @@ h6 {
 .dwl-container {
     display: flex;
     flex-direction: row;
+    align-items: center;
     justify-content: flex-end;
-    gap: 15px;
+    gap: 10px;
     padding: 0;
 }
 
@@ -513,6 +515,10 @@ h6 {
 
 /* Default Components */
 
+.material-symbols-outlined {
+    line-height: normal!important;
+}
+
 button.copy {
     -webkit-appearance: none !important;
     -moz-appearance: none !important;
@@ -520,10 +526,8 @@ button.copy {
     border: none;
     background: none;
     font-family: 'Material Symbols Outlined';
-    font-weight: 400;
-    font-size: 24px;
     color: #000 !important;
-    background-color: var(--gray-200);
+    background-color: rgba(var(--gray-200, 0));
     border-radius: 20px;
     width: 36px;
     height: 36px;
@@ -531,10 +535,9 @@ button.copy {
     transition: all 0.3s ease-in-out;
 }
 
-
 button.copy:active,
 button.copy:hover {
-    background-color: var(--gray-400)!important;
+    background-color: var(--gray-200);
     color: #000 !important;
 }
 
@@ -542,6 +545,24 @@ button.copy:focus,
 button.copy:focus-visible {
     background-color: var(--gray-200);
     color: #000 !important;
+    outline: none !important;
+}
+
+.mark-github {
+    background-color: rgba(var(--gray-200, 0)) !important;
+    transition: all 0.3s ease-in-out;
+    width: 28px !important;
+    height: 28px !important;
+}
+
+.mark-github:active,
+.mark-github:hover {
+    background-color: none !important;
+}
+
+.mark-github:focus,
+.mark-github:focus-visible {
+    background-color: none !important;
     outline: none !important;
 }
 
@@ -555,8 +576,8 @@ input[type=submit].dwl {
     font-weight: 400;
     font-size: 24px;
     color: #000 !important;
-    background-color: var(--gray-200);
-    border-radius: 20px;
+    background-color: rgba(var(--gray-200, 0));
+    border-radius: 4px;
     width: 36px;
     height: 36px;
     padding: 0;
@@ -564,14 +585,14 @@ input[type=submit].dwl {
 }
 
 input[type=submit].dwl:hover {
-    background-color: var(--primary-500);
-    color: #fff !important;
+    background-color: var(--gray-200);
+    color: #000 !important;
 }
 
 form {
     display: flex;
     flex-direction: row;
-    gap: 5px;
+    gap: 0px;
     align-items: center;
 }
 
