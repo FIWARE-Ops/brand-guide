@@ -90,7 +90,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
                 <h4>White</h4>
                 <div class="logo-container negative"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo White" onContextMenu="return false;">
                     <div class="dwl-container-m">
-                        <button class="copy negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+                        <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form onsubmit="this.action = document.getElementById('filename').value">
                             <select id="filename">
                                 <option value="#">JPG</option>
@@ -342,7 +342,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="title-container">
             <h4>Color</h4>
         </div>
-        <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full.svg" alt="Main Logo" onContextMenu="return false;"></div>
+        <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full.svg" alt="Main Logo" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form onsubmit="this.action = document.getElementById('filename').value">
@@ -352,57 +352,99 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
                     <option value="#">SVG</option>
                     <option value="#">EPS</option>
                 </select>
-                    <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                <input type="submit" value="download" class="material-symbols-outlined dwl" />
             </form>
         </div>
     </div>
+    </div>
     <div class="grid">
-        <div class="col-3">
-            <h4>Monochrome</h4>
-            <div  class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
-            <div class="dwl-container">
-            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                <form onsubmit="this.action = document.getElementById('filename').value">
-                    <select id="filename">
-                        <option value="#">JPG</option>
-                        <option value="#">PNG</option>
-                        <option value="#">SVG</option>
-                        <option value="#">EPS</option>
-                    </select>
+        <div class="grid-items">
+            <div class="col-3 scroll-x">
+                <h4>Monochrome</h4>
+                <div  class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
+                    <div class="dwl-container-m">
+                        <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+                        <form onsubmit="this.action = document.getElementById('filename').value">
+                            <select id="filename">
+                                <option value="#">JPG</option>
+                                <option value="#">PNG</option>
+                                <option value="#">SVG</option>
+                                <option value="#">EPS</option>
+                            </select>
+                            <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                        </form>
+                    </div>
+                </div>
+                <div class="dwl-container">
+                    <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+                    <form onsubmit="this.action = document.getElementById('filename').value">
+                        <select id="filename">
+                            <option value="#">JPG</option>
+                            <option value="#">PNG</option>
+                            <option value="#">SVG</option>
+                            <option value="#">EPS</option>
+                        </select>
                         <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                </form>
+                    </form>
+                </div>
             </div>
-        </div>
-        <div class="col-3">
-            <h4>Black</h4>
-            <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-black.svg" alt="Main Logo Black"></div>
-            <div class="dwl-container">
-            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                <form onsubmit="this.action = document.getElementById('filename').value">
-                    <select id="filename">
-                        <option value="#">JPG</option>
-                        <option value="#">PNG</option>
-                        <option value="#">SVG</option>
-                        <option value="#">EPS</option>
-                    </select>
+            <div class="col-3 scroll-x">
+                <h4>Black</h4>
+                <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-black.svg" alt="Main Logo Black">
+                    <div class="dwl-container-m">
+                        <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+                        <form onsubmit="this.action = document.getElementById('filename').value">
+                            <select id="filename">
+                                <option value="#">JPG</option>
+                                <option value="#">PNG</option>
+                                <option value="#">SVG</option>
+                                <option value="#">EPS</option>
+                            </select>
+                            <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                        </form>
+                    </div>
+                </div>
+                <div class="dwl-container">
+                    <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+                    <form onsubmit="this.action = document.getElementById('filename').value">
+                        <select id="filename">
+                            <option value="#">JPG</option>
+                            <option value="#">PNG</option>
+                            <option value="#">SVG</option>
+                            <option value="#">EPS</option>
+                        </select>
                         <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                </form>
+                    </form>
+                </div>
             </div>
-        </div>
-        <div class="col-3">
-            <h4>White</h4>
-            <div class="logo-container negative"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-white.svg" alt="Main Logo White" onContextMenu="return false;"></div>
-            <div class="dwl-container">
-            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                <form onsubmit="this.action = document.getElementById('filename').value">
-                    <select id="filename">
-                        <option value="#">JPG</option>
-                        <option value="#">PNG</option>
-                        <option value="#">SVG</option>
-                        <option value="#">EPS</option>
-                    </select>
-                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                </form>
+            <div class="col-3 scroll-x">
+                <h4>White</h4>
+                <div class="logo-container negative"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-white.svg" alt="Main Logo White" onContextMenu="return false;">
+                    <div class="dwl-container-m">
+                        <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+                        <form onsubmit="this.action = document.getElementById('filename').value">
+                            <select id="filename">
+                                <option value="#">JPG</option>
+                                <option value="#">PNG</option>
+                                <option value="#">SVG</option>
+                                <option value="#">EPS</option>
+                            </select>
+                                <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                        </form>
+                    </div>
+                </div>
+                <div class="dwl-container">
+                    <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+                    <form onsubmit="this.action = document.getElementById('filename').value">
+                        <select id="filename">
+                            <option value="#">JPG</option>
+                            <option value="#">PNG</option>
+                            <option value="#">SVG</option>
+                            <option value="#">EPS</option>
+                        </select>
+                            <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                    </form>
+                </div>
             </div>
         </div>
     </div>
