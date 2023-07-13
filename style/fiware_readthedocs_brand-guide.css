@@ -975,7 +975,7 @@ select {
 
     .col-3 .logo-container,
     .col-4 .logo-container {
-        min-height: 120px;
+        /* min-height: 120px; */
         max-height: 180px;
     }
 
@@ -990,15 +990,26 @@ select {
     }
 
     .main-container .logo-container.square {
-        padding: 10%;
+        padding: 35px 10px 10px !important;
+        max-height: 194px;
+        min-height: 194px;
     }
 
     .main-container .logo-container.square img {
-        padding: 10%;
+        /* padding: 10% 10% 0%; */
+        max-height: 111px!important;
     }
 
     .logo-container.no-attributes {
         max-height: fit-content!important;
+    }
+
+    .logo-container.square {
+        padding: 35px 10px 10px !important;
+    }
+
+    .logo-container.square.dont {
+        padding: 30px !important;
     }
 
     .square {
