@@ -507,7 +507,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="title-container">
             <h4>Color</h4>
         </div>
-        <div class="logo-container padding-s"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/logo-fiware-secondary.svg" alt="Main Logo" onContextMenu="return false;"></div>
+        <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/logo-fiware-secondary.svg" alt="Main Logo" onContextMenu="return false;"></div>
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/logo-fiware-secondary.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form onsubmit="this.action = document.getElementById('filename').value">
