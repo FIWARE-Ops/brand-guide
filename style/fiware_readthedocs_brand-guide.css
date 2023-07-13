@@ -961,7 +961,7 @@ select {
     }
 
     .main-container .logo-container {
-        padding: 0;
+        padding: 10px;
         max-height: 186px;
         min-height: 186px;
     }
