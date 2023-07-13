@@ -393,8 +393,18 @@ h6 {
     padding: 15%;
 }
 
-.main-container .logo-container .square img {
-    max-height: 85px!important;
+.main-container .logo-container.square {
+    width: 100%;
+    height: 360px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 85px 20px 20px !important;
+}
+
+.main-container .logo-container.square img {
+    max-height: 180px!important;
+    padding: 0;
 }
 
 .cta-container {
@@ -612,7 +622,7 @@ button.copy:hover {
 
 button.copy:focus,
 button.copy:focus-visible {
-    background-color: var(--gray-200);
+    background-color: rgba(255, 255, 255, 0) !important;
     color: #000;
     outline: none !important;
 }
@@ -916,7 +926,7 @@ select {
     }
 
     .grid .col-3.scroll-x {
-        padding-bottom: 30px;
+        padding-bottom: 15px;
     }
 
     .grid .col-3.scroll-x:last-child,
@@ -934,6 +944,11 @@ select {
 
     .grid .col-3.scroll-x .logo-container img {
         padding: 18% 15% 2%;
+    }
+
+    .grid .col-3.scroll-x .logo-container.square img {
+        padding: 0%;
+        height: 85px;
     }
 
     button.copy {
@@ -978,11 +993,16 @@ select {
         padding: 10%;
     }
 
-    .padding-s,
+    .main-container .logo-container.square img {
+        padding: 10%;
+    }
+
+    .logo-container.no-attributes {
+        max-height: fit-content!important;
+    }
+
     .square {
         padding: 10% !important;
-        max-height: 180px;
-        height: 180px !important;
     }
 
     .logo-full {

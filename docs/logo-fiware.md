@@ -343,19 +343,19 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             <h4>Color</h4>
         </div>
         <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full.svg" alt="Main Logo" onContextMenu="return false;">
-        <div class="dwl-container">
-            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form onsubmit="this.action = document.getElementById('filename').value">
-                <select id="filename">
-                    <option value="#">JPG</option>
-                    <option value="#">PNG</option>
-                    <option value="#">SVG</option>
-                    <option value="#">EPS</option>
-                </select>
-                <input type="submit" value="download" class="material-symbols-outlined dwl" />
-            </form>
+            <div class="dwl-container">
+                <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/logo-fiware-full.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
+                    <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                </form>
+            </div>
         </div>
-    </div>
     </div>
     <div class="grid">
         <div class="grid-items">
@@ -507,18 +507,19 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="title-container">
             <h4>Color</h4>
         </div>
-        <div class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/logo-fiware-secondary.svg" alt="Main Logo" onContextMenu="return false;"></div>
-        <div class="dwl-container">
-            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/logo-fiware-secondary.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form onsubmit="this.action = document.getElementById('filename').value">
-                <select id="filename">
-                    <option value="#">JPG</option>
-                    <option value="#">PNG</option>
-                    <option value="#">SVG</option>
-                    <option value="#">EPS</option>
-                </select>
+        <div class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/logo-fiware-secondary.svg" alt="Main Logo" onContextMenu="return false;">
+            <div class="dwl-container">
+                <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/logo-fiware-secondary.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+                <form onsubmit="this.action = document.getElementById('filename').value">
+                    <select id="filename">
+                        <option value="#">JPG</option>
+                        <option value="#">PNG</option>
+                        <option value="#">SVG</option>
+                        <option value="#">EPS</option>
+                    </select>
                     <input type="submit" value="download" class="material-symbols-outlined dwl" />
-            </form>
+                </form>
+            </div>
         </div>
     </div>
     <div class="grid">
