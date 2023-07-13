@@ -393,6 +393,10 @@ h6 {
     padding: 15%;
 }
 
+.main-container .logo-container .square img {
+    max-height: 85px!important;
+}
+
 .cta-container {
     display: flex;
     flex-direction: row;
@@ -540,7 +544,7 @@ h6 {
 }
 
 .square {
-    padding: 12%;
+    padding: 12%!important;
     max-height: 132px;
 }
 
