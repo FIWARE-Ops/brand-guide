@@ -3,7 +3,7 @@
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
 
 <div class="primary-btn">
-    <a href="https://www.fiware.org/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+    <a href="https://www.fiware.org/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 ## Main Logo
