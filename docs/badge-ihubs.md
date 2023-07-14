@@ -4,11 +4,14 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 To download a badge select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use them within an <img> tag.
 
-<a href="#" target="_blank">
-    <div class="primary-btn">
-        <span class="material-symbols-outlined">open_in_new</span>Visit the Website
-    </div>
-</a>
+<div class="cta-container">
+<div class="primary-btn">
+    <a href="#" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+</div>
+<div class="primary-btn">
+    <a href="#" target="_blank"><span class="material-symbols-outlined">download</span>Download PDF</a>
+</div>
+</div>
 
 <div class="section-container">
     <div class="main-container">
@@ -128,7 +131,7 @@ To download a badge select the preferred image format and click on the download 
     <div class="container">
         <div class="col-2">
             <h3>Clear Space</h3>
-            <div class="logo-container no-attributes"><img src="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/usage/logo-fiware-clear-zone.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+            <div class="logo-container no-attributes"><img src="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/usage/badge-fiware-ihubs-clear-zone.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
             <p>All versions of our logo have exclusion zones around them to help them stand out. The exclusion zone is equal to the height of letter A.</p>
         </div>
         <div class="col-2">
@@ -153,17 +156,17 @@ To download a badge select the preferred image format and click on the download 
             <div class="grid-items">
                 <div class="col-3 scroll-x">
                     <h4>01</h4>
-                    <div class="logo-container square dont"><img src="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/usage/logo-fiware-dont-1.svg" alt="Main Logo White" onContextMenu="return false;"></div>
+                    <div class="logo-container square dont"><img src="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/usage/badge-fiware-ihubs-dont-1.svg" alt="Main Logo White" onContextMenu="return false;"></div>
                     <div class="item-content"><p>Don’t recolour the logo in any way, unless the primary colour.</p></div>
                 </div>
                 <div class="col-3 scroll-x">
                     <h4>02</h4>
-                    <div  class="logo-container square dont"><img src="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/usage/logo-fiware-dont-2.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
+                    <div  class="logo-container square dont"><img src="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/usage/badge-fiware-ihubs-dont-2.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
                     <div class="item-content"><p>Don’t add effects, tilt or angle the logo in any way.</p></div>
                 </div>
                 <div class="col-3 scroll-x">
                     <h4>03</h4>
-                    <div  class="logo-container square dont"><img src="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/usage/logo-fiware-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
+                    <div  class="logo-container square dont"><img src="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/usage/badge-fiware-ihubs-dont-3.svg" alt="Main Logo Monochrome" onContextMenu="return false;"></div>
                     <div class="item-content"><p>Don’t stack the logo, or reconfigure it in any way.</p></div>
                 </div>
             </div>

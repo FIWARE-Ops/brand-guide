@@ -4,11 +4,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 To download a badge select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use them within an <img> tag.
 
-<a href="#" target="_blank">
-    <div class="primary-btn">
-        <span class="material-symbols-outlined">open_in_new</span>Visit the Website
-    </div>
-</a>
+<div class="primary-btn">
+    <a href="#" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+</div>
 
 ## Powered by FIWARE
 
