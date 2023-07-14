@@ -25,7 +25,8 @@ nav:
   - 'Badges': 
     - 'FIWARE Catalogue': 'badge-catalogue.md'
     - 'FIWARE Domains': 'badge-domains.md'
-    - 'FIWARE Marketplace': 'badge-marketplace.md' 
+    - 'FIWARE Marketplace': 'badge-marketplace.md'
+    - 'FIWARE iHubs': 'badge-ihubs.md'
   - 'Resources': 
     - 'Fonts': 'fonts.md' 
     - 'Colors': 'colors.md'
