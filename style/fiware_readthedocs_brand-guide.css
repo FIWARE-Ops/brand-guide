@@ -996,6 +996,10 @@ select {
         padding: 18% 15% 2%;
     }
 
+    .grid .col-3.scroll-x .logo-container.marketplace img {
+        padding: 21% 8% 0%!important;
+    }
+
     .grid .col-3.scroll-x .logo-container.square img {
         padding: 0%;
         height: 85px;

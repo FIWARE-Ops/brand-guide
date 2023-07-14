@@ -655,7 +655,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="title-container">
             <h4>Color</h4>
         </div>
-        <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/logo-fiware-marketplace.svg" alt="Main Logo" onContextMenu="return false;">
+        <div class="logo-container marketplace"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/logo-fiware-marketplace.svg" alt="Main Logo" onContextMenu="return false;">
             <div class="dwl-container">
                 <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/logo-fiware-marketplace.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                 <form onsubmit="this.action = document.getElementById('filename').value">
@@ -674,7 +674,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="grid-items">
             <div class="col-3 scroll-x">
                 <h4>Monochrome</h4>
-                <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/logo-fiware-marketplace-blue.svg" alt="Main Logo Black" onContextMenu="return false;">
+                <div class="logo-container marketplace"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/logo-fiware-marketplace-blue.svg" alt="Main Logo Black" onContextMenu="return false;">
                     <div class="dwl-container-m">
                         <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/logo-fiware-marketplace-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form onsubmit="this.action = document.getElementById('filename').value">
@@ -703,7 +703,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             </div>
             <div class="col-3 scroll-x">
                 <h4>Black</h4>
-                <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/logo-fiware-marketplace-black.svg" alt="Main Logo Black" onContextMenu="return false;">
+                <div class="logo-container marketplace"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/logo-fiware-marketplace-black.svg" alt="Main Logo Black" onContextMenu="return false;">
                     <div class="dwl-container-m">
                         <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/logo-fiware-marketplace-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form onsubmit="this.action = document.getElementById('filename').value">
@@ -775,7 +775,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="title-container">
             <h4>Color</h4>
         </div>
-        <div class="logo-container"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fisab/logo-fisab.svg" alt="Main Logo" onContextMenu="return false;">
+        <div class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fisab/logo-fisab.svg" alt="Main Logo" onContextMenu="return false;">
             <div class="dwl-container">
                 <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fisab/logo-fisab.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                 <form onsubmit="this.action = document.getElementById('filename').value">
