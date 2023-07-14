@@ -313,10 +313,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 <p class="description">The symbol resembles chain elements bringing different contexts together, visualised through rounded squares linked to each other. The filled square represents the FIWARE ecosystem. It can be seen as an incubator and the framework to all iHubs that enable FIWARE technology and business. The stroked square represents a single iHub.</p>
 <div class="cta-container">
     <div class="primary-btn">
-        <a href="#" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
+        <a href="https://www.fiware.org/community/fiware-ihubs/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
     </div>
     <div class="primary-btn">
-        <a href="#" target="_blank"><span class="material-symbols-outlined">download</span>Download PDF</a>
+        <a href="https://www.fiware.org/wp-content/uploads/FIWAREiHubs_BrandGuideline.pdf" target="_blank"><span class="material-symbols-outlined">download</span>Download PDF</a>
     </div>
 </div>
 

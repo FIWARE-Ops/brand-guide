@@ -6,10 +6,10 @@ To download a badge select the preferred image format and click on the download 
 
 <div class="cta-container">
     <div class="primary-btn">
-        <a href="#" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
+        <a href="https://www.fiware.org/community/fiware-ihubs/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
     </div>
     <div class="primary-btn">
-        <a href="#" target="_blank"><span class="material-symbols-outlined">download</span>Download PDF</a>
+        <a href="https://www.fiware.org/wp-content/uploads/FIWAREiHubs_BrandGuideline.pdf" target="_blank"><span class="material-symbols-outlined">download</span>Download PDF</a>
     </div>
 </div>
 
