@@ -1,6 +1,6 @@
 <h1>FIWARE iHubs</h1>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+The iHub Badge is a symbol of highest quality and optimum performance. The FIWARE iHubs Program is a trend-setter. All FIWARE iHubs with whom we work in our local and global competence network are certified, systematically trained, and supported with diverse services.
 
 To download a badge select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use them within an <img> tag.
 
@@ -132,7 +132,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="col-2">
             <h3>Clear Space</h3>
             <div class="logo-container no-attributes"><img src="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/usage/badge-fiware-ihubs-clear-zone.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
-            <p>All versions of our logo have exclusion zones around them to help them stand out. The exclusion zone is equal to the height of letter A.</p>
+            <p>All versions of our logo have exclusion zones around them to help them stand out. The exclusion zone is equal to 0.5x for the x hight.</p>
         </div>
         <div class="col-2">
             <h3>Minimum Sizes</h3>

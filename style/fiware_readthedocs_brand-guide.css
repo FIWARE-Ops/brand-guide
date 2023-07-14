@@ -456,6 +456,12 @@ h6 {
     margin: 0.45em 0 !important;
 }
 
+#badge-fiware-evangelists-min-width {
+    width: 75px;
+    max-width: 75px;
+    margin: 0.45em 0 !important;
+}
+
 #logo-fiware-foundation-min-width {
     width: 100px;
     max-width: 100px;
