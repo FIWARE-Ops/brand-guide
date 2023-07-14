@@ -264,7 +264,7 @@ h2#fiware-impact-stories,
 h2#fiware-lab,
 h2#fiware-marketplace,
 h2#fiware-scientific-advisory-board {
-    margin: 30px 0 0!important;
+    margin: 30px 0 0 !important;
 }
 
 h3 {
@@ -404,6 +404,10 @@ h6 {
     padding: 110px 110px 70px;
 }
 
+.main-container .logo-container.marketplace img {
+    padding: 24% 12% 15%;
+}
+
 .main-container .logo-container.square {
     width: 100%;
     height: 360px;
@@ -414,7 +418,7 @@ h6 {
 }
 
 .main-container .logo-container.square img {
-    max-height: 180px!important;
+    max-height: 180px !important;
     padding: 0;
 }
 
@@ -574,7 +578,7 @@ h6 {
 }
 
 .square {
-    padding: 12%!important;
+    padding: 12% !important;
     max-height: 132px;
 }
 
@@ -649,17 +653,17 @@ button.copy:focus-visible {
 
 .ico-negative {
     color: #fff !important;
-    background-color: rgba(255,255,255,0)!important;
+    background-color: rgba(255, 255, 255, 0) !important;
 }
 
 .ico-negative:active,
 .ico-negative:hover,
 .ico-negative:focus {
-    background-color: rgba(255,255,255,.2)!important;
+    background-color: rgba(255, 255, 255, .2) !important;
 }
 
 .ico-negative:focus-visible {
-    background-color: rgba(255,255,255,0)!important;
+    background-color: rgba(255, 255, 255, 0) !important;
     color: #fff;
     outline: none !important;
 }
@@ -957,8 +961,13 @@ select {
         flex-direction: column;
     }
 
+
+    .main-container .logo-container.marketplace img {
+        padding: 21% 12% 10%;
+    }
+
     .grid .col-3.scroll-x .dwl-container {
-        display: none!important;
+        display: none !important;
     }
 
     .dwl-container-m {
@@ -985,7 +994,7 @@ select {
     }
 
     .grid .col-3.scroll-x .logo-container {
-        margin: 15px 0 0!important;
+        margin: 15px 0 0 !important;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -997,7 +1006,7 @@ select {
     }
 
     .grid .col-3.scroll-x .logo-container.marketplace img {
-        padding: 21% 8% 0%!important;
+        padding: 21% 8% 0% !important;
     }
 
     .grid .col-3.scroll-x .logo-container.square img {
@@ -1051,11 +1060,11 @@ select {
 
     .main-container .logo-container.square img {
         /* padding: 10% 10% 0%; */
-        max-height: 111px!important;
+        max-height: 111px !important;
     }
 
     .logo-container.no-attributes {
-        max-height: fit-content!important;
+        max-height: fit-content !important;
     }
 
     .logo-container.square {
