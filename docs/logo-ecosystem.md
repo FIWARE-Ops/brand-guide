@@ -3,9 +3,7 @@
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
 
 ## FIWARE Accelerator
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
+<p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 <div class="primary-btn">
     <a href="https://www.fiware.org/community/fiware-accelerator-programme/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
 </div>
@@ -96,9 +94,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 
 ## FIWARE Global Summit
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
+<p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 <div class="primary-btn">
     <a href="https://www.fiware.org/global-summit/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
 </div>
@@ -314,9 +310,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 
 ## FIWARE iHubs
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
+<p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 <div class="cta-container">
     <div class="primary-btn">
         <a href="#" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
@@ -441,9 +435,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 
 ## FIWARE Impact Stories
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
+<p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 <div class="primary-btn">
     <a href="https://www.fiware.org/about-us/impact-stories/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
 </div>
@@ -533,14 +525,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 
 ## FIWARE Lab
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
-<a href="https://fiware-lab-academy.readthedocs.io/en/latest/" target="_blank">
-    <div class="primary-btn">
-        <span class="material-symbols-outlined">open_in_new</span>Visit the Website
-    </div>
-</a>
+<p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+<div class="primary-btn">
+    <a href="https://fiware-lab-academy.readthedocs.io/en/latest/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+</div>
 
 <div class="section-container">
     <div class="main-container">
@@ -657,9 +645,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 
 ## FIWARE Marketplace
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-
+<p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 <div class="primary-btn">
     <a href="https://www.fiware.org/marketplace/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
 </div>
@@ -779,9 +765,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 
 ## FIWARE Scientific Advisory Board
-
-FIWARE Scientific Advisory Board lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient.
-
+<p class="description">FIWARE Scientific Advisory Board lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient.</p>
 <div class="primary-btn">
     <a href="https://www.fiware.org/governance/fisab/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
 </div>

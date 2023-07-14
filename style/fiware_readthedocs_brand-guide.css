@@ -257,6 +257,16 @@ h2#smart-water {
     margin: 30px 0 0 !important;
 }
 
+h2#fiware-accelerator,
+h2#fiware-global-summit,
+h2#fiware-ihubs,
+h2#fiware-impact-stories,
+h2#fiware-lab,
+h2#fiware-marketplace,
+h2#fiware-scientific-advisory-board {
+    margin: 30px 0 0!important;
+}
+
 h3 {
     color: #000 !important;
 }
@@ -731,7 +741,7 @@ select {
     background: var(--primary-500) !important;
     margin: 20px 0 0;
     border-radius: 4px;
-    font-size: 15px;
+    font-size: 14px;
     line-height: 1.5em;
     font-weight: 400 !important;
     color: #fff !important;
@@ -758,9 +768,9 @@ select {
     display: flex;
     align-items: center;
     gap: 10px;
-    padding: 10px 15px;
+    padding: 6px 12px;
     border-radius: 4px;
-    font-size: 15px;
+    font-size: 14px;
     line-height: 1.5em;
     font-weight: 400 !important;
     transition: all 0.3s ease-in-out;
