@@ -249,11 +249,12 @@ h2 {
     margin: 60px 0 15px 0 !important;
 }
 
+h2#smart-agrifood,
 h2#smart-cities,
 h2#smart-energy,
 h2#smart-industry,
 h2#smart-water {
-    margin: 30px 0 15px 0 !important;
+    margin: 30px 0 0 !important;
 }
 
 h3 {
@@ -334,7 +335,7 @@ h6 {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    margin: 30px 0 0;
+    margin: 0;
 }
 
 .logo-usage-container {
@@ -390,7 +391,7 @@ h6 {
 }
 
 .main-container .logo-container img {
-    padding: 15%;
+    padding: 110px 110px 70px;
 }
 
 .main-container .logo-container.square {
@@ -475,6 +476,10 @@ h6 {
 
 .col-4 .logo-container {
     min-height: 100px;
+}
+
+.description {
+    padding: 10px 0 0;
 }
 
 .col-2 p,
@@ -725,12 +730,51 @@ select {
     gap: 10px;
     width: fit-content !important;
     background: var(--primary-500) !important;
-    /* padding: 10px 15px; */
+    margin: 20px 0 0;
     border-radius: 4px;
     font-size: 15px;
     line-height: 1.5em;
     font-weight: 400 !important;
     color: #fff !important;
+    transition: all 0.3s ease-in-out;
+}
+
+.secondary-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: fit-content !important;
+    background: rgba(var(--primary-500, 0)) !important;
+    margin: 10px 0 0;
+    border-radius: 4px;
+    font-size: 15px;
+    line-height: 1.5em;
+    font-weight: 400 !important;
+    color: var(--primary-500) !important;
+    transition: all 0.3s ease-in-out;
+}
+
+.primary-btn a:any-link {
+    color: #fff !important;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 15px;
+    font-size: 15px;
+    line-height: 1.5em;
+    font-weight: 400 !important;
+    transition: all 0.3s ease-in-out;
+}
+
+.secondary-btn a:any-link {
+    color: var(--gray-700) !important;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 0;
+    font-size: 15px;
+    line-height: 1.5em;
+    font-weight: 500 !important;
     transition: all 0.3s ease-in-out;
 }
 
@@ -744,23 +788,13 @@ select {
     transition: all 0.3s ease-in-out;
 }
 
-.primary-btn:hover {
+.primary-btn a:any-link:hover {
     background: var(--primary-600) !important;
 }
 
-.tertiary-btn:hover {
-    color: var(--primary-500);
-}
-
-.primary-btn a:any-link {
-    color: #fff !important;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    padding: 10px 15px;
-    font-size: 15px;
-    line-height: 1.5em;
-    font-weight: 400 !important;
+.secondary-btn a:any-link:hover,
+.tertiary-btn a:any-link:hover {
+    color: var(--primary-600) !important;
 }
 
 /* Tooltip */

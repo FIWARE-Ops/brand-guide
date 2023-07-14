@@ -12,7 +12,11 @@ To download a badge select the preferred image format and click on the download 
 
 ## Powered by FIWARE
 
-Smart Solutions using the NGSI open standard for communicating state between microservices for context driven products.
+<div class="secondary-btn">
+    <a href="https://www.fiware.org/marketplace/powered-by-fiware/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+</div>
+
+<p class="description">Smart Solutions using the NGSI open standard for communicating state between microservices for context driven products.</p>
 
 <div class="badges-container">
     <div class="badge-container">
@@ -34,7 +38,11 @@ Smart Solutions using the NGSI open standard for communicating state between mic
 
 ## FIWARE Ready
 
-Devices and systems pluggable in powered by FIWARE architectures via NGSI standard interfaces they offer.
+<div class="secondary-btn">
+    <a href="https://www.fiware.org/marketplace/fiware-ready/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+</div>
+
+<p class="description">Devices and systems pluggable in powered by FIWARE architectures via NGSI standard interfaces they offer.</p>
 
 <div class="badges-container">
     <div class="badge-container">
@@ -56,7 +64,11 @@ Devices and systems pluggable in powered by FIWARE architectures via NGSI standa
 
 ## Cities4Cities
 
-Cities offering to other cities and territories FIWARE-based mature and off-the-shelf Smart City platforms ready to reuse.
+<div class="secondary-btn">
+    <a href="https://www.fiware.org/marketplace/cities4cities/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+</div>
+
+<p class="description">Cities offering to other cities and territories FIWARE-based mature and off-the-shelf Smart City platforms ready to reuse.</p>
 
 <div class="badges-container">
     <div class="badge-container">
@@ -78,7 +90,11 @@ Cities offering to other cities and territories FIWARE-based mature and off-the-
 
 ## Support Services
 
-Organizations with certified FIWARE Experts offering training, coaching, consultancy, integration or support.
+<div class="secondary-btn">
+    <a href="https://www.fiware.org/marketplace/support-services/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+</div>
+
+<p class="description">Organizations with certified FIWARE Experts offering training, coaching, consultancy, integration or support.</p>
 
 <div class="badges-container">
     <div class="badge-container">
