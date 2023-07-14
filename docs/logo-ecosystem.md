@@ -5,7 +5,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 ## FIWARE Accelerator
 <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 <div class="primary-btn">
-    <a href="https://www.fiware.org/community/fiware-accelerator-programme/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+    <a href="https://www.fiware.org/community/fiware-accelerator-programme/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 <div class="section-container">
@@ -96,7 +96,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 ## FIWARE Global Summit
 <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 <div class="primary-btn">
-    <a href="https://www.fiware.org/global-summit/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+    <a href="https://www.fiware.org/global-summit/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 <div class="section-container">
@@ -313,7 +313,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 <div class="cta-container">
     <div class="primary-btn">
-        <a href="#" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+        <a href="#" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
     </div>
     <div class="primary-btn">
         <a href="#" target="_blank"><span class="material-symbols-outlined">download</span>Download PDF</a>
@@ -437,7 +437,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 ## FIWARE Impact Stories
 <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 <div class="primary-btn">
-    <a href="https://www.fiware.org/about-us/impact-stories/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+    <a href="https://www.fiware.org/about-us/impact-stories/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 <div class="section-container">
     <div class="main-container">
@@ -527,7 +527,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 ## FIWARE Lab
 <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 <div class="primary-btn">
-    <a href="https://fiware-lab-academy.readthedocs.io/en/latest/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+    <a href="https://fiware-lab-academy.readthedocs.io/en/latest/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 <div class="section-container">
@@ -647,7 +647,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 ## FIWARE Marketplace
 <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
 <div class="primary-btn">
-    <a href="https://www.fiware.org/marketplace/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+    <a href="https://www.fiware.org/marketplace/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 <div class="section-container">
@@ -767,7 +767,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 ## FIWARE Scientific Advisory Board
 <p class="description">FIWARE Scientific Advisory Board lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient.</p>
 <div class="primary-btn">
-    <a href="https://www.fiware.org/governance/fisab/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+    <a href="https://www.fiware.org/governance/fisab/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 <div class="section-container">

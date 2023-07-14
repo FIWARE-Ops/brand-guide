@@ -6,7 +6,7 @@ To download a badge select the preferred image format and click on the download 
 
 <div class="cta-container">
     <div class="primary-btn">
-        <a href="#" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+        <a href="#" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
     </div>
     <div class="primary-btn">
         <a href="#" target="_blank"><span class="material-symbols-outlined">download</span>Download PDF</a>

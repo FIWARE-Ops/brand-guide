@@ -7,7 +7,7 @@ To download a badge select the preferred image format and click on the download 
 ## Smart AgriFood
 
 <div class="secondary-btn">
-    <a href="https://www.fiware.org/community/smart-agrifood/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+    <a href="https://www.fiware.org/community/smart-agrifood/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 <div class="badges-container">
@@ -31,7 +31,7 @@ To download a badge select the preferred image format and click on the download 
 ## Smart Cities
 
 <div class="secondary-btn">
-    <a href="https://www.fiware.org/about-us/smart-cities/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+    <a href="https://www.fiware.org/about-us/smart-cities/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 <div class="badges-container">
@@ -55,7 +55,7 @@ To download a badge select the preferred image format and click on the download 
 ## Smart Energy
 
 <div class="secondary-btn">
-    <a href="https://www.fiware.org/about-us/smart-energy/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+    <a href="https://www.fiware.org/about-us/smart-energy/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 <div class="badges-container">
@@ -79,7 +79,7 @@ To download a badge select the preferred image format and click on the download 
 ## Smart Industry
 
 <div class="secondary-btn">
-    <a href="https://www.fiware.org/about-us/smart-industry/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+    <a href="https://www.fiware.org/about-us/smart-industry/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 <div class="badges-container">
@@ -103,7 +103,7 @@ To download a badge select the preferred image format and click on the download 
 ## Smart Water
 
 <div class="secondary-btn">
-    <a href="https://www.fiware.org/about-us/smart-water/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the Website</a>
+    <a href="https://www.fiware.org/about-us/smart-water/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 <div class="badges-container">
