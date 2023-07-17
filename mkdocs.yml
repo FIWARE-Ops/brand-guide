@@ -28,7 +28,7 @@ nav:
     - 'FIWARE Marketplace': 'badge-marketplace.md'
     - 'FIWARE iHubs': 'badge-ihubs.md'
     - 'FIWARE Evangelists': 'badge-evangelists.md'
-  - 'Resources': 
-  - 'Typography': 'typography.md'
-    - 'Primary Font': 'primary-font.md' 
+  - 'Typography':
+    - 'Primary Font': 'primary-font.md'
+  - 'Resources':
     - 'Colors': 'colors.md'

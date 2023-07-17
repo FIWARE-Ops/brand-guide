@@ -1,6 +1,4 @@
-# Typography
-
-## Primary Font
+# Primary Font
 <h1>Montserrat</h1>
 
 <div class="typography">
