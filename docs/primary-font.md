@@ -4,8 +4,7 @@
 ## About
 Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ranging from Thin to Black. Originally designed in 2017 by Julieta Ulanovsky, and since then continuously developed, the low stroke contrast, closed apertures and several angular details define its distinctive characteristics. This font family is licensed under the Open Font License. It is allowed to use freely in products & projects - print or digital, commercial or otherwise.
 
-## Styles in use
-
+## Variants in use
 <p>7 weights are available to use.</p>
 <!--Size dropdown menu-->
 <select id="size_select">
