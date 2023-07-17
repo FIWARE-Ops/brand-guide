@@ -1,5 +1,9 @@
 # Primary Font
-<span class="primary-font">Montserrat</span>
+<div><span class="primary-font">Montserrat</span></div>
+
+<div class="primary-btn">
+    <a href="#" target="_blank"><span class="material-symbols-outlined">download</span>Download</a>
+</div>
 
 ## About
 Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ranging from Thin to Black. Originally designed in 2017 by Julieta Ulanovsky, and since then continuously developed, the low stroke contrast, closed apertures and several angular details define its distinctive characteristics. This font family is licensed under the Open Font License. It is allowed to use freely in products & projects - print or digital, commercial or otherwise.
