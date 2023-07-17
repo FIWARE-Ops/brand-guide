@@ -292,6 +292,83 @@ h6 {
     padding-bottom: 10px !important;
 }
 
+.typography h3 {
+    padding: 15px 0 5px!important;
+}
+
+.size_chart h4 {
+    line-height: 1em;
+}
+
+.typographic-items {
+    font-size: 52px !important;
+    line-height: 1.5em !important;
+    color: var(--gray-900) !important;
+}
+
+#option1.primary-font {
+    font-weight: 300;
+}
+
+#option2.primary-font {
+    font-weight: 300;
+    font-style: italic
+}
+
+#option3.primary-font {
+    font-weight: 400;
+}
+
+#option4.primary-font {
+    font-weight: 400;
+    font-style: italic
+}
+
+#option5.primary-font {
+    font-weight: 500;
+}
+
+#option6.primary-font {
+    font-weight: 500;
+    font-style: italic
+}
+
+#option7.primary-font {
+    font-weight: 600;
+}
+
+#option8.primary-font {
+    font-weight: 600;
+    font-style: italic
+}
+
+#option9.primary-font {
+    font-weight: 700;
+}
+
+#option10.primary-font {
+    font-weight: 700;
+    font-style: italic
+}
+
+#option11.primary-font {
+    font-weight: 800;
+}
+
+#option12.primary-font {
+    font-weight: 800;
+    font-style: italic
+}
+
+#option13.primary-font {
+    font-weight: 900;
+}
+
+#option14.primary-font {
+    font-weight: 900;
+    font-style: italic;
+}
+
 /* –––––––––– */
 
 
@@ -366,6 +443,13 @@ h6 {
     display: flex;
     flex-direction: column;
     gap: 10px;
+}
+
+.size_chart .module-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 30px 0 0;
 }
 
 .title-container {
@@ -516,6 +600,13 @@ h6 {
     gap: 15px;
 }
 
+.grid-tipography {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0px;
+}
+
 .grid-items {
     display: flex;
     gap: 15px;
@@ -535,6 +626,45 @@ h6 {
 
 .grid-items::-webkit-scrollbar {
     display: none;
+}
+
+.typographic-items {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+    gap: 1px;
+    padding: 0 1px 1px;
+}
+
+.item {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: transparent;
+    border: 0;
+    color: #202124;
+    font: inherit;
+    font-size: 26px;
+    height: 60px;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    outline: 1px solid #dadce0;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+}
+
+.item span {
+    display: block;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
 
 .col-3.scroll-x .dwl-container {
@@ -738,6 +868,26 @@ select {
     box-shadow: none;
     background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right rgba(255, 255, 255, 0);
     background-position-x: 48px;
+}
+
+select#size_select {
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+    width: 200px;
+    height: 45px;
+    padding: 10px;
+    margin: 15px 0 0;
+    font-family: 'Montserrat';
+    font-size: 15px;
+    line-height: normal!important;
+    font-weight: 500;
+    color: #000 !important;
+    border: 1px solid var(--gray-500, 1) !important;
+    border-radius: 4px !important;
+    box-shadow: none;
+    background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right rgba(255, 255, 255, 0);
+    background-position-x: 165px;
 }
 
 

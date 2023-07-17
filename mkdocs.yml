@@ -29,5 +29,6 @@ nav:
     - 'FIWARE iHubs': 'badge-ihubs.md'
     - 'FIWARE Evangelists': 'badge-evangelists.md'
   - 'Resources': 
-    - 'Typography': 'typography.md' 
+  - 'Typography': 'typography.md'
+    - 'Primary Font': 'primary-font.md' 
     - 'Colors': 'colors.md'
