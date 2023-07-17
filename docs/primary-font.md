@@ -102,9 +102,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
                 <div class="item"><span>±</span></div>
                 <div class="item"><span>÷</span></div>
                 <div class="item"><span>×</span></div>
-                <div class="item"><span>
-                        << /span>
-                </div>
+                <div class="item"><span><</span></div>
                 <div class="item"><span>=</span></div>
                 <div class="item"><span>></span></div>
                 <div class="item"><span>¬</span></div>
@@ -122,7 +120,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
     </div>
     <div class="module-container">
         <div>
-            <h4>Common Latin</h4>
+            <h4>Punctuation</h4>
         </div>
         <div class="grid-typography">
             <div class="typographic-items">
@@ -251,9 +249,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
                 <div class="item"><span>±</span></div>
                 <div class="item"><span>÷</span></div>
                 <div class="item"><span>×</span></div>
-                <div class="item"><span>
-                        << /span>
-                </div>
+                <div class="item"><span><</span></div>
                 <div class="item"><span>=</span></div>
                 <div class="item"><span>></span></div>
                 <div class="item"><span>¬</span></div>
@@ -271,7 +267,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
     </div>
     <div class="module-container">
         <div>
-            <h4>Common Latin</h4>
+            <h4>Punctuation</h4>
         </div>
         <div class="grid-typography">
             <div class="typographic-items">
@@ -400,9 +396,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
                 <div class="item"><span>±</span></div>
                 <div class="item"><span>÷</span></div>
                 <div class="item"><span>×</span></div>
-                <div class="item"><span>
-                        << /span>
-                </div>
+                <div class="item"><span><</span></div>
                 <div class="item"><span>=</span></div>
                 <div class="item"><span>></span></div>
                 <div class="item"><span>¬</span></div>
@@ -420,7 +414,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
     </div>
     <div class="module-container">
         <div>
-            <h4>Common Latin</h4>
+            <h4>Punctuation</h4>
         </div>
         <div class="grid-typography">
             <div class="typographic-items">
@@ -549,9 +543,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
                 <div class="item"><span>±</span></div>
                 <div class="item"><span>÷</span></div>
                 <div class="item"><span>×</span></div>
-                <div class="item"><span>
-                        << /span>
-                </div>
+                <div class="item"><span><</span></div>
                 <div class="item"><span>=</span></div>
                 <div class="item"><span>></span></div>
                 <div class="item"><span>¬</span></div>
@@ -569,7 +561,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
     </div>
     <div class="module-container">
         <div>
-            <h4>Common Latin</h4>
+            <h4>Punctuation</h4>
         </div>
         <div class="grid-typography">
             <div class="typographic-items">
@@ -698,9 +690,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
                 <div class="item"><span>±</span></div>
                 <div class="item"><span>÷</span></div>
                 <div class="item"><span>×</span></div>
-                <div class="item"><span>
-                        << /span>
-                </div>
+                <div class="item"><span><</span></div>
                 <div class="item"><span>=</span></div>
                 <div class="item"><span>></span></div>
                 <div class="item"><span>¬</span></div>
@@ -718,7 +708,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
     </div>
     <div class="module-container">
         <div>
-            <h4>Common Latin</h4>
+            <h4>Punctuation</h4>
         </div>
         <div class="grid-typography">
             <div class="typographic-items">
@@ -847,9 +837,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
                 <div class="item"><span>±</span></div>
                 <div class="item"><span>÷</span></div>
                 <div class="item"><span>×</span></div>
-                <div class="item"><span>
-                        << /span>
-                </div>
+                <div class="item"><span><</span></div>
                 <div class="item"><span>=</span></div>
                 <div class="item"><span>></span></div>
                 <div class="item"><span>¬</span></div>
@@ -867,7 +855,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
     </div>
     <div class="module-container">
         <div>
-            <h4>Common Latin</h4>
+            <h4>Punctuation</h4>
         </div>
         <div class="grid-typography">
             <div class="typographic-items">
@@ -996,9 +984,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
                 <div class="item"><span>±</span></div>
                 <div class="item"><span>÷</span></div>
                 <div class="item"><span>×</span></div>
-                <div class="item"><span>
-                        << /span>
-                </div>
+                <div class="item"><span><</span></div>
                 <div class="item"><span>=</span></div>
                 <div class="item"><span>></span></div>
                 <div class="item"><span>¬</span></div>
@@ -1016,7 +1002,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
     </div>
     <div class="module-container">
         <div>
-            <h4>Common Latin</h4>
+            <h4>Punctuation</h4>
         </div>
         <div class="grid-typography">
             <div class="typographic-items">
@@ -1145,9 +1131,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
                 <div class="item"><span>±</span></div>
                 <div class="item"><span>÷</span></div>
                 <div class="item"><span>×</span></div>
-                <div class="item"><span>
-                        << /span>
-                </div>
+                <div class="item"><span><</span></div>
                 <div class="item"><span>=</span></div>
                 <div class="item"><span>></span></div>
                 <div class="item"><span>¬</span></div>
@@ -1165,7 +1149,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
     </div>
     <div class="module-container">
         <div>
-            <h4>Common Latin</h4>
+            <h4>Punctuation</h4>
         </div>
         <div class="grid-typography">
             <div class="typographic-items">
@@ -1294,9 +1278,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
                 <div class="item"><span>±</span></div>
                 <div class="item"><span>÷</span></div>
                 <div class="item"><span>×</span></div>
-                <div class="item"><span>
-                        << /span>
-                </div>
+                <div class="item"><span><</span></div>
                 <div class="item"><span>=</span></div>
                 <div class="item"><span>></span></div>
                 <div class="item"><span>¬</span></div>
@@ -1314,7 +1296,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
     </div>
     <div class="module-container">
         <div>
-            <h4>Common Latin</h4>
+            <h4>Punctuation</h4>
         </div>
         <div class="grid-typography">
             <div class="typographic-items">
@@ -1443,9 +1425,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
                 <div class="item"><span>±</span></div>
                 <div class="item"><span>÷</span></div>
                 <div class="item"><span>×</span></div>
-                <div class="item"><span>
-                        << /span>
-                </div>
+                <div class="item"><span><</span></div>
                 <div class="item"><span>=</span></div>
                 <div class="item"><span>></span></div>
                 <div class="item"><span>¬</span></div>
@@ -1463,7 +1443,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
     </div>
     <div class="module-container">
         <div>
-            <h4>Common Latin</h4>
+            <h4>Punctuation</h4>
         </div>
         <div class="grid-typography">
             <div class="typographic-items">
@@ -1592,9 +1572,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
                 <div class="item"><span>±</span></div>
                 <div class="item"><span>÷</span></div>
                 <div class="item"><span>×</span></div>
-                <div class="item"><span>
-                        << /span>
-                </div>
+                <div class="item"><span><</span></div>
                 <div class="item"><span>=</span></div>
                 <div class="item"><span>></span></div>
                 <div class="item"><span>¬</span></div>
@@ -1612,7 +1590,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
     </div>
     <div class="module-container">
         <div>
-            <h4>Common Latin</h4>
+            <h4>Punctuation</h4>
         </div>
         <div class="grid-typography">
             <div class="typographic-items">
@@ -1741,9 +1719,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
                 <div class="item"><span>±</span></div>
                 <div class="item"><span>÷</span></div>
                 <div class="item"><span>×</span></div>
-                <div class="item"><span>
-                        << /span>
-                </div>
+                <div class="item"><span><</span></div>
                 <div class="item"><span>=</span></div>
                 <div class="item"><span>></span></div>
                 <div class="item"><span>¬</span></div>
@@ -1761,7 +1737,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
     </div>
     <div class="module-container">
         <div>
-            <h4>Common Latin</h4>
+            <h4>Punctuation</h4>
         </div>
         <div class="grid-typography">
             <div class="typographic-items">
@@ -1890,9 +1866,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
                 <div class="item"><span>±</span></div>
                 <div class="item"><span>÷</span></div>
                 <div class="item"><span>×</span></div>
-                <div class="item"><span>
-                        << /span>
-                </div>
+                <div class="item"><span><</span></div>
                 <div class="item"><span>=</span></div>
                 <div class="item"><span>></span></div>
                 <div class="item"><span>¬</span></div>
@@ -1910,7 +1884,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
     </div>
     <div class="module-container">
         <div>
-            <h4>Common Latin</h4>
+            <h4>Punctuation</h4>
         </div>
         <div class="grid-typography">
             <div class="typographic-items">
@@ -2039,9 +2013,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
                 <div class="item"><span>±</span></div>
                 <div class="item"><span>÷</span></div>
                 <div class="item"><span>×</span></div>
-                <div class="item"><span>
-                        << /span>
-                </div>
+                <div class="item"><span><</span></div>
                 <div class="item"><span>=</span></div>
                 <div class="item"><span>></span></div>
                 <div class="item"><span>¬</span></div>
@@ -2059,7 +2031,7 @@ Montserrat is a geometric sansserif typeface family, consisting of 9 styles, ran
     </div>
     <div class="module-container">
         <div>
-            <h4>Common Latin</h4>
+            <h4>Punctuation</h4>
         </div>
         <div class="grid-typography">
             <div class="typographic-items">
