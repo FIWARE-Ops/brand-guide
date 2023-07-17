@@ -306,6 +306,13 @@ h6 {
     color: var(--gray-900) !important;
 }
 
+.primary-font {
+    color: #000;
+    font-size: 52px;
+    line-height: 2em;
+    font-weight: 400;
+}
+
 #option1.primary-font {
     font-weight: 300;
 }
