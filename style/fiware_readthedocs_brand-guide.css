@@ -612,7 +612,8 @@ h6 {
 }
 
 .size_chart .module-container,
-.size_chart-fgs .module-container {
+.size_chart-fgs .module-container,
+.size_chart-system .module-container {
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -1038,7 +1039,8 @@ select {
 }
 
 select#size_select,
-select#size_select-fgs {
+select#size_select-fgs,
+select#size_select-system {
     -webkit-appearance: none !important;
     -moz-appearance: none !important;
     appearance: none !important;
