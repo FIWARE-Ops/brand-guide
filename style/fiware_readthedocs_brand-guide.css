@@ -306,8 +306,9 @@ h6 {
     color: var(--gray-900) !important;
 }
 
-.primary-font {
+.secondary-font {
     color: #000;
+    font-family: 'Merriweather', serif;
     font-size: 52px;
     line-height: 2em;
     font-weight: 400;

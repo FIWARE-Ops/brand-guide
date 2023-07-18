@@ -16,16 +16,10 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
     <option value="option2">Light 300 Italic</option>
     <option value="option3">Regular 400</option>
     <option value="option4">Regular 400 Italic</option>
-    <option value="option5">Medium 500</option>
-    <option value="option6">Medium 500 Italic</option>
-    <option value="option7">SemiBold 600</option>
-    <option value="option8">SemiBold 600 Italic</option>
-    <option value="option9">Bold 700</option>
-    <option value="option10">Bold 700 Italic</option>
-    <option value="option11">ExtraBold 800</option>
-    <option value="option12">ExtraBold 800 Italic</option>
-    <option value="option13">Black 900</option>
-    <option value="option14">Black 900 Italic</option>
+    <option value="option5">Bold 700</option>
+    <option value="option6">Bold 700 Italic</option>
+    <option value="option7">Black 900</option>
+    <option value="option8">Black 900 Italic</option>
 </select>
 <!--Size dropdown content-->
 <div id="option1" class="size_chart secondary-font">
