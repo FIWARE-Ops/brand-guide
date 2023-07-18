@@ -44,7 +44,7 @@ $(document).ready(function(){
   $(".size_chart").hide();
   
   //unhides first option content
-  $("#option3").show();
+  $("#option1").show();
   
   //listen to dropdown for change
   $("#size_select").change(function(){
