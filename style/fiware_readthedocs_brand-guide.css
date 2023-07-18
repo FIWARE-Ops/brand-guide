@@ -306,6 +306,14 @@ h6 {
     color: var(--gray-900) !important;
 }
 
+.primary-font {
+    color: #000;
+    font-family: 'Montserrat', serif;
+    font-size: 52px;
+    line-height: 2em;
+    font-weight: 400;
+}
+
 .secondary-font {
     color: #000;
     font-family: 'Merriweather', serif;
@@ -317,6 +325,14 @@ h6 {
 .fgs-font {
     color: #000;
     font-family: 'Poppins', sans-serif;
+    font-size: 52px;
+    line-height: 2em;
+    font-weight: 400;
+}
+
+.system-font {
+    color: #000;
+    font-family: 'Arial', sans-serif;
     font-size: 52px;
     line-height: 2em;
     font-weight: 400;
@@ -383,13 +399,6 @@ h6 {
 #option14.primary-font {
     font-weight: 900;
     font-style: italic;
-}
-
-.secondary-font {
-    color: #000;
-    font-size: 52px;
-    line-height: 2em;
-    font-weight: 400;
 }
 
 #option1.secondary-font {
@@ -507,6 +516,23 @@ h6 {
 #option18.fgs-font {
     font-weight: 900;
     font-style: italic;
+}
+#option1.system-font {
+    font-weight: 400;
+}
+
+#option2.system-font {
+    font-weight: 400;
+    font-style: italic
+}
+
+#option3.system-font {
+    font-weight: 700;
+}
+
+#option4.system-font {
+    font-weight: 700;
+    font-style: italic
 }
 
 /* –––––––––– */
