@@ -1,4 +1,4 @@
-# Primary Font
+# Secondary Font
 <div><span class="secondary-font">Merriweather</span></div>
 
 <div class="secondary-btn">
