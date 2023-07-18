@@ -34,6 +34,6 @@ nav:
   - 'Typography': 
     - 'Primary Font': 'primary-font.md'
     - 'Secondary Font': 'secondary-font.md'
-    - 'FIWARE Global Summit Font': 'fgs-font.md'
+    - 'FGS Font': 'fgs-font.md'
   - 'Resources':
     - 'Colors': 'colors.md'
