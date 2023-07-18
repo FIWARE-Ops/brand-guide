@@ -36,6 +36,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://fiware-brand-guide.readthedocs.org/fgs-font.html</loc>
+         <lastmod>2023-07-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://fiware-brand-guide.readthedocs.org/logo-ecosystem.html</loc>
          <lastmod>2023-07-18</lastmod>
          <changefreq>daily</changefreq>
