@@ -267,7 +267,8 @@ h2#fiware-scientific-advisory-board {
     margin: 30px 0 0 !important;
 }
 
-h2#secondary-colour {
+h2#secondary-colour,
+h2#tertiary-colours {
     margin: 35px 0 0 !important;
 }
 
@@ -546,12 +547,18 @@ h6 {
 }
 
 .colour-label {
-    color: #fff;
+    color: #000;
     font-size: 14px;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 2px;
     line-height: 2.8em;
+}
+
+.colour-label.negative {
+    color: #fff;
+    background-color: rgba(var(--gray-400, 0)) !important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 /* –––––––––– */
@@ -670,8 +677,14 @@ h6 {
     display: flex;
     flex-direction: column;
     gap: 5px;
-    color: #fff;
+    color: #000;
     padding-bottom: 3px;
+}
+
+.colour-settings.negative {
+    color: #fff;
+    background-color: rgba(var(--gray-400, 0)) !important;
+    border: 1px solid rgba(var(--gray-400, 0)) !important;
 }
 
 .colour-code {
