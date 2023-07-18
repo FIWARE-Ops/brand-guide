@@ -35,5 +35,6 @@ nav:
     - 'Primary Font': 'primary-font.md'
     - 'Secondary Font': 'secondary-font.md'
     - 'FGS Font': 'fgs-font.md'
+    - 'System Font': 'system-font.md'
   - 'Resources':
     - 'Colors': 'colors.md'
