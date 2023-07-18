@@ -611,7 +611,8 @@ h6 {
     gap: 10px;
 }
 
-.size_chart .module-container {
+.size_chart .module-container,
+.size_chart-fgs .module-container {
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -1036,7 +1037,8 @@ select {
     background-position-x: 48px;
 }
 
-select#size_select {
+select#size_select,
+select#size_select-fgs {
     -webkit-appearance: none !important;
     -moz-appearance: none !important;
     appearance: none !important;

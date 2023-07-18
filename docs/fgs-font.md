@@ -11,7 +11,7 @@ Poppins is a sans-serif typeface, consisting of 9 styles, ranging from Thin to B
 ## Variants in use
 <p>All weights are available to use.</p>
 <!--Size dropdown menu-->
-<select id="size_select">
+<select id="size_select-fgs">
     <option value="option7">Thin 100</option>
     <option value="option8">Thin 100 Italic</option>
     <option value="option3">ExtraLight 200</option>
@@ -19,7 +19,7 @@ Poppins is a sans-serif typeface, consisting of 9 styles, ranging from Thin to B
     <option value="option5">Light 300</option>
     <option value="option6">Light 300 Italic</option>
     <option value="option1">Regular 400</option>
-    <option value="option1">Regular 400 Italic</option>
+    <option value="option2">Regular 400 Italic</option>
     <option value="option9">Medium 500</option>
     <option value="option10">Medium 500 Italic</option>
     <option value="option11">SemiBold 600</option>
@@ -1944,6 +1944,590 @@ Poppins is a sans-serif typeface, consisting of 9 styles, ranging from Thin to B
     </div>
 </div>
 <div id="option14" class="size_chart fgs-font">
+    <div class="module-container">
+        <div>
+            <h4>Letters</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>a</span></div>
+                <div class="item"><span>b</span></div>
+                <div class="item"><span>c</span></div>
+                <div class="item"><span>d</span></div>
+                <div class="item"><span>e</span></div>
+                <div class="item"><span>f</span></div>
+                <div class="item"><span>g</span></div>
+                <div class="item"><span>h</span></div>
+                <div class="item"><span>i</span></div>
+                <div class="item"><span>j</span></div>
+                <div class="item"><span>k</span></div>
+                <div class="item"><span>l</span></div>
+                <div class="item"><span>m</span></div>
+                <div class="item"><span>n</span></div>
+                <div class="item"><span>o</span></div>
+                <div class="item"><span>p</span></div>
+                <div class="item"><span>q</span></div>
+                <div class="item"><span>r</span></div>
+                <div class="item"><span>s</span></div>
+                <div class="item"><span>t</span></div>
+                <div class="item"><span>u</span></div>
+                <div class="item"><span>v</span></div>
+                <div class="item"><span>w</span></div>
+                <div class="item"><span>x</span></div>
+                <div class="item"><span>y</span></div>
+                <div class="item"><span>z</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="module-container">
+        <div>
+            <h4>Numbers</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>0</span></div>
+                <div class="item"><span>1</span></div>
+                <div class="item"><span>2</span></div>
+                <div class="item"><span>3</span></div>
+                <div class="item"><span>4</span></div>
+                <div class="item"><span>5</span></div>
+                <div class="item"><span>6</span></div>
+                <div class="item"><span>7</span></div>
+                <div class="item"><span>8</span></div>
+                <div class="item"><span>9</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="module-container">
+        <div>
+            <h4>Common Latin</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>`</span></div>
+                <div class="item"><span>´</span></div>
+                <div class="item"><span>^</span></div>
+                <div class="item"><span>¯</span></div>
+                <div class="item"><span>¨</span></div>
+                <div class="item"><span>¸</span></div>
+                <div class="item"><span>°</span></div>
+                <div class="item"><span>©</span></div>
+                <div class="item"><span>®</span></div>
+                <div class="item"><span>+</span></div>
+                <div class="item"><span>±</span></div>
+                <div class="item"><span>÷</span></div>
+                <div class="item"><span>×</span></div>
+                <div class="item"><span><</span></div>
+                <div class="item"><span>=</span></div>
+                <div class="item"><span>></span></div>
+                <div class="item"><span>¬</span></div>
+                <div class="item"><span>|</span></div>
+                <div class="item"><span>¦</span></div>
+                <div class="item"><span>~</span></div>
+                <div class="item"><span>¤</span></div>
+                <div class="item"><span>¢</span></div>
+                <div class="item"><span>$</span></div>
+                <div class="item"><span>€</span></div>
+                <div class="item"><span>£</span></div>
+                <div class="item"><span>¥</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="module-container">
+        <div>
+            <h4>Punctuation</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>⁄</span></div>
+                <div class="item"><span>_</span></div>
+                <div class="item"><span>-</span></div>
+                <div class="item"><span>¯</span></div>
+                <div class="item"><span>–</span></div>
+                <div class="item"><span>—</span></div>
+                <div class="item"><span>,</span></div>
+                <div class="item"><span>;</span></div>
+                <div class="item"><span>:</span></div>
+                <div class="item"><span>!</span></div>
+                <div class="item"><span>¡</span></div>
+                <div class="item"><span>?</span></div>
+                <div class="item"><span>¿</span></div>
+                <div class="item"><span>.</span></div>
+                <div class="item"><span>…</span></div>
+                <div class="item"><span>·</span></div>
+                <div class="item"><span>'</span></div>
+                <div class="item"><span>‘</span></div>
+                <div class="item"><span>’</span></div>
+                <div class="item"><span>‚</span></div>
+                <div class="item"><span>‹</span></div>
+                <div class="item"><span>›</span></div>
+                <div class="item"><span>"</span></div>
+                <div class="item"><span>“</span></div>
+                <div class="item"><span>”</span></div>
+                <div class="item"><span>„</span></div>
+                <div class="item"><span>«</span></div>
+                <div class="item"><span>»</span></div>
+                <div class="item"><span>(</span></div>
+                <div class="item"><span>)</span></div>
+                <div class="item"><span>[</span></div>
+                <div class="item"><span>]</span></div>
+                <div class="item"><span>{</span></div>
+                <div class="item"><span>}</span></div>
+                <div class="item"><span>§</span></div>
+                <div class="item"><span>¶</span></div>
+                <div class="item"><span>@</span></div>
+                <div class="item"><span>*</span></div>
+                <div class="item"><span>/</span></div>
+                <div class="item"><span>\</span></div>
+                <div class="item"><span>&</span></div>
+                <div class="item"><span>#</span></div>
+                <div class="item"><span>%</span></div>
+                <div class="item"><span>†</span></div>
+                <div class="item"><span>•</span></div>
+                <div class="item"><span>′</span></div>
+                <div class="item"><span>″</span></div>
+            </div>
+        </div>
+    </div>
+<div id="option15" class="size_chart fgs-font">
+    <div class="module-container">
+        <div>
+            <h4>Letters</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>a</span></div>
+                <div class="item"><span>b</span></div>
+                <div class="item"><span>c</span></div>
+                <div class="item"><span>d</span></div>
+                <div class="item"><span>e</span></div>
+                <div class="item"><span>f</span></div>
+                <div class="item"><span>g</span></div>
+                <div class="item"><span>h</span></div>
+                <div class="item"><span>i</span></div>
+                <div class="item"><span>j</span></div>
+                <div class="item"><span>k</span></div>
+                <div class="item"><span>l</span></div>
+                <div class="item"><span>m</span></div>
+                <div class="item"><span>n</span></div>
+                <div class="item"><span>o</span></div>
+                <div class="item"><span>p</span></div>
+                <div class="item"><span>q</span></div>
+                <div class="item"><span>r</span></div>
+                <div class="item"><span>s</span></div>
+                <div class="item"><span>t</span></div>
+                <div class="item"><span>u</span></div>
+                <div class="item"><span>v</span></div>
+                <div class="item"><span>w</span></div>
+                <div class="item"><span>x</span></div>
+                <div class="item"><span>y</span></div>
+                <div class="item"><span>z</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="module-container">
+        <div>
+            <h4>Numbers</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>0</span></div>
+                <div class="item"><span>1</span></div>
+                <div class="item"><span>2</span></div>
+                <div class="item"><span>3</span></div>
+                <div class="item"><span>4</span></div>
+                <div class="item"><span>5</span></div>
+                <div class="item"><span>6</span></div>
+                <div class="item"><span>7</span></div>
+                <div class="item"><span>8</span></div>
+                <div class="item"><span>9</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="module-container">
+        <div>
+            <h4>Common Latin</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>`</span></div>
+                <div class="item"><span>´</span></div>
+                <div class="item"><span>^</span></div>
+                <div class="item"><span>¯</span></div>
+                <div class="item"><span>¨</span></div>
+                <div class="item"><span>¸</span></div>
+                <div class="item"><span>°</span></div>
+                <div class="item"><span>©</span></div>
+                <div class="item"><span>®</span></div>
+                <div class="item"><span>+</span></div>
+                <div class="item"><span>±</span></div>
+                <div class="item"><span>÷</span></div>
+                <div class="item"><span>×</span></div>
+                <div class="item"><span><</span></div>
+                <div class="item"><span>=</span></div>
+                <div class="item"><span>></span></div>
+                <div class="item"><span>¬</span></div>
+                <div class="item"><span>|</span></div>
+                <div class="item"><span>¦</span></div>
+                <div class="item"><span>~</span></div>
+                <div class="item"><span>¤</span></div>
+                <div class="item"><span>¢</span></div>
+                <div class="item"><span>$</span></div>
+                <div class="item"><span>€</span></div>
+                <div class="item"><span>£</span></div>
+                <div class="item"><span>¥</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="module-container">
+        <div>
+            <h4>Punctuation</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>⁄</span></div>
+                <div class="item"><span>_</span></div>
+                <div class="item"><span>-</span></div>
+                <div class="item"><span>¯</span></div>
+                <div class="item"><span>–</span></div>
+                <div class="item"><span>—</span></div>
+                <div class="item"><span>,</span></div>
+                <div class="item"><span>;</span></div>
+                <div class="item"><span>:</span></div>
+                <div class="item"><span>!</span></div>
+                <div class="item"><span>¡</span></div>
+                <div class="item"><span>?</span></div>
+                <div class="item"><span>¿</span></div>
+                <div class="item"><span>.</span></div>
+                <div class="item"><span>…</span></div>
+                <div class="item"><span>·</span></div>
+                <div class="item"><span>'</span></div>
+                <div class="item"><span>‘</span></div>
+                <div class="item"><span>’</span></div>
+                <div class="item"><span>‚</span></div>
+                <div class="item"><span>‹</span></div>
+                <div class="item"><span>›</span></div>
+                <div class="item"><span>"</span></div>
+                <div class="item"><span>“</span></div>
+                <div class="item"><span>”</span></div>
+                <div class="item"><span>„</span></div>
+                <div class="item"><span>«</span></div>
+                <div class="item"><span>»</span></div>
+                <div class="item"><span>(</span></div>
+                <div class="item"><span>)</span></div>
+                <div class="item"><span>[</span></div>
+                <div class="item"><span>]</span></div>
+                <div class="item"><span>{</span></div>
+                <div class="item"><span>}</span></div>
+                <div class="item"><span>§</span></div>
+                <div class="item"><span>¶</span></div>
+                <div class="item"><span>@</span></div>
+                <div class="item"><span>*</span></div>
+                <div class="item"><span>/</span></div>
+                <div class="item"><span>\</span></div>
+                <div class="item"><span>&</span></div>
+                <div class="item"><span>#</span></div>
+                <div class="item"><span>%</span></div>
+                <div class="item"><span>†</span></div>
+                <div class="item"><span>•</span></div>
+                <div class="item"><span>′</span></div>
+                <div class="item"><span>″</span></div>
+            </div>
+        </div>
+    </div>
+<div id="option16" class="size_chart fgs-font">
+    <div class="module-container">
+        <div>
+            <h4>Letters</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>a</span></div>
+                <div class="item"><span>b</span></div>
+                <div class="item"><span>c</span></div>
+                <div class="item"><span>d</span></div>
+                <div class="item"><span>e</span></div>
+                <div class="item"><span>f</span></div>
+                <div class="item"><span>g</span></div>
+                <div class="item"><span>h</span></div>
+                <div class="item"><span>i</span></div>
+                <div class="item"><span>j</span></div>
+                <div class="item"><span>k</span></div>
+                <div class="item"><span>l</span></div>
+                <div class="item"><span>m</span></div>
+                <div class="item"><span>n</span></div>
+                <div class="item"><span>o</span></div>
+                <div class="item"><span>p</span></div>
+                <div class="item"><span>q</span></div>
+                <div class="item"><span>r</span></div>
+                <div class="item"><span>s</span></div>
+                <div class="item"><span>t</span></div>
+                <div class="item"><span>u</span></div>
+                <div class="item"><span>v</span></div>
+                <div class="item"><span>w</span></div>
+                <div class="item"><span>x</span></div>
+                <div class="item"><span>y</span></div>
+                <div class="item"><span>z</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="module-container">
+        <div>
+            <h4>Numbers</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>0</span></div>
+                <div class="item"><span>1</span></div>
+                <div class="item"><span>2</span></div>
+                <div class="item"><span>3</span></div>
+                <div class="item"><span>4</span></div>
+                <div class="item"><span>5</span></div>
+                <div class="item"><span>6</span></div>
+                <div class="item"><span>7</span></div>
+                <div class="item"><span>8</span></div>
+                <div class="item"><span>9</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="module-container">
+        <div>
+            <h4>Common Latin</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>`</span></div>
+                <div class="item"><span>´</span></div>
+                <div class="item"><span>^</span></div>
+                <div class="item"><span>¯</span></div>
+                <div class="item"><span>¨</span></div>
+                <div class="item"><span>¸</span></div>
+                <div class="item"><span>°</span></div>
+                <div class="item"><span>©</span></div>
+                <div class="item"><span>®</span></div>
+                <div class="item"><span>+</span></div>
+                <div class="item"><span>±</span></div>
+                <div class="item"><span>÷</span></div>
+                <div class="item"><span>×</span></div>
+                <div class="item"><span><</span></div>
+                <div class="item"><span>=</span></div>
+                <div class="item"><span>></span></div>
+                <div class="item"><span>¬</span></div>
+                <div class="item"><span>|</span></div>
+                <div class="item"><span>¦</span></div>
+                <div class="item"><span>~</span></div>
+                <div class="item"><span>¤</span></div>
+                <div class="item"><span>¢</span></div>
+                <div class="item"><span>$</span></div>
+                <div class="item"><span>€</span></div>
+                <div class="item"><span>£</span></div>
+                <div class="item"><span>¥</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="module-container">
+        <div>
+            <h4>Punctuation</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>⁄</span></div>
+                <div class="item"><span>_</span></div>
+                <div class="item"><span>-</span></div>
+                <div class="item"><span>¯</span></div>
+                <div class="item"><span>–</span></div>
+                <div class="item"><span>—</span></div>
+                <div class="item"><span>,</span></div>
+                <div class="item"><span>;</span></div>
+                <div class="item"><span>:</span></div>
+                <div class="item"><span>!</span></div>
+                <div class="item"><span>¡</span></div>
+                <div class="item"><span>?</span></div>
+                <div class="item"><span>¿</span></div>
+                <div class="item"><span>.</span></div>
+                <div class="item"><span>…</span></div>
+                <div class="item"><span>·</span></div>
+                <div class="item"><span>'</span></div>
+                <div class="item"><span>‘</span></div>
+                <div class="item"><span>’</span></div>
+                <div class="item"><span>‚</span></div>
+                <div class="item"><span>‹</span></div>
+                <div class="item"><span>›</span></div>
+                <div class="item"><span>"</span></div>
+                <div class="item"><span>“</span></div>
+                <div class="item"><span>”</span></div>
+                <div class="item"><span>„</span></div>
+                <div class="item"><span>«</span></div>
+                <div class="item"><span>»</span></div>
+                <div class="item"><span>(</span></div>
+                <div class="item"><span>)</span></div>
+                <div class="item"><span>[</span></div>
+                <div class="item"><span>]</span></div>
+                <div class="item"><span>{</span></div>
+                <div class="item"><span>}</span></div>
+                <div class="item"><span>§</span></div>
+                <div class="item"><span>¶</span></div>
+                <div class="item"><span>@</span></div>
+                <div class="item"><span>*</span></div>
+                <div class="item"><span>/</span></div>
+                <div class="item"><span>\</span></div>
+                <div class="item"><span>&</span></div>
+                <div class="item"><span>#</span></div>
+                <div class="item"><span>%</span></div>
+                <div class="item"><span>†</span></div>
+                <div class="item"><span>•</span></div>
+                <div class="item"><span>′</span></div>
+                <div class="item"><span>″</span></div>
+            </div>
+        </div>
+    </div>
+<div id="option17" class="size_chart fgs-font">
+    <div class="module-container">
+        <div>
+            <h4>Letters</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>a</span></div>
+                <div class="item"><span>b</span></div>
+                <div class="item"><span>c</span></div>
+                <div class="item"><span>d</span></div>
+                <div class="item"><span>e</span></div>
+                <div class="item"><span>f</span></div>
+                <div class="item"><span>g</span></div>
+                <div class="item"><span>h</span></div>
+                <div class="item"><span>i</span></div>
+                <div class="item"><span>j</span></div>
+                <div class="item"><span>k</span></div>
+                <div class="item"><span>l</span></div>
+                <div class="item"><span>m</span></div>
+                <div class="item"><span>n</span></div>
+                <div class="item"><span>o</span></div>
+                <div class="item"><span>p</span></div>
+                <div class="item"><span>q</span></div>
+                <div class="item"><span>r</span></div>
+                <div class="item"><span>s</span></div>
+                <div class="item"><span>t</span></div>
+                <div class="item"><span>u</span></div>
+                <div class="item"><span>v</span></div>
+                <div class="item"><span>w</span></div>
+                <div class="item"><span>x</span></div>
+                <div class="item"><span>y</span></div>
+                <div class="item"><span>z</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="module-container">
+        <div>
+            <h4>Numbers</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>0</span></div>
+                <div class="item"><span>1</span></div>
+                <div class="item"><span>2</span></div>
+                <div class="item"><span>3</span></div>
+                <div class="item"><span>4</span></div>
+                <div class="item"><span>5</span></div>
+                <div class="item"><span>6</span></div>
+                <div class="item"><span>7</span></div>
+                <div class="item"><span>8</span></div>
+                <div class="item"><span>9</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="module-container">
+        <div>
+            <h4>Common Latin</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>`</span></div>
+                <div class="item"><span>´</span></div>
+                <div class="item"><span>^</span></div>
+                <div class="item"><span>¯</span></div>
+                <div class="item"><span>¨</span></div>
+                <div class="item"><span>¸</span></div>
+                <div class="item"><span>°</span></div>
+                <div class="item"><span>©</span></div>
+                <div class="item"><span>®</span></div>
+                <div class="item"><span>+</span></div>
+                <div class="item"><span>±</span></div>
+                <div class="item"><span>÷</span></div>
+                <div class="item"><span>×</span></div>
+                <div class="item"><span><</span></div>
+                <div class="item"><span>=</span></div>
+                <div class="item"><span>></span></div>
+                <div class="item"><span>¬</span></div>
+                <div class="item"><span>|</span></div>
+                <div class="item"><span>¦</span></div>
+                <div class="item"><span>~</span></div>
+                <div class="item"><span>¤</span></div>
+                <div class="item"><span>¢</span></div>
+                <div class="item"><span>$</span></div>
+                <div class="item"><span>€</span></div>
+                <div class="item"><span>£</span></div>
+                <div class="item"><span>¥</span></div>
+            </div>
+        </div>
+    </div>
+    <div class="module-container">
+        <div>
+            <h4>Punctuation</h4>
+        </div>
+        <div class="grid-typography">
+            <div class="typographic-items">
+                <div class="item"><span>⁄</span></div>
+                <div class="item"><span>_</span></div>
+                <div class="item"><span>-</span></div>
+                <div class="item"><span>¯</span></div>
+                <div class="item"><span>–</span></div>
+                <div class="item"><span>—</span></div>
+                <div class="item"><span>,</span></div>
+                <div class="item"><span>;</span></div>
+                <div class="item"><span>:</span></div>
+                <div class="item"><span>!</span></div>
+                <div class="item"><span>¡</span></div>
+                <div class="item"><span>?</span></div>
+                <div class="item"><span>¿</span></div>
+                <div class="item"><span>.</span></div>
+                <div class="item"><span>…</span></div>
+                <div class="item"><span>·</span></div>
+                <div class="item"><span>'</span></div>
+                <div class="item"><span>‘</span></div>
+                <div class="item"><span>’</span></div>
+                <div class="item"><span>‚</span></div>
+                <div class="item"><span>‹</span></div>
+                <div class="item"><span>›</span></div>
+                <div class="item"><span>"</span></div>
+                <div class="item"><span>“</span></div>
+                <div class="item"><span>”</span></div>
+                <div class="item"><span>„</span></div>
+                <div class="item"><span>«</span></div>
+                <div class="item"><span>»</span></div>
+                <div class="item"><span>(</span></div>
+                <div class="item"><span>)</span></div>
+                <div class="item"><span>[</span></div>
+                <div class="item"><span>]</span></div>
+                <div class="item"><span>{</span></div>
+                <div class="item"><span>}</span></div>
+                <div class="item"><span>§</span></div>
+                <div class="item"><span>¶</span></div>
+                <div class="item"><span>@</span></div>
+                <div class="item"><span>*</span></div>
+                <div class="item"><span>/</span></div>
+                <div class="item"><span>\</span></div>
+                <div class="item"><span>&</span></div>
+                <div class="item"><span>#</span></div>
+                <div class="item"><span>%</span></div>
+                <div class="item"><span>†</span></div>
+                <div class="item"><span>•</span></div>
+                <div class="item"><span>′</span></div>
+                <div class="item"><span>″</span></div>
+            </div>
+        </div>
+    </div>
+<div id="option18" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
