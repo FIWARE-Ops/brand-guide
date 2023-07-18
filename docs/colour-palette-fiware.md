@@ -1,6 +1,6 @@
 # FIWARE Colour Palette
 
-## Primary Colour Palette
+## Primary Colour
 
 <div class="section-container">
         <div class="module-container">
@@ -18,6 +18,7 @@
                             <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         </div>
                         <div class="dwl-container-m">
+                            <span class="colour-label">primary 500</span>
                             <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         </div>
                     </div>
@@ -61,7 +62,7 @@
         </div>
     </div>
 
-## Secondary Colour Palette
+## Secondary Colour
 
 <div class="section-container">
         <div class="module-container">
