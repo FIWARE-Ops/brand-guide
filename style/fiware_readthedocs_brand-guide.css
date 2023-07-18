@@ -1141,7 +1141,7 @@ select#size_select-system {
     line-height: normal!important;
     font-weight: 500;
     color: #000 !important;
-    border: 1px solid var(--gray-500, 1) !important;
+    border: 1px solid rgba(var(--gray-400), 1) !important;
     border-radius: 4px !important;
     box-shadow: none;
     background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right rgba(255, 255, 255, 0);
