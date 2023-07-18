@@ -2,7 +2,7 @@
 <div><span class="secondary-font">Merriweather</span></div>
 
 <div class="secondary-btn">
-    <a href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Get font</a>
+    <a href="https://fonts.google.com/share?selection.family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Get font</a>
 </div>
 
 ## About
