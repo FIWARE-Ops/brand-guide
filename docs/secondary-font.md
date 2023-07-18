@@ -1,12 +1,12 @@
 # Primary Font
-<div><span class="primary-font">Montserrat</span></div>
+<div><span class="secondary-font">Merriweather</span></div>
 
 <div class="secondary-btn">
     <a href="https://fonts.google.com/share?selection.family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Get font</a>
 </div>
 
 ## About
-Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin to Black. Originally designed in 2017 by Julieta Ulanovsky, and since then continuously developed, the low stroke contrast, closed apertures and several angular details define its distinctive characteristics. This font family is licensed under the Open Font License. It is allowed to use freely in products & projects - print or digital, commercial or otherwise.
+Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to Black. It was designed to be a text face that is pleasant to read on screens. It features a very large x height, slightly condensed letterforms, a mild diagonal stress, sturdy serifs and open forms. This font family is licensed under the Open Font License. It is allowed to use freely in products & projects - print or digital, commercial or otherwise.
 
 ## Variants in use
 <p>7 weights are available to use.</p>
@@ -28,7 +28,7 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
     <option value="option14">Black 900 Italic</option>
 </select>
 <!--Size dropdown content-->
-<div id="option1" class="size_chart primary-font">
+<div id="option1" class="size_chart secondary-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -175,7 +175,7 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
         </div>
     </div>
 </div>
-<div id="option2" class="size_chart primary-font">
+<div id="option2" class="size_chart secondary-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -322,7 +322,7 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
         </div>
     </div>
 </div>
-<div id="option3" class="size_chart primary-font">
+<div id="option3" class="size_chart secondary-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -469,7 +469,7 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
         </div>
     </div>
 </div>
-<div id="option4" class="size_chart primary-font">
+<div id="option4" class="size_chart secondary-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -616,7 +616,7 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
         </div>
     </div>
 </div>
-<div id="option5" class="size_chart primary-font">
+<div id="option5" class="size_chart secondary-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -763,7 +763,7 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
         </div>
     </div>
 </div>
-<div id="option6" class="size_chart primary-font">
+<div id="option6" class="size_chart secondary-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -910,7 +910,7 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
         </div>
     </div>
 </div>
-<div id="option7" class="size_chart primary-font">
+<div id="option7" class="size_chart secondary-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -1057,7 +1057,7 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
         </div>
     </div>
 </div>
-<div id="option8" class="size_chart primary-font">
+<div id="option8" class="size_chart secondary-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -1204,7 +1204,7 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
         </div>
     </div>
 </div>
-<div id="option9" class="size_chart primary-font">
+<div id="option9" class="size_chart secondary-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -1351,7 +1351,7 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
         </div>
     </div>
 </div>
-<div id="option10" class="size_chart primary-font">
+<div id="option10" class="size_chart secondary-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -1498,7 +1498,7 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
         </div>
     </div>
 </div>
-<div id="option11" class="size_chart primary-font">
+<div id="option11" class="size_chart secondary-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -1645,7 +1645,7 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
         </div>
     </div>
 </div>
-<div id="option12" class="size_chart primary-font">
+<div id="option12" class="size_chart secondary-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -1792,7 +1792,7 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
         </div>
     </div>
 </div>
-<div id="option13" class="size_chart primary-font">
+<div id="option13" class="size_chart secondary-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -1939,7 +1939,7 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
         </div>
     </div>
 </div>
-<div id="option14" class="size_chart primary-font">
+<div id="option14" class="size_chart secondary-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
