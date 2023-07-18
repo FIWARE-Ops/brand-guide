@@ -1,4 +1,4 @@
-# Primary Font
+# Primary
 <div><span class="primary-font">Montserrat</span></div>
 
 <div class="secondary-btn">

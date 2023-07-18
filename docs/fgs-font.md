@@ -1,4 +1,4 @@
-# FIWARE Global Summit Font
+# FIWARE Global Summit
 <div><span class="fgs-font">Poppins</span></div>
 
 <div class="secondary-btn">

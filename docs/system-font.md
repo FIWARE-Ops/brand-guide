@@ -1,4 +1,4 @@
-# System Font
+# System
 <div><span class="system-font">Arial</span></div>
 
 ## About
