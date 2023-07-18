@@ -1,8 +1,8 @@
 # Primary Font
 <div><span class="primary-font">Montserrat</span></div>
 
-<div class="primary-btn">
-    <a href="#" target="_blank"><span class="material-symbols-outlined">download</span>Download</a>
+<div class="secondary-btn">
+    <a href="https://fonts.google.com/share?selection.family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Get font</a>
 </div>
 
 ## About
