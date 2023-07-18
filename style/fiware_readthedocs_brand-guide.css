@@ -376,6 +376,49 @@ h6 {
     font-style: italic;
 }
 
+.secondary-font {
+    color: #000;
+    font-size: 52px;
+    line-height: 2em;
+    font-weight: 400;
+}
+
+#option1.secondary-font {
+    font-weight: 300;
+}
+
+#option2.secondary-font {
+    font-weight: 300;
+    font-style: italic
+}
+
+#option3.secondary-font {
+    font-weight: 400;
+}
+
+#option4.secondary-font {
+    font-weight: 400;
+    font-style: italic
+}
+
+#option5.secondary-font {
+    font-weight: 700;
+}
+
+#option6.secondary-font {
+    font-weight: 700;
+    font-style: italic
+}
+
+#option7.secondary-font {
+    font-weight: 900;
+}
+
+#option8.secondary-font {
+    font-weight: 900;
+    font-style: italic
+}
+
 /* –––––––––– */
 
 
