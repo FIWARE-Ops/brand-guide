@@ -9,7 +9,7 @@
 Poppins is a sans-serif typeface, consisting of 9 styles, ranging from Thin to Black. Each letterform is nearly monolinear, with optical corrections applied to stroke joints where necessary to maintain an even typographic color. This font family is licensed under the Open Font License. It is allowed to use freely in products & projects - print or digital, commercial or otherwise.
 
 ## Variants in use
-<p>9 weights are available to use.</p>
+<p>All weights are available to use.</p>
 <!--Size dropdown menu-->
 <select id="size_select">
     <option value="option7">Thin 100</option>

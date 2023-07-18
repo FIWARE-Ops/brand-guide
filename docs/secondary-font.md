@@ -9,7 +9,7 @@
 Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to Black. It was designed to be a text face that is pleasant to read on screens. It features a very large x height, slightly condensed letterforms, a mild diagonal stress, sturdy serifs and open forms. This font family is licensed under the Open Font License. It is allowed to use freely in products & projects - print or digital, commercial or otherwise.
 
 ## Variants in use
-<p>7 weights are available to use.</p>
+<p>All weights are available to use.</p>
 <!--Size dropdown menu-->
 <select id="size_select">
     <option value="option3">Light 300</option>

@@ -5,7 +5,7 @@
 Arial is a sans-serif typeface, consisting of 2 styles, Regular and Bold. The overall treatment of curves is softer and fuller than in most industrial style sans serif faces. Terminal strokes are cut on the diagonal which helps to give the face a less mechanical appearance. This font family is licensed under the Open Font License. It is allowed to use freely in products & projects - print or digital, commercial or otherwise.
 
 ## Variants in use
-<p>2 weights are available to use.</p>
+<p>All weights are available to use.</p>
 <!--Size dropdown menu-->
 <select id="size_select">
     <option value="option1">Regular 400</option>
