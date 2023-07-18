@@ -1,5 +1,5 @@
-# Secondary Font
-<div><span class="secondary-font">Merriweather</span></div>
+# FIWARE Global Summit Font
+<div><span class="fgs-font">Poppins</span></div>
 
 <div class="secondary-btn">
     <a href="https://fonts.google.com/share?selection.family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Get font</a>
@@ -12,17 +12,27 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
 <p>7 weights are available to use.</p>
 <!--Size dropdown menu-->
 <select id="size_select">
-    <option value="option3">Light 300</option>
-    <option value="option4">Light 300 Italic</option>
+    <option value="option7">Thin 100</option>
+    <option value="option8">Thin 100 Italic</option>
+    <option value="option3">ExtraLight 200</option>
+    <option value="option4">ExtraLight 200 Italic</option>
+    <option value="option5">Light 300</option>
+    <option value="option6">Light 300 Italic</option>
     <option value="option1">Regular 400</option>
-    <option value="option2">Regular 400 Italic</option>
-    <option value="option5">Bold 700</option>
-    <option value="option6">Bold 700 Italic</option>
-    <option value="option7">Black 900</option>
-    <option value="option8">Black 900 Italic</option>
+    <option value="option1">Regular 400 Italic</option>
+    <option value="option9">Medium 500</option>
+    <option value="option10">Medium 500 Italic</option>
+    <option value="option11">SemiBold 600</option>
+    <option value="option12">SemiBold 600 Italic</option>
+    <option value="option13">Bold 700</option>
+    <option value="option14">Bold 700 Italic</option>
+    <option value="option15">ExtraBold 800</option>
+    <option value="option16">ExtraBold 800 Italic</option>
+    <option value="option17">Black 900</option>
+    <option value="option18">Black 900 Italic</option>
 </select>
 <!--Size dropdown content-->
-<div id="option1" class="size_chart secondary-font">
+<div id="option1" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -169,7 +179,7 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
         </div>
     </div>
 </div>
-<div id="option2" class="size_chart secondary-font">
+<div id="option2" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -316,7 +326,7 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
         </div>
     </div>
 </div>
-<div id="option3" class="size_chart secondary-font">
+<div id="option3" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -463,7 +473,7 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
         </div>
     </div>
 </div>
-<div id="option4" class="size_chart secondary-font">
+<div id="option4" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -610,7 +620,7 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
         </div>
     </div>
 </div>
-<div id="option5" class="size_chart secondary-font">
+<div id="option5" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -757,7 +767,7 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
         </div>
     </div>
 </div>
-<div id="option6" class="size_chart secondary-font">
+<div id="option6" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -904,7 +914,7 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
         </div>
     </div>
 </div>
-<div id="option7" class="size_chart secondary-font">
+<div id="option7" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -1051,7 +1061,7 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
         </div>
     </div>
 </div>
-<div id="option8" class="size_chart secondary-font">
+<div id="option8" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -1198,7 +1208,7 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
         </div>
     </div>
 </div>
-<div id="option9" class="size_chart secondary-font">
+<div id="option9" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -1345,7 +1355,7 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
         </div>
     </div>
 </div>
-<div id="option10" class="size_chart secondary-font">
+<div id="option10" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -1492,7 +1502,7 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
         </div>
     </div>
 </div>
-<div id="option11" class="size_chart secondary-font">
+<div id="option11" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -1639,7 +1649,7 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
         </div>
     </div>
 </div>
-<div id="option12" class="size_chart secondary-font">
+<div id="option12" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -1786,7 +1796,7 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
         </div>
     </div>
 </div>
-<div id="option13" class="size_chart secondary-font">
+<div id="option13" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>
@@ -1933,7 +1943,7 @@ Merriweather is a serif typeface, consisting of 4 styles, ranging from Light to 
         </div>
     </div>
 </div>
-<div id="option14" class="size_chart secondary-font">
+<div id="option14" class="size_chart fgs-font">
     <div class="module-container">
         <div>
             <h4>Letters</h4>

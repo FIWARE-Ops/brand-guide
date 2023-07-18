@@ -20,7 +20,7 @@ extra_javascript:
   - https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js
   - https://www.fiware.org/custom/brand-guide/js/app_brand-guide.js
 nav:
-  - Home: 'index.md'
+  - Intro: 'index.md'
   - 'Logo': 
     - 'FIWARE': 'logo-fiware.md' 
     - 'FIWARE Foundation': 'logo-foundation.md'
@@ -34,6 +34,6 @@ nav:
   - 'Typography': 
     - 'Primary Font': 'primary-font.md'
     - 'Secondary Font': 'secondary-font.md'
-    - 'FGS Font': 'fgs-font.md'
+    - 'FIWARE Global Summit Font': 'fgs-font.md'
   - 'Resources':
     - 'Colors': 'colors.md'

@@ -428,14 +428,6 @@ h6 {
     font-style: italic
 }
 
-.fgs-font {
-    color: #000;
-    font-family: 'Merriweather', serif;
-    font-size: 52px;
-    line-height: 2em;
-    font-weight: 400;
-}
-
 #option1.fgs-font {
     font-weight: 400;
 }
