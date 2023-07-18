@@ -12,10 +12,10 @@ Montserrat is a sans-serif typeface, consisting of 9 styles, ranging from Thin t
 <p>7 weights are available to use.</p>
 <!--Size dropdown menu-->
 <select id="size_select">
-    <option value="option1">Light 300</option>
-    <option value="option2">Light 300 Italic</option>
-    <option value="option3">Regular 400</option>
-    <option value="option4">Regular 400 Italic</option>
+    <option value="option3">Light 300</option>
+    <option value="option4">Light 300 Italic</option>
+    <option value="option1">Regular 400</option>
+    <option value="option2">Regular 400 Italic</option>
     <option value="option5">Medium 500</option>
     <option value="option6">Medium 500 Italic</option>
     <option value="option7">SemiBold 600</option>
