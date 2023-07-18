@@ -60,7 +60,7 @@ $(document).ready(function(){
 });
 
 
-// Dropdown content selection
+// Dropdown content selection – FGS Font
 
 $(document).ready(function(){
 
@@ -84,7 +84,7 @@ $(document).ready(function(){
 });
 
 
-// Dropdown content selection
+// Dropdown content selection – System Font
 
 $(document).ready(function(){
 
