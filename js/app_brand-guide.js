@@ -45,6 +45,7 @@ $(document).ready(function(){
   
   //unhides first option content
   $("#option1").show();
+  $("#size_select").show("#option1")
   
   //listen to dropdown for change
   $("#size_select").change(function(){
