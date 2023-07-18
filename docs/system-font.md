@@ -1,10 +1,6 @@
 # System Font
 <div><span class="system-font">Merriweather</span></div>
 
-<div class="secondary-btn">
-    <a href="https://fonts.google.com/share?selection.family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Get font</a>
-</div>
-
 ## About
 Arial is a sans-serif typeface, consisting of 2 styles, Regular and Bold. The overall treatment of curves is softer and fuller than in most industrial style sans serif faces. Terminal strokes are cut on the diagonal which helps to give the face a less mechanical appearance. This font family is licensed under the Open Font License. It is allowed to use freely in products & projects - print or digital, commercial or otherwise.
 
