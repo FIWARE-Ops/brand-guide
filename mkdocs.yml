@@ -33,5 +33,6 @@ nav:
     - 'FIWARE Evangelists': 'badge-evangelists.md'
   - 'Typography': 
     - 'Primary Font': 'primary-font.md'
+    - 'Secondary Font': 'secondary-font.md'
   - 'Resources':
     - 'Colors': 'colors.md'
