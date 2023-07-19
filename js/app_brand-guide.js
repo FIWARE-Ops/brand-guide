@@ -55,7 +55,7 @@ $(document).ready(function(){
     $('#'+$(this).val()).show();
   });
 
-  document.getElementById("size_select").selectedIndex = "2";
+  $("#size_select option:eq(2)").prop('selected', true);
   
 });
 
@@ -79,7 +79,7 @@ $(document).ready(function(){
     $('#'+$(this).val()).show();
   });
 
-  document.getElementById("size_select-fgs").selectedIndex = "6";
+  $("#size_select-fgs option:eq(6)").prop('selected', true);
   
 });
 
@@ -103,6 +103,6 @@ $(document).ready(function(){
     $('#'+$(this).val()).show();
   });
 
-  document.getElementById("size_select-system").selectedIndex = "0";
+  $("#size_select-system option:eq(0)").prop('selected', true);
   
 });
