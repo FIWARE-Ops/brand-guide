@@ -31,7 +31,7 @@
                         <div class="colour-settings negative">
                             <div class="colour-code"><span class="colour-method">hex</span>#002e67</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>0, 46, 102</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>100, 55, 0, 60</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>100, 78, 0, 44</div>
                         </div>
                     </div>
                 </div>
@@ -46,7 +46,7 @@
                         <div class="colour-settings negative">
                             <div class="colour-code"><span class="colour-method">hex</span>#002452</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>0, 36, 82</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>100, 56, 0, 68</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>100, 78, 0, 60</div>
                         </div>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                         <div class="colour-settings negative">
                             <div class="colour-code"><span class="colour-method">hex</span>#001b3d</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>0, 27, 61</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>100, 56, 0, 76</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>100, 78, 0, 85</div>
                         </div>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#5dc0cf</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>93, 192, 207</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>55, 7, 0, 19</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>62, 0, 18, 0</div>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#8ad2dc</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>138, 210, 220</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>37, 5, 0, 14</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>50, 0, 15, 0</div>
                         </div>
                     </div>
                 </div>
@@ -117,7 +117,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#c7e9ee</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>199, 233, 238</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>16, 2, 0, 7</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>37, 0, 11, 0</div>
                         </div>
                     </div>
                 </div>
@@ -132,7 +132,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#e5f5f7</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>229, 245, 247</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>7, 1, 0, 3</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>25, 0, 7, 0</div>
                         </div>
                     </div>
                 </div>
@@ -147,7 +147,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#f4fbfc</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>244, 251, 252</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>3, 0, 0, 1</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>12, 0, 4, 0</div>
                         </div>
                     </div>
                 </div>
@@ -174,7 +174,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#9b6cc3</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>154, 108, 195</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>21, 45, 0, 24</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>50, 60, 0, 0</div>
                         </div>
                     </div>
                 </div>
@@ -189,7 +189,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#af89cf</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>176, 137, 207</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>15, 34, 0, 19</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>40, 48, 0, 0</div>
                         </div>
                     </div>
                 </div>
@@ -204,7 +204,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#c3a6db</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>195, 166, 219</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>11, 24, 0, 14</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>30, 36, 0, 0</div>
                         </div>
                     </div>
                 </div>
@@ -219,7 +219,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#d7c4e7</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>215, 196, 231</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>7, 15, 0, 9</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>20, 24, 0, 0</div>
                         </div>
                     </div>
                 </div>
@@ -234,7 +234,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#ebe1f3</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>235, 225, 243</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>3, 7, 0, 5</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>10, 12, 0, 0</div>
                         </div>
                     </div>
                 </div>
@@ -256,7 +256,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#15a97c</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>21, 169, 125</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>88, 0, 26, 34</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>78, 0, 62, 0</div>
                         </div>
                     </div>
                 </div>
@@ -271,7 +271,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#43ba96</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>67, 186, 150</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>64, 0, 19, 27</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>62, 0, 50, 0</div>
                         </div>
                     </div>
                 </div>
@@ -286,7 +286,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#72cbb0</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>114, 203, 176</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>44, 0, 13, 20</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>47, 0, 37, 0</div>
                         </div>
                     </div>
                 </div>
@@ -301,7 +301,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#a1dcca</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>161, 220, 202</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>27, 0, 8, 14</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>30, 0, 25, 0</div>
                         </div>
                     </div>
                 </div>
@@ -316,7 +316,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#e7f6f1</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>231, 246, 241</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>6, 0, 2, 4</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>15, 0, 12, 0</div>
                         </div>
                     </div>
                 </div>
@@ -325,7 +325,7 @@
     </div>
 </div>
 
-## Neutral Colour
+## Neutral Colours
 
 <div class="section-container">
     <div class="module-container">
@@ -342,7 +342,7 @@
                         <div class="colour-settings negative">
                             <div class="colour-code"><span class="colour-method">hex</span>#9b6cc3</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>154, 108, 195</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>21, 45, 0, 24</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 90</div>
                         </div>
                     </div>
                 </div>
@@ -357,7 +357,7 @@
                         <div class="colour-settings negative">
                             <div class="colour-code"><span class="colour-method">hex</span>#9b6cc3</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>154, 108, 195</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>21, 45, 0, 24</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 80</div>
                         </div>
                     </div>
                 </div>
@@ -372,7 +372,7 @@
                         <div class="colour-settings negative">
                             <div class="colour-code"><span class="colour-method">hex</span>#9b6cc3</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>154, 108, 195</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>21, 45, 0, 24</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 70</div>
                         </div>
                     </div>
                 </div>
@@ -387,7 +387,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#9b6cc3</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>154, 108, 195</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>21, 45, 0, 24</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 60</div>
                         </div>
                     </div>
                 </div>
@@ -402,7 +402,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#9b6cc3</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>154, 108, 195</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>21, 45, 0, 24</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 50</div>
                         </div>
                     </div>
                 </div>
@@ -417,7 +417,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#af89cf</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>176, 137, 207</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>15, 34, 0, 19</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 40</div>
                         </div>
                     </div>
                 </div>
@@ -432,7 +432,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#c3a6db</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>195, 166, 219</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>11, 24, 0, 14</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 30</div>
                         </div>
                     </div>
                 </div>
@@ -447,7 +447,7 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#d7c4e7</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>215, 196, 231</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>7, 15, 0, 9</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 20</div>
                         </div>
                     </div>
                 </div>
@@ -462,7 +462,93 @@
                         <div class="colour-settings">
                             <div class="colour-code"><span class="colour-method">hex</span>#ebe1f3</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>235, 225, 243</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>3, 7, 0, 5</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 10</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+## System Colours
+
+<div class="section-container">
+    <div class="module-container">
+        <div class="grid">
+            <div class="colour-items">
+                <div class="col-3 scroll-x">
+                    <div class="colour-container bg-success-500">
+                        <div class="dwl-container">
+                            <span class="colour-label negative">success 500</span>
+                            <button class="copy ico-negative" data-clipboard-text="#3cab3b" data-original-title="Copied!">
+                            <span class="material-symbols-outlined">content_copy</span>
+                            </button>
+                        </div>
+                        <div class="colour-settings negative">
+                            <div class="colour-code"><span class="colour-method">hex</span>#3cab3b</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>60, 171, 59</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>80, 0, 100, 0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3 scroll-x">
+                    <div class="colour-container bg-danger-500">
+                        <div class="dwl-container">
+                            <span class="colour-label negative">danger 500</span>
+                            <button class="copy ico-negative" data-clipboard-text="#ee4b2b" data-original-title="Copied!">
+                            <span class="material-symbols-outlined">content_copy</span>
+                            </button>
+                        </div>
+                        <div class="colour-settings negative">
+                            <div class="colour-code"><span class="colour-method">hex</span>#ee4b2b</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>238, 75, 43</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 80, 90, 0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3 scroll-x">
+                    <div class="colour-container bg-danger-700">
+                        <div class="dwl-container">
+                            <span class="colour-label negative">danger 700</span>
+                            <button class="copy ico-negative" data-clipboard-text="#a6341e" data-original-title="Copied!">
+                            <span class="material-symbols-outlined">content_copy</span>
+                            </button>
+                        </div>
+                        <div class="colour-settings negative">
+                            <div class="colour-code"><span class="colour-method">hex</span>#a6341e</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>166, 52, 30</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>23, 85, 100, 15</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3 scroll-x">
+                    <div class="colour-container bg-warning-500">
+                        <div class="dwl-container">
+                            <span class="colour-label">warning 500</span>
+                            <button class="copy ico-colour" data-clipboard-text="#f3740d" data-original-title="Copied!">
+                            <span class="material-symbols-outlined">content_copy</span>
+                            </button>
+                        </div>
+                        <div class="colour-settings">
+                            <div class="colour-code"><span class="colour-method">hex</span>#f3740d</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>243, 116, 13</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 64, 100, 0</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3 scroll-x">
+                    <div class="colour-container bg-info-500">
+                        <div class="dwl-container">
+                            <span class="colour-label">info 500</span>
+                            <button class="copy ico-colour" data-clipboard-text="#f4d525" data-original-title="Copied!">
+                            <span class="material-symbols-outlined">content_copy</span>
+                            </button>
+                        </div>
+                        <div class="colour-settings">
+                            <div class="colour-code"><span class="colour-method">hex</span>#f4d525</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>244, 213, 37</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>4, 15, 92, 0</div>
                         </div>
                     </div>
                 </div>

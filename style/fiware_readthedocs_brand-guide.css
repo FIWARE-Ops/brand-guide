@@ -223,6 +223,31 @@ div[role="navigation"] hr {
     border: 1px solid rgba(var(--gray-400), 0)!important;
 }
 
+.bg-success-500 {
+    background-color: rgba(var(--success-500), 1);
+    border: 1px solid rgba(var(--gray-400), 0)!important;
+}
+
+.bg-danger-500 {
+    background-color: rgba(var(--danger-500), 1);
+    border: 1px solid rgba(var(--gray-400), 0)!important;
+}
+
+.bg-danger-700 {
+    background-color: rgba(var(--danger-700), 1);
+    border: 1px solid rgba(var(--gray-400), 0)!important;
+}
+
+.bg-warning-500 {
+    background-color: rgba(var(--warning-500), 1);
+    border: 1px solid rgba(var(--gray-400), 0)!important;
+}
+
+.bg-info-500 {
+    background-color: rgba(var(--info-500), 1);
+    border: 1px solid rgba(var(--gray-400), 0)!important;
+}
+
 
 
 /* Typography */
@@ -269,7 +294,8 @@ h2#fiware-scientific-advisory-board {
 
 h2#secondary-colour,
 h2#tertiary-colours,
-h2#neutral-colours {
+h2#neutral-colours,
+h2#system-colours {
     margin: 35px 0 0 !important;
 }
 
