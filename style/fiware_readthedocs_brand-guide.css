@@ -1523,25 +1523,23 @@ select#size_select-system {
         margin: 15px 0 0 !important;
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
-        padding: 10px;
+        /* padding: 10px; */
     }
 
     .grid .col-4.scroll-x .logo-container.over-background {
-        min-height: 110px !important;
-        margin: 15px 0 0 !important;
+        min-height: 115px !important;
         display: flex;
         flex-direction: column;
         gap: 20px;
         padding: 10px;
     }
 
-    .grid .col-3.scroll-x .logo-container.square.dont {
-        padding: 0px!important;
+    .grid .col-3.scroll-x .logo-container.copy-content {
+        padding: 10px !important;
     }
-
-    .grid .col-3.scroll-x .logo-container img {
-        padding: 14% 10% 2%;
+    
+    .grid .col-3.scroll-x .logo-container.copy-content img {
+        padding: 14% 10% 2% !important;
     }
 
     .grid .col-3.scroll-x .logo-container.marketplace img {
@@ -1553,7 +1551,11 @@ select#size_select-system {
     }
 
     .col-3.scroll-x .logo-container.square {
-        padding: 30px 10px 10px !important;
+        padding: 20px 10px 10px !important;
+    }
+
+    .col-3.scroll-x .logo-container.square.dont {
+        padding: 17px !important;
     }
 
     .grid .col-3.scroll-x .logo-container.square img {
@@ -1595,7 +1597,7 @@ select#size_select-system {
 
     .col-3 .logo-container,
     .col-4 .logo-container {
-        min-height: 120px;
+        min-height: 135px;
         max-height: 180px;
     }
 
@@ -1628,10 +1630,9 @@ select#size_select-system {
         padding: 0 !important;
     }
 
-    .logo-container.dont img {
-        height: 130px !important;
+    /* .logo-container.dont img {
         padding: 10% !important;
-    }
+    } */
 
     .square {
         padding: 10% !important;
