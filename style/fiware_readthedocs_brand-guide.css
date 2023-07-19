@@ -1041,7 +1041,7 @@ button.copy {
 
 button.copy:active,
 button.copy:hover {
-    background-color: rgba(var(--gray-400), .3);
+    background-color: rgba(var(--gray-200), 1);
     color: #000;
 }
 

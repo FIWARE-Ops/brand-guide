@@ -1,5 +1,20 @@
 # FIWARE Colour Palette
 
+<div class="cta-container">
+    <div class="secondary-btn">
+        <a href="#" target="_blank"><span class="material-symbols-outlined">download</span>RGB Colour Swatches</a>
+    </div>
+    <div class="secondary-btn">
+        <a href="#" target="_blank"><span class="material-symbols-outlined">download</span>CMYK Colour Swatches</a>
+    </div>
+    <div class="secondary-btn">
+        <a href="#" target="_blank"><span class="material-symbols-outlined">code</span>Code CSS</a>
+    </div>
+    <div class="secondary-btn">
+        <a href="#" target="_blank"><span class="material-symbols-outlined">text_snippet</span>Code TXT</a>
+    </div>
+</div>
+
 ## Primary Colour
 
 <div class="section-container">
