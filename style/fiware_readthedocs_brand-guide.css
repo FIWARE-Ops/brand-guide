@@ -587,6 +587,13 @@ h6 {
     border: 0px solid rgba(var(--gray-400), 0)!important;
 }
 
+.colour-label-s {
+    color: rgba(var(--gray-700), 1);
+    font-size: 13px;
+    font-weight: 400;
+    text-align: right;
+}
+
 /* –––––––––– */
 
 
@@ -696,6 +703,13 @@ h6 {
     justify-content: center;
     margin: 0px !important;
     padding: 15%;
+}
+
+.logo-container.over-background {
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 15%;
+    padding: 15% 15% 5%;
 }
 
 .colour-container {
