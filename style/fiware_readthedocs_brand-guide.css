@@ -1484,6 +1484,7 @@ select#size_select-system {
 
     .dwl-container-m {
         display: block;
+        position: relative;
     }
 
     .grid .col-3.scroll-x,
@@ -1539,11 +1540,11 @@ select#size_select-system {
     }
     
     .grid .col-3.scroll-x .logo-container.copy-content img {
-        padding: 14% 10% 2% !important;
+        padding: 15% !important;
     }
 
     .grid .col-3.scroll-x .logo-container.marketplace img {
-        padding: 13% 5% 0% !important;
+        padding: 12% 6% !important;
     }
 
     .col-3.scroll-x .logo-container.marketplace {
@@ -1551,7 +1552,7 @@ select#size_select-system {
     }
 
     .col-3.scroll-x .logo-container.square {
-        padding: 20px 10px 10px !important;
+        padding: 10px !important;
     }
 
     .col-3.scroll-x .logo-container.square.dont {
@@ -1563,8 +1564,29 @@ select#size_select-system {
         height: 85px;
     }
 
-    button.copy {
-        float: right;
+    .main-container .logo-container.square .dwl-container,
+    .grid .col-3.scroll-x .logo-container .dwl-container,
+    .grid .col-3.scroll-x .logo-container.square .dwl-container,
+    .grid .col-3.scroll-x .logo-container.marketplace .dwl-container {
+        position: relative;
+    }
+
+    .main-container .logo-container.square button.copy {
+        position: absolute;
+        bottom: -30px;
+    }
+
+    .grid .col-3.scroll-x .logo-container button.copy {
+        position: absolute;
+        bottom: 0px;
+        right: 0;
+    }
+
+    .grid .col-3.scroll-x .logo-container.square button.copy,
+    .grid .col-3.scroll-x .logo-container.marketplace button.copy {
+        position: absolute;
+        bottom: -15px;
+        right: 0;
     }
 
 }
@@ -1612,14 +1634,13 @@ select#size_select-system {
     }
 
     .main-container .logo-container.square {
-        padding: 35px 10px 10px !important;
-        max-height: 194px;
-        min-height: 194px;
+        justify-content: center;
+        padding: 10px !important;
+        height: 190px;
     }
 
     .main-container .logo-container.square img {
-        /* padding: 10% 10% 0%; */
-        max-height: 111px !important;
+        max-height: 110px !important;
     }
 
     .logo-container.no-attributes {
