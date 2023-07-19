@@ -152,15 +152,20 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             <div class="title-container">
                 <h3 class="title-section">Over Colored Backgrounds</h3>
                 <h4>Color</h4>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>
             </div>
             <div class="grid">
             <div class="grid-items">
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-secondary-200" ><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-secondary-200" >
+                        <div class="colour-label-s">secondary 200</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-secondary-100"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-secondary-100">
+                        <div class="colour-label-s">secondary 100</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
             </div>
             </div>
@@ -168,21 +173,32 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="module-container">
             <div class="title-container">
                 <h4>Monochrome</h4>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>
             </div>
             <div class="grid">
             <div class="grid-items">
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-secondary-500"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-secondary-500">
+                        <div class="colour-label-s negative">secondary 500</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-secondary-300"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-secondary-300">
+                        <div class="colour-label-s">secondary 300</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-secondary-200"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-secondary-200">
+                        <div class="colour-label-s">secondary 200</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-secondary-100"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-secondary-100">
+                        <div class="colour-label-s">secondary 100</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
             </div>
             </div>
@@ -190,21 +206,32 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="module-container">
             <div class="title-container">
                 <h4>Black</h4>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>
             </div>
             <div class="grid">
             <div class="grid-items">
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-secondary-500"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-secondary-500">
+                        <div class="colour-label-s negative">secondary 500</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-secondary-300"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-secondary-300">
+                        <div class="colour-label-s">secondary 300</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-secondary-200"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-secondary-200">
+                        <div class="colour-label-s">secondary 200</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-secondary-100"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-secondary-100">
+                        <div class="colour-label-s">secondary 100</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
             </div>
             </div>
@@ -212,15 +239,20 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="module-container">
             <div class="title-container">
                 <h4>White</h4>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>
             </div>
             <div class="grid">
             <div class="grid-items">
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-primary-500"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-primary-500">
+                        <div class="colour-label-s negative">primary 500</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-secondary-500"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-secondary-500">
+                        <div class="colour-label-s negative">secondary 500</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
             </div>
             </div>
@@ -231,15 +263,20 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
             <div class="title-container">
                 <h3 class="title-section">Over Neutral Backgrounds</h3>
                 <h4>Color</h4>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>
             </div>
             <div class="grid">
             <div class="grid-items">
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-gray-200" ><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-gray-200" >
+                        <div class="colour-label-s">gray 200</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-gray-100"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-gray-100">
+                        <div class="colour-label-s">gray 100</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
             </div>
             </div>
@@ -247,21 +284,32 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="module-container">
             <div class="title-container">
                 <h4>Monochrome</h4>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>
             </div>
             <div class="grid">
             <div class="grid-items">
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-gray-400"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-gray-400">
+                        <div class="colour-label-s">gray 400</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-gray-300"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-gray-300">
+                        <div class="colour-label-s">gray 300</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-gray-200"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-gray-200">
+                        <div class="colour-label-s">gray 200</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-gray-100"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-gray-100">
+                        <div class="colour-label-s">gray 100</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-blue.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
             </div>
             </div>
@@ -269,21 +317,32 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="module-container">
             <div class="title-container">
                 <h4>Black</h4>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>
             </div>
             <div class="grid">
             <div class="grid-items">
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-gray-400"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-gray-400">
+                        <div class="colour-label-s">gray 400</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-gray-300"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-gray-300">
+                        <div class="colour-label-s">gray 300</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-gray-200"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-gray-200">
+                        <div class="colour-label-s">gray 200</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-gray-100"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-gray-100">
+                        <div class="colour-label-s">gray 100</div>
+                        <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;"
+                    ></div>
                 </div>
             </div>
             </div>
@@ -291,21 +350,32 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         <div class="module-container">
             <div class="title-container">
                 <h4>White</h4>
-                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula.</p>
             </div>
             <div class="grid">
             <div class="grid-items">
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-gray-900"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-gray-900">
+                        <div class="colour-label-s negative">gray 900</div>
+                    <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-gray-800"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-gray-800">
+                        <div class="colour-label-s negative">gray 800</div>
+                    <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-gray-700"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-gray-700">
+                        <div class="colour-label-s negative">gray 700</div>
+                    <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
                 <div class="col-4 scroll-x">
-                    <div class="logo-container bg-gray-600"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;"></div>
+                    <div class="logo-container over-background bg-gray-600">
+                        <div class="colour-label-s negative">gray 600</div>
+                    <img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware-white.svg" alt="Main Logo Black" onContextMenu="return false;">
+                    </div>
                 </div>
             </div>
             </div>

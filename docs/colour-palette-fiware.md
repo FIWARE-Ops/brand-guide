@@ -1,7 +1,7 @@
 # FIWARE Colour Palette
 
-For illustrations, colour swatches for Adobe Illustrator are available in both [ACO](https://www.lifewire.com/aco-file-2619477)
--  and [ASE](https://www.lifewire.com/ase-file-2619688) file formats. For the web, CSS variables and colour codes in Hex, RGB and CMYK formats are also available
+Available colour swatches for Adobe Illustrator in [ASE](https://www.lifewire.com/ase-file-2619688) and Adobe Photoshop in [ACO](https://www.lifewire.com/aco-file-2619477)
+file formats. For the web, CSS variables and colour codes in Hex, RGB and CMYK formats are also available.
 
 <div class="cta-container">
     <div class="secondary-btn">

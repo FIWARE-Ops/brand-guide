@@ -597,6 +597,13 @@ h6 {
     text-align: left;
 }
 
+.colour-label-s.negative {
+    color: rgba(255, 255, 255, .7);
+    mix-blend-mode: normal;
+    background-color: rgba(var(--gray-400), 0)!important;
+    border: 0px solid rgba(var(--gray-400), 0)!important;
+}
+
 /* –––––––––– */
 
 
@@ -711,7 +718,7 @@ h6 {
 .logo-container.over-background {
     flex-direction: column;
     justify-content: flex-start;
-    gap: 20px;
+    gap: 15px;
     padding: 10px;
 }
 
@@ -1478,7 +1485,7 @@ select#size_select-system {
     .grid .col-4.scroll-x {
         overflow: hidden;
         display: inline-block;
-        width: 75%;
+        width: 60%;
         margin-right: 10px;
         /* flex-direction: row !important;
         flex-wrap: wrap; */
@@ -1554,6 +1561,10 @@ select#size_select-system {
     .logo-container {
         padding: 14%;
         max-height: 180px;
+    }
+
+    .logo-container.over-background {
+        min-height: 110px !important;
     }
 
     .col-3 .logo-container,
