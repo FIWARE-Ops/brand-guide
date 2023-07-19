@@ -588,10 +588,13 @@ h6 {
 }
 
 .colour-label-s {
-    color: rgba(var(--gray-700), 1);
-    font-size: 13px;
-    font-weight: 400;
-    text-align: right;
+    color: rgba(var(--gray-700), .5);
+    mix-blend-mode: multiply;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 1em;
+    text-transform: capitalize;
+    text-align: left;
 }
 
 /* –––––––––– */
@@ -707,9 +710,13 @@ h6 {
 
 .logo-container.over-background {
     flex-direction: column;
-    justify-content: space-between;
-    gap: 15%;
-    padding: 15% 15% 5%;
+    justify-content: flex-start;
+    gap: 20px;
+    padding: 10px;
+}
+
+.logo-container.over-background img {
+    padding: 0 10%;
 }
 
 .colour-container {
