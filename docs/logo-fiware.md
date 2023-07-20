@@ -1,6 +1,6 @@
 # FIWARE
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+The logo is the key element of the FIWARE brand. It’s a bold, easy recognisable symbol and must be used on all of the brand expressions. It is important that all the materials use the FIWARE standards and use our approved logo and assets correctly.
 
 <div class="primary-btn">
     <a href="https://www.fiware.org/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 ## Main Logo
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+The Main Logo, preferably in its coloured version, should be used whenever possible.
 
 <div class="section-container">
     <div class="main-container">
@@ -409,7 +409,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 ## Full Logo
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+The Full Logo (combination of the FIWARE logo and its tagline) should be used whenever possible, but only when the layout remains clear and allows easy reading.
 
 <div class="section-container">
     <div class="main-container">
@@ -574,7 +574,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 
 ## Secondary Logo
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+The Secondary should be used only when the layout does not allow for the Main Logo.
 
 <div class="section-container">
     <div class="main-container">
