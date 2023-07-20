@@ -1,7 +1,9 @@
+<div id="custom-meta">
 <meta property="og:title" content="FIWARE Brand Guide" />
 <meta property="og:type" content="documentation" />
 <meta property="og:url" content="https://fiware-brand-guide.readthedocs.org" />
 <meta property="og:image" content="https://www.fiware.org/wp-content/uploads/FF_Banner_General.png" />
+</div>
 
 <div class="cover-container">
     <img style="margin:0px" src="https://www.fiware.org/style/imgs/FIWARE_MainVisual.svg" alt="FIWARE Cover">

@@ -665,6 +665,10 @@ h6 {
 
 /* –––––––––– */
 
+#custom-meta {
+    height: 0px;
+}
+
 
 .container {
     display: flex;
