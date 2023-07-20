@@ -24,46 +24,31 @@ Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire
         <div class="grid">
             <div class="colour-items">
                 <div class="col-3 scroll-x">
-                    <div class="colour-container bg-primary-500">
+                    <div class="colour-container bg-fgs-primary-500">
                         <div class="dwl-container">
-                            <span class="colour-label negative">primary 500</span>
-                            <button class="copy ico-negative" data-clipboard-text="#002e67" data-original-title="Copied!">
+                            <span class="colour-label negative">fgs primary 500</span>
+                            <button class="copy ico-negative" data-clipboard-text="#ec5629" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span></button>
                         </div>
                         <div class="colour-settings negative">
-                            <div class="colour-code"><span class="colour-method">hex</span>#002e67</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>0, 46, 102</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>100, 78, 0, 44</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#ec5629</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>236, 86, 41</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 79, 94, 0</div>
                         </div>
                     </div>
                 </div>
                 <div class="col-3 scroll-x">
-                    <div class="colour-container bg-primary-600">
+                    <div class="colour-container bg-fgs-primary-400">
                         <div class="dwl-container">
-                            <span class="colour-label negative">primary 600</span>
-                            <button class="copy ico-negative" data-clipboard-text="#002452" data-original-title="Copied!">
+                            <span class="colour-label">fgs primary 600</span>
+                            <button class="copy ico-colour" data-clipboard-text="#ef7753" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
-                        <div class="colour-settings negative">
-                            <div class="colour-code"><span class="colour-method">hex</span>#002452</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>0, 36, 82</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>100, 78, 0, 60</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-primary-700">
-                        <div class="dwl-container">
-                            <span class="colour-label negative">primary 700</span>
-                            <button class="copy ico-negative" data-clipboard-text="#001b3d" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings negative">
-                            <div class="colour-code"><span class="colour-method">hex</span>#001b3d</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>0, 27, 61</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>100, 78, 0, 85</div>
+                        <div class="colour-settings">
+                            <div class="colour-code"><span class="colour-method">hex</span>#ef7753</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>239, 119, 83</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 62, 68, 0</div>
                         </div>
                     </div>
                 </div>
@@ -79,77 +64,17 @@ Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire
         <div class="grid">
             <div class="colour-items">
                 <div class="col-3 scroll-x">
-                    <div class="colour-container bg-secondary-500">
+                    <div class="colour-container bg-fgs-secondary">
                         <div class="dwl-container">
-                            <span class="colour-label">secondary 500</span>
-                            <button class="copy ico-colour" data-clipboard-text="#5dc0cf" data-original-title="Copied!">
+                            <span class="colour-label negative">fgs secondary</span>
+                            <button class="copy ico-negative" data-clipboard-text="#000" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
-                        <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#5dc0cf</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>93, 192, 207</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>62, 0, 18, 0</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-secondary-400">
-                        <div class="dwl-container">
-                            <span class="colour-label">secondary 400</span>
-                            <button class="copy ico-colour" data-clipboard-text="#8ad2dc" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#8ad2dc</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>138, 210, 220</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>50, 0, 15, 0</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-secondary-300">
-                        <div class="dwl-container">
-                            <span class="colour-label">secondary 300</span>
-                            <button class="copy ico-colour" data-clipboard-text="#c7e9ee" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#c7e9ee</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>199, 233, 238</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>37, 0, 11, 0</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-secondary-200">
-                        <div class="dwl-container">
-                            <span class="colour-label">secondary 200</span>
-                            <button class="copy ico-colour" data-clipboard-text="#e5f5f7" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#e5f5f7</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>229, 245, 247</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>25, 0, 7, 0</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-secondary-100">
-                        <div class="dwl-container">
-                            <span class="colour-label">secondary 100</span>
-                            <button class="copy ico-colour" data-clipboard-text="#f4fbfc" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#f4fbfc</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>244, 251, 252</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>12, 0, 4, 0</div>
+                        <div class="colour-settings negative">
+                            <div class="colour-code"><span class="colour-method">hex</span>#5dc0000cf</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>0, 0, 0</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 0</div>
                         </div>
                     </div>
                 </div>
@@ -161,164 +86,81 @@ Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire
 ## Tertiary Colours
 
 <div class="section-container">
-    <h3>Purple</h3>
     <div class="module-container">
         <div class="grid">
             <div class="colour-items">
                 <div class="col-3 scroll-x">
-                    <div class="colour-container bg-purple-500">
+                    <div class="colour-container bg-fgs-porpora-500">
                         <div class="dwl-container">
-                            <span class="colour-label">purple 500</span>
-                            <button class="copy ico-colour" data-clipboard-text="#9b6cc3" data-original-title="Copied!">
+                            <span class="colour-label negative">fgs porpora 500</span>
+                            <button class="copy ico-negative" data-clipboard-text="#9e3162" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
-                        <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#9b6cc3</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>154, 108, 195</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>50, 60, 0, 0</div>
+                        <div class="colour-settings negative">
+                            <div class="colour-code"><span class="colour-method">hex</span>#9e3162</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>158, 49, 98</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>32, 85, 30, 15</div>
                         </div>
                     </div>
                 </div>
                 <div class="col-3 scroll-x">
-                    <div class="colour-container bg-purple-400">
+                    <div class="colour-container bg-fgs-yellow-500">
                         <div class="dwl-container">
-                            <span class="colour-label">purple 400</span>
-                            <button class="copy ico-colour" data-clipboard-text="#af89cf" data-original-title="Copied!">
+                            <span class="colour-label">fgs yellow 500</span>
+                            <button class="copy ico-colour" data-clipboard-text="#f4c119" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#af89cf</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>176, 137, 207</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>40, 48, 0, 0</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#f4c119</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>244, 193, 25</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 25, 95, 0</div>
                         </div>
                     </div>
                 </div>
                 <div class="col-3 scroll-x">
-                    <div class="colour-container bg-purple-300">
+                    <div class="colour-container bg-fgs-teal-500">
                         <div class="dwl-container">
-                            <span class="colour-label">purple 300</span>
-                            <button class="copy ico-colour" data-clipboard-text="#c3a6db" data-original-title="Copied!">
+                            <span class="colour-label">fgs teal 500</span>
+                            <button class="copy ico-colour" data-clipboard-text="#00d7aa" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#c3a6db</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>195, 166, 219</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>30, 36, 0, 0</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#00d7aa</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>0, 215, 170</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>70, 0, 65, 0</div>
                         </div>
                     </div>
                 </div>
                 <div class="col-3 scroll-x">
-                    <div class="colour-container bg-purple-200">
+                    <div class="colour-container bg-fgs-blue-500">
                         <div class="dwl-container">
-                            <span class="colour-label">purple 200</span>
-                            <button class="copy ico-colour" data-clipboard-text="#d7c4e7" data-original-title="Copied!">
+                            <span class="colour-label negative">fgs blue 500</span>
+                            <button class="copy ico-negative" data-clipboard-text="#2f46e6" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
-                        <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#d7c4e7</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>215, 196, 231</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>20, 24, 0, 0</div>
+                        <div class="colour-settings negative">
+                            <div class="colour-code"><span class="colour-method">hex</span>#2f46e6</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>47, 70, 230</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>90, 65, 0, 0</div>
                         </div>
                     </div>
                 </div>
                 <div class="col-3 scroll-x">
-                    <div class="colour-container bg-purple-100">
+                    <div class="colour-container bg-fgs-cyan-500">
                         <div class="dwl-container">
-                            <span class="colour-label">purple 100</span>
-                            <button class="copy ico-colour" data-clipboard-text="#ebe1f3" data-original-title="Copied!">
+                            <span class="colour-label">fgs cyan 500</span>
+                            <button class="copy ico-colour" data-clipboard-text="#3eadfe" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#ebe1f3</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>235, 225, 243</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>10, 12, 0, 0</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <h3>Green</h3>
-    <div class="module-container">
-        <div class="grid">
-            <div class="colour-items">
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-green-500">
-                        <div class="dwl-container">
-                            <span class="colour-label">green 500</span>
-                            <button class="copy ico-colour" data-clipboard-text="#15a97c" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#15a97c</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>21, 169, 125</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>78, 0, 62, 0</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-green-400">
-                        <div class="dwl-container">
-                            <span class="colour-label">green 400</span>
-                            <button class="copy ico-colour" data-clipboard-text="#43ba96" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#43ba96</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>67, 186, 150</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>62, 0, 50, 0</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-green-300">
-                        <div class="dwl-container">
-                            <span class="colour-label">green 300</span>
-                            <button class="copy ico-colour" data-clipboard-text="#72cbb0" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#72cbb0</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>114, 203, 176</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>47, 0, 37, 0</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-green-200">
-                        <div class="dwl-container">
-                            <span class="colour-label">green 200</span>
-                            <button class="copy ico-colour" data-clipboard-text="#a1dcca" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#a1dcca</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>161, 220, 202</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>30, 0, 25, 0</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-green-100">
-                        <div class="dwl-container">
-                            <span class="colour-label">green 100</span>
-                            <button class="copy ico-colour" data-clipboard-text="#e7f6f1" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#e7f6f1</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>231, 246, 241</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>15, 0, 12, 0</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#3eadfe</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>62, 173, 254</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>70, 15, 0, 0</div>
                         </div>
                     </div>
                 </div>
@@ -465,92 +307,6 @@ Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire
                             <div class="colour-code"><span class="colour-method">hex</span>#ebe1f3</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>235, 225, 243</div>
                             <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 10</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-## System Colours
-
-<div class="section-container">
-    <div class="module-container">
-        <div class="grid">
-            <div class="colour-items">
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-success-500">
-                        <div class="dwl-container">
-                            <span class="colour-label negative">success 500</span>
-                            <button class="copy ico-negative" data-clipboard-text="#3cab3b" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings negative">
-                            <div class="colour-code"><span class="colour-method">hex</span>#3cab3b</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>60, 171, 59</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>80, 0, 100, 0</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-danger-500">
-                        <div class="dwl-container">
-                            <span class="colour-label negative">danger 500</span>
-                            <button class="copy ico-negative" data-clipboard-text="#ee4b2b" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings negative">
-                            <div class="colour-code"><span class="colour-method">hex</span>#ee4b2b</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>238, 75, 43</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 80, 90, 0</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-danger-700">
-                        <div class="dwl-container">
-                            <span class="colour-label negative">danger 700</span>
-                            <button class="copy ico-negative" data-clipboard-text="#a6341e" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings negative">
-                            <div class="colour-code"><span class="colour-method">hex</span>#a6341e</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>166, 52, 30</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>23, 85, 100, 15</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-warning-500">
-                        <div class="dwl-container">
-                            <span class="colour-label">warning 500</span>
-                            <button class="copy ico-colour" data-clipboard-text="#f3740d" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#f3740d</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>243, 116, 13</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>0, 64, 100, 0</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <div class="colour-container bg-info-500">
-                        <div class="dwl-container">
-                            <span class="colour-label">info 500</span>
-                            <button class="copy ico-colour" data-clipboard-text="#f4d525" data-original-title="Copied!">
-                            <span class="material-symbols-outlined">content_copy</span>
-                            </button>
-                        </div>
-                        <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#f4d525</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>244, 213, 37</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>4, 15, 92, 0</div>
                         </div>
                     </div>
                 </div>

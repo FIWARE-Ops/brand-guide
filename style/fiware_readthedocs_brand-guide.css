@@ -45,9 +45,9 @@
     /* FIWARE Global Summit */
 
     --fgs-primary-500: 236, 86, 41;
-    --fgs-primary-600: 239, 119, 83;
+    --fgs-primary-400: 239, 119, 83;
 
-    --fgs-secondary-500: 0, 0, 0;
+    --fgs-secondary: 0, 0, 0;
 
     --fgs-porpora-500: 158, 49, 98;
     --fgs-yellow-500: 244, 193, 25;
@@ -262,6 +262,46 @@ div[role="navigation"] hr {
 
 .bg-info-500 {
     background-color: rgba(var(--info-500), 1);
+    border: 1px solid rgba(var(--gray-400), 0) !important;
+}
+
+.bg-fgs-primary-500 {
+    background-color: rgba(var(--fgs-primary-500), 1);
+    border: 1px solid rgba(var(--gray-400), 0) !important;
+}
+
+.bg-fgs-primary-400 {
+    background-color: rgba(var(--fgs-primary-400), 1);
+    border: 1px solid rgba(var(--gray-400), 0) !important;
+}
+
+.bg-fgs-secondary {
+    background-color: rgba(var(--fgs-secondary), 1);
+    border: 1px solid rgba(var(--gray-400), 0) !important;
+}
+
+.bg-fgs-porpora-500 {
+    background-color: rgba(var(--fgs-porpora-500), 1);
+    border: 1px solid rgba(var(--gray-400), 0) !important;
+}
+
+.bg-fgs-yellow-500 {
+    background-color: rgba(var(--fgs-yellow-500), 1);
+    border: 1px solid rgba(var(--gray-400), 0) !important;
+}
+
+.bg-fgs-teal-500 {
+    background-color: rgba(var(--fgs-teal-500), 1);
+    border: 1px solid rgba(var(--gray-400), 0) !important;
+}
+
+.bg-fgs-blue-500 {
+    background-color: rgba(var(--fgs-blue-500), 1);
+    border: 1px solid rgba(var(--gray-400), 0) !important;
+}
+
+.bg-fgs-cyan-500 {
+    background-color: rgba(var(--fgs-cyan-500), 1);
     border: 1px solid rgba(var(--gray-400), 0) !important;
 }
 
