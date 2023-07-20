@@ -11,11 +11,6 @@ theme:
         gtag: G-247L9F3FVY
 markdown_extensions:
   - fenced_code
-extra:
-     social:
-         - icon: https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/logo-fiware.svg
-           link: https://fiware-brand-guide.readthedocs.org
-           name: FIWARE Brand Guide
 extra_css:
   - https://www.fiware.org/style/fiware_readthedocs.css
   - https://www.fiware.org/custom/brand-guide/css/fiware_readthedocs_brand-guide.css
