@@ -574,7 +574,7 @@ The Full Logo (combination of the FIWARE logo and its tagline) should be used wh
 
 ## Secondary Logo
 
-The Secondary should be used only when the layout does not allow for the Main Logo.
+The Secondary Logo should be used only when the layout does not allow for the Main Logo.
 
 <div class="section-container">
     <div class="main-container">
