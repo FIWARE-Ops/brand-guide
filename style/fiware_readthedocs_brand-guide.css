@@ -325,6 +325,7 @@ p:last-of-type {
 
 h1 {
     margin-top: 0 !important;
+    text-transform: inherit;
 }
 
 h2 {
