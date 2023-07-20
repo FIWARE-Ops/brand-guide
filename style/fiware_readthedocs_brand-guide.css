@@ -1,4 +1,7 @@
 :root {
+
+    /* FIWARE */
+
     --primary-500: 0, 46, 103;
     --primary-600: 0, 36, 82;
     --primary-700: 0, 27, 61;
@@ -37,6 +40,20 @@
     --warning-500: 243, 116, 13;
     --info-500: 244, 213, 37;
     --stackoverflow: 244, 130, 37;
+
+
+    /* FIWARE Global Summit */
+
+    --fgs-primary-500: 236, 86, 41;
+    --fgs-primary-600: 239, 119, 83;
+
+    --fgs-secondary-500: 0, 0, 0;
+
+    --fgs-porpora-500: 158, 49, 98;
+    --fgs-yellow-500: 244, 193, 25;
+    --fgs-teal-500: 0, 215, 170;
+    --fgs-blue-500: 47, 70, 230;
+    --fgs-cyan-500: 62, 173, 254;
 }
 
 
@@ -1585,7 +1602,7 @@ select#size_select-system {
     .grid .col-3.scroll-x .logo-container.square button.copy,
     .grid .col-3.scroll-x .logo-container.marketplace button.copy {
         position: absolute;
-        bottom: -15px;
+        bottom: -20px;
         right: 0;
     }
 
@@ -1664,7 +1681,7 @@ select#size_select-system {
     }
 
     .badge {
-        height: 24px !important;
+        height: 28px !important;
     }
 
 
