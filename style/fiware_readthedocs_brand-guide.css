@@ -1540,7 +1540,7 @@ select#size_select-system {
     }
     
     .grid .col-3.scroll-x .logo-container.copy-content img {
-        padding: 15% !important;
+        padding: 20% 10%!important;
     }
 
     .grid .col-3.scroll-x .logo-container.marketplace img {
@@ -1619,8 +1619,8 @@ select#size_select-system {
 
     .col-3 .logo-container,
     .col-4 .logo-container {
-        min-height: 135px;
-        max-height: 180px;
+        min-height: 150px;
+        max-height: 200px;
     }
 
     .main-container .logo-container {
