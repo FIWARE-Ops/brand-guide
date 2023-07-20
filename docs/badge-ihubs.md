@@ -1,3 +1,10 @@
+<div id="social-meta">
+<meta property="og:title" content="FIWARE Brand Guide" />
+<meta property="og:type" content="documentation" />
+<meta property="og:url" content="https://fiware-brand-guide.readthedocs.org" />
+<meta property="og:image" content="https://www.fiware.org/wp-content/uploads/FF_Banner_General.png" />
+</div>
+
 <h1>FIWARE iHubs</h1>
 
 The iHub Badge is a symbol of highest quality and optimum performance. The FIWARE iHubs Program is a trend-setter. All FIWARE iHubs with whom we work in our local and global competence network are certified, systematically trained, and supported with diverse services.

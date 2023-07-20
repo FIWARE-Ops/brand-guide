@@ -1,3 +1,10 @@
+<div id="social-meta">
+<meta property="og:title" content="FIWARE Brand Guide" />
+<meta property="og:type" content="documentation" />
+<meta property="og:url" content="https://fiware-brand-guide.readthedocs.org" />
+<meta property="og:image" content="https://www.fiware.org/wp-content/uploads/FF_Banner_General.png" />
+</div>
+
 # FIWARE
 
 The logo is the key element of the FIWARE brand. It’s a bold, easy recognisable symbol and must be used on all of the brand expressions. It is important that all the materials use the FIWARE standards and use our approved logo and assets correctly.

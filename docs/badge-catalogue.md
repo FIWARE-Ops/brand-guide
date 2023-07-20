@@ -1,3 +1,10 @@
+<div id="social-meta">
+<meta property="og:title" content="FIWARE Brand Guide" />
+<meta property="og:type" content="documentation" />
+<meta property="og:url" content="https://fiware-brand-guide.readthedocs.org" />
+<meta property="og:image" content="https://www.fiware.org/wp-content/uploads/FF_Banner_General.png" />
+</div>
+
 # FIWARE Catalogue
 
 Standardized FIWARE badges should be used to represent the various sub-chapters found within the FIWARE Catalogue. The larger, fully styled badge with the FIWARE logo in the correct font should be used whenever possible, but a simplified alternative is also available to match the smaller badge styling found on GitHub.

@@ -1,4 +1,4 @@
-<div id="custom-meta">
+<div id="social-meta">
 <meta property="og:title" content="FIWARE Brand Guide" />
 <meta property="og:type" content="documentation" />
 <meta property="og:url" content="https://fiware-brand-guide.readthedocs.org" />

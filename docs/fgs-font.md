@@ -1,3 +1,10 @@
+<div id="social-meta">
+<meta property="og:title" content="FIWARE Brand Guide" />
+<meta property="og:type" content="documentation" />
+<meta property="og:url" content="https://fiware-brand-guide.readthedocs.org" />
+<meta property="og:image" content="https://www.fiware.org/wp-content/uploads/FF_Banner_General.png" />
+</div>
+
 # FIWARE Global Summit
 <div><span class="fgs-font">Poppins</span></div>
 
