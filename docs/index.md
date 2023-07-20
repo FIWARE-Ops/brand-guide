@@ -1,8 +1,6 @@
 <div class="cover-container"><img style="margin:0px" src="https://www.fiware.org/style/imgs/FIWARE_MainVisual.svg" alt="FIWARE Cover"></div>
 
-<h1>The FIWARE Brand Guide</h1>
-
-Welcome to the FIWARE Brand Guide.
+<h1>Welcome to the FIWARE Brand Guide</h1>
 
 These guidelines help you to use best our FIWARE brand assets and give you valuable tips how to consistently use the logo.
 
