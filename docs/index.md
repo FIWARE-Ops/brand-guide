@@ -2,6 +2,8 @@
 
 <h1>The FIWARE Brand Guide</h1>
 
-Welcome to the FIWARE Brand Guide. These guidelines help you to use best our FIWARE brand assets and give you valuable tips how to consistently use the logo.
+Welcome to the FIWARE Brand Guide.
+
+These guidelines help you to use best our FIWARE brand assets and give you valuable tips how to consistently use the logo.
 
 This is a living document that will be updated as we continue to develop the tenets and specifics of the FIWARE design identity.
