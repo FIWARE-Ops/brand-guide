@@ -67,12 +67,12 @@ Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire
                     <div class="colour-container bg-fgs-secondary">
                         <div class="dwl-container">
                             <span class="colour-label negative">fgs secondary</span>
-                            <button class="copy ico-negative" data-clipboard-text="#000" data-original-title="Copied!">
+                            <button class="copy ico-negative" data-clipboard-text="#000000" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings negative">
-                            <div class="colour-code"><span class="colour-method">hex</span>#5dc0000cf</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#000000</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>0, 0, 0</div>
                             <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 0</div>
                         </div>
