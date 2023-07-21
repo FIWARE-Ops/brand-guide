@@ -25,9 +25,9 @@ To download a badge select the preferred image format and click on the download 
 
 <div class="badges-container">
     <div class="badge-container">
-        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/smart-agrifood.svg" alt="FIWARE Smart AgriFood" onContextMenu="return false;">
+        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-agrifood.svg" alt="FIWARE Smart AgriFood" onContextMenu="return false;">
         <div class="dwl-container">
-            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/smart-agrifood.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-agrifood.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
@@ -49,9 +49,9 @@ To download a badge select the preferred image format and click on the download 
 
 <div class="badges-container">
     <div class="badge-container">
-        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/smart-cities.svg" alt="FIWARE Smart Cities" onContextMenu="return false;">
+        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-cities.svg" alt="FIWARE Smart Cities" onContextMenu="return false;">
         <div class="dwl-container">
-            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/smart-cities.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-cities.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
@@ -73,9 +73,9 @@ To download a badge select the preferred image format and click on the download 
 
 <div class="badges-container">
     <div class="badge-container">
-        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/smart-energy.svg" alt="FIWARE Smart Energy" onContextMenu="return false;">
+        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-energy.svg" alt="FIWARE Smart Energy" onContextMenu="return false;">
         <div class="dwl-container">
-            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/smart-energy.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-energy.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
@@ -97,9 +97,9 @@ To download a badge select the preferred image format and click on the download 
 
 <div class="badges-container">
     <div class="badge-container">
-        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/smart-industry.svg" alt="FIWARE Smart Industry" onContextMenu="return false;">
+        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-industry.svg" alt="FIWARE Smart Industry" onContextMenu="return false;">
         <div class="dwl-container">
-            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/smart-industry.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-industry.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
@@ -121,9 +121,9 @@ To download a badge select the preferred image format and click on the download 
 
 <div class="badges-container">
     <div class="badge-container">
-        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/smart-water.svg" alt="FIWARE Smart Industry" onContextMenu="return false;">
+        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-water.svg" alt="FIWARE Smart Industry" onContextMenu="return false;">
         <div class="dwl-container">
-            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/smart-water.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-water.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>

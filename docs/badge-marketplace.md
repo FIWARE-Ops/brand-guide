@@ -24,16 +24,16 @@ To download a badge select the preferred image format and click on the download 
 ## Powered by FIWARE
 
 <div class="secondary-btn">
-    <a href="https://www.fiware.org/marketplace/powered-by-fiware/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
+    <a href="https://www.fiware.org/marketplace/svg/powered-by-fiware/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 <p class="description">Smart Solutions using the NGSI open standard for communicating state between microservices for context driven products.</p>
 
 <div class="badges-container">
     <div class="badge-container">
-        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/powered-by-fiware.svg" alt="Powered by FIWARE badge" onContextMenu="return false;">
+        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/powered-by-fiware.svg" alt="Powered by FIWARE badge" onContextMenu="return false;">
         <div class="dwl-container">
-            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/powered-by-fiware.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/powered-by-fiware.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
@@ -50,16 +50,16 @@ To download a badge select the preferred image format and click on the download 
 ## FIWARE Ready
 
 <div class="secondary-btn">
-    <a href="https://www.fiware.org/marketplace/fiware-ready/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
+    <a href="https://www.fiware.org/marketplace/svg/fiware-ready/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 <p class="description">Devices and systems pluggable in powered by FIWARE architectures via NGSI standard interfaces they offer.</p>
 
 <div class="badges-container">
     <div class="badge-container">
-        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/fiware-ready.svg" alt="FIWARE Ready badge" onContextMenu="return false;">
+        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/fiware-ready.svg" alt="FIWARE Ready badge" onContextMenu="return false;">
         <div class="dwl-container">
-            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/fiware-ready.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/fiware-ready.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
@@ -76,16 +76,16 @@ To download a badge select the preferred image format and click on the download 
 ## Cities4Cities
 
 <div class="secondary-btn">
-    <a href="https://www.fiware.org/marketplace/cities4cities/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
+    <a href="https://www.fiware.org/marketplace/svg/cities4cities/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 <p class="description">Cities offering to other cities and territories FIWARE-based mature and off-the-shelf Smart City platforms ready to reuse.</p>
 
 <div class="badges-container">
     <div class="badge-container">
-        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/cities-4-cities.svg" alt="Cities4Cities badge" onContextMenu="return false;">
+        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/cities-4-cities.svg" alt="Cities4Cities badge" onContextMenu="return false;">
         <div class="dwl-container">
-            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/cities-4-cities.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/cities-4-cities.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
@@ -102,16 +102,16 @@ To download a badge select the preferred image format and click on the download 
 ## Support Services
 
 <div class="secondary-btn">
-    <a href="https://www.fiware.org/marketplace/support-services/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
+    <a href="https://www.fiware.org/marketplace/svg/support-services/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
 
 <p class="description">Organizations with certified FIWARE Experts offering training, coaching, consultancy, integration or support.</p>
 
 <div class="badges-container">
     <div class="badge-container">
-        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/support-services.svg" alt="Cities4Cities badge" onContextMenu="return false;">
+        <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/support-services.svg" alt="Cities4Cities badge" onContextMenu="return false;">
         <div class="dwl-container">
-            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/support-services.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
+            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/support-services.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
