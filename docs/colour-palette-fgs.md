@@ -192,13 +192,13 @@ Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire
                     <div class="colour-container bg-gray-900">
                         <div class="dwl-container">
                             <span class="colour-label negative">gray 900</span>
-                            <button class="copy ico-negative" data-clipboard-text="#9b6cc3" data-original-title="Copied!">
+                            <button class="copy ico-negative" data-clipboard-text="#232324" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings negative">
-                            <div class="colour-code"><span class="colour-method">hex</span>#9b6cc3</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>154, 108, 195</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#232324</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>35, 35, 36</div>
                             <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 90</div>
                         </div>
                     </div>
@@ -207,13 +207,13 @@ Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire
                     <div class="colour-container bg-gray-800">
                         <div class="dwl-container">
                             <span class="colour-label negative">gray 800</span>
-                            <button class="copy ico-negative" data-clipboard-text="#9b6cc3" data-original-title="Copied!">
+                            <button class="copy ico-negative" data-clipboard-text="#464748" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings negative">
-                            <div class="colour-code"><span class="colour-method">hex</span>#9b6cc3</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>154, 108, 195</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#464748</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>70, 71, 72</div>
                             <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 80</div>
                         </div>
                     </div>
@@ -222,13 +222,13 @@ Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire
                     <div class="colour-container bg-gray-700">
                         <div class="dwl-container">
                             <span class="colour-label negative">gray 700</span>
-                            <button class="copy ico-negative" data-clipboard-text="#9b6cc3" data-original-title="Copied!">
+                            <button class="copy ico-negative" data-clipboard-text="#6a6a6c" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings negative">
-                            <div class="colour-code"><span class="colour-method">hex</span>#9b6cc3</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>154, 108, 195</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#6a6a6c</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>106, 106, 108</div>
                             <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 70</div>
                         </div>
                     </div>
@@ -237,13 +237,13 @@ Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire
                     <div class="colour-container bg-gray-600">
                         <div class="dwl-container">
                             <span class="colour-label">gray 600</span>
-                            <button class="copy ico-colour" data-clipboard-text="#9b6cc3" data-original-title="Copied!">
+                            <button class="copy ico-colour" data-clipboard-text="#8d8e90" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#9b6cc3</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>154, 108, 195</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#8d8e90</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>141, 142, 144</div>
                             <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 60</div>
                         </div>
                     </div>
@@ -252,13 +252,13 @@ Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire
                     <div class="colour-container bg-gray-500">
                         <div class="dwl-container">
                             <span class="colour-label">gray 500</span>
-                            <button class="copy ico-colour" data-clipboard-text="#9b6cc3" data-original-title="Copied!">
+                            <button class="copy ico-colour" data-clipboard-text="#b1b2b4" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#9b6cc3</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>154, 108, 195</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#b1b2b4</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>177, 178, 180</div>
                             <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 50</div>
                         </div>
                     </div>
@@ -267,13 +267,13 @@ Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire
                     <div class="colour-container bg-gray-400">
                         <div class="dwl-container">
                             <span class="colour-label">gray 400</span>
-                            <button class="copy ico-colour" data-clipboard-text="#af89cf" data-original-title="Copied!">
+                            <button class="copy ico-colour" data-clipboard-text="#cfd0d1" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#af89cf</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>176, 137, 207</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#cfd0d1</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>207, 208, 209</div>
                             <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 40</div>
                         </div>
                     </div>
@@ -282,13 +282,13 @@ Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire
                     <div class="colour-container bg-gray-300">
                         <div class="dwl-container">
                             <span class="colour-label">gray 300</span>
-                            <button class="copy ico-colour" data-clipboard-text="#c3a6db" data-original-title="Copied!">
+                            <button class="copy ico-colour" data-clipboard-text="#e3e3e4" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#c3a6db</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>195, 166, 219</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#e3e3e4</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>227, 227, 228</div>
                             <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 30</div>
                         </div>
                     </div>
@@ -297,13 +297,13 @@ Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire
                     <div class="colour-container bg-gray-200">
                         <div class="dwl-container">
                             <span class="colour-label">gray 200</span>
-                            <button class="copy ico-colour" data-clipboard-text="#d7c4e7" data-original-title="Copied!">
+                            <button class="copy ico-colour" data-clipboard-text="#ededee" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#d7c4e7</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>215, 196, 231</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#ededee</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>237, 237, 238</div>
                             <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 20</div>
                         </div>
                     </div>
@@ -312,13 +312,13 @@ Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire
                     <div class="colour-container bg-gray-100">
                         <div class="dwl-container">
                             <span class="colour-label">gray 100</span>
-                            <button class="copy ico-colour" data-clipboard-text="#ebe1f3" data-original-title="Copied!">
+                            <button class="copy ico-colour" data-clipboard-text="#f7f7f7" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#ebe1f3</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>235, 225, 243</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#f7f7f7</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>247, 247, 247</div>
                             <div class="colour-code"><span class="colour-method">cmyk</span>0, 0, 0, 10</div>
                         </div>
                     </div>
