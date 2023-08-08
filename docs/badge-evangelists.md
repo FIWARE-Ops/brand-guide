@@ -29,7 +29,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists.svg" alt="Main Logo" onContextMenu="return false;">
             <div class="dwl-container">
                 <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                <form onsubmit="this.action = document.getElementById('filename').value">
+                <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
                         <option value="#">PNG</option>
@@ -48,7 +48,7 @@ To download a badge select the preferred image format and click on the download 
                 <div  class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
                     <div class="dwl-container-m">
                         <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form onsubmit="this.action = document.getElementById('filename').value">
+                        <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                             <select id="filename">
                                 <option value="#">JPG</option>
                                 <option value="#">PNG</option>
@@ -61,7 +61,7 @@ To download a badge select the preferred image format and click on the download 
                 </div>
                 <div class="dwl-container">
                 <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                    <form onsubmit="this.action = document.getElementById('filename').value">
+                    <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                         <select id="filename">
                             <option value="#">JPG</option>
                             <option value="#">PNG</option>
@@ -77,7 +77,7 @@ To download a badge select the preferred image format and click on the download 
                     <div class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-black.svg" alt="Main Logo Black" onContextMenu="return false;">
                         <div class="dwl-container-m">
                             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                            <form onsubmit="this.action = document.getElementById('filename').value">
+                            <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                                 <select id="filename">
                                     <option value="#">JPG</option>
                                     <option value="#">PNG</option>
@@ -90,7 +90,7 @@ To download a badge select the preferred image format and click on the download 
                     </div>
                     <div class="dwl-container">
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form onsubmit="this.action = document.getElementById('filename').value">
+                        <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                             <select id="filename">
                                 <option value="#">JPG</option>
                                 <option value="#">PNG</option>
@@ -106,7 +106,7 @@ To download a badge select the preferred image format and click on the download 
                 <div class="logo-container negative square"><img src="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-white.svg" alt="Main Logo White" onContextMenu="return false;">
                     <div class="dwl-container-m">
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form onsubmit="this.action = document.getElementById('filename').value">
+                        <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                             <select id="filename">
                                 <option value="#">JPG</option>
                                 <option value="#">PNG</option>
@@ -119,7 +119,7 @@ To download a badge select the preferred image format and click on the download 
                 </div>
                 <div class="dwl-container">
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                    <form onsubmit="this.action = document.getElementById('filename').value">
+                    <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                         <select id="filename">
                             <option value="#">JPG</option>
                             <option value="#">PNG</option>

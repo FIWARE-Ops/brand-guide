@@ -30,7 +30,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/01/svg/core.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
                         <option value="#">PNG</option>
@@ -46,7 +46,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/documentation.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/01/svg/documentation.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -61,7 +61,7 @@ To download a badge select the preferred image format and click on the download 
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/01/svg/fundamentals.svg" alt="FIWARE Documentation" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/01/svg/fundamentals.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -82,7 +82,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/iot-agents.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/02/svg/iot-agents.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -98,7 +98,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/media-streams.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/02/svg/media-streams.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -114,7 +114,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/robotics.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/02/svg/robotics.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -130,7 +130,7 @@ To download a badge select the preferred image format and click on the download 
             <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/third-party.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
                 <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/02/svg/third-party.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+                <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
                         <option value="#">JPG</option>
                         <option value="#">PNG</option>
@@ -152,7 +152,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/processing.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/03/svg/processing-analysis.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -168,7 +168,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/03/svg/visualisation.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -189,7 +189,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/api-management.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/04/svg/api-management.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -205,7 +205,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/data-monetization.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/04/svg/data-monetization.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -221,7 +221,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/data-publication.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/04/svg/data-publication.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -237,7 +237,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/security.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/04/svg/security.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -258,7 +258,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/deployment-tools.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/deployment-tools/svg/deployment-tools.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -273,7 +273,7 @@ To download a badge select the preferred image format and click on the download 
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/operations/svg/operations.svg" alt="FIWARE Documentation" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/operations/svg/operations.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -293,7 +293,7 @@ To download a badge select the preferred image format and click on the download 
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/open-source-other/svg/open-source-other.svg" alt="FIWARE Core" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/open-source-other/svg/open-source-other.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -314,7 +314,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/statuses/full.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/ge-status/full-member/svg/full-member.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -330,7 +330,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/statuses/incubating.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/ge-status/incubating/svg/incubating.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -346,7 +346,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/statuses/quarantined.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/ge-status/qrntned/svg/quarantined.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -362,7 +362,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://nexus.lab.fiware.org/repository/raw/public/badges/statuses/deprecated.svg" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/ge-status/deprecated/svg/deprecated.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -382,7 +382,7 @@ To download a badge select the preferred image format and click on the download 
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/maintained-yes/svg/maintained-yes.svg" alt="FIWARE Core" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/maintained-yes/svg/maintained-yes.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -402,7 +402,7 @@ To download a badge select the preferred image format and click on the download 
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/stack-overflow/svg/stack-overflow-full.svg" alt="FIWARE Core" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/stack-overflow/svg/stack-overflow-full.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
@@ -418,7 +418,7 @@ To download a badge select the preferred image format and click on the download 
         <div class="dwl-container">
             <button class="copy mark-github" data-clipboard-text="https://img.shields.io/badge/tag-fiware-orange.svg?logo=stackoverflow" data-original-title="Copied!"><img src="https://www.fiware.org/custom/brand-guide/img/assets/mark-github.svg" alt="FIWARE Documentation" onContextMenu="return false;"></button>
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/catalogue/stack-overflow/svg/stack-overflow-short.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" onsubmit="this.action = document.getElementById('filename').value">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                 <select id="filename">
                     <option value="#">JPG</option>
                     <option value="#">PNG</option>
