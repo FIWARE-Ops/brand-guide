@@ -31,10 +31,10 @@ To download a badge select the preferred image format and click on the download 
                 <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                 <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
-                        <option value="#">JPG</option>
-                        <option value="#">PNG</option>
-                        <option value="#">SVG</option>
-                        <option value="#">EPS</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/jpg/badge-fiware-evangelists.jpg">JPG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/png/badge-fiware-evangelists.png">PNG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists.svg">SVG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/eps/badge-fiware-evangelists.eps">EPS</option>
                     </select>
                     <input type="submit" value="download" class="material-symbols-outlined dwl" />
                 </form>
@@ -50,10 +50,10 @@ To download a badge select the preferred image format and click on the download 
                         <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                             <select id="filename">
-                                <option value="#">JPG</option>
-                                <option value="#">PNG</option>
-                                <option value="#">SVG</option>
-                                <option value="#">EPS</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/jpg/badge-fiware-evangelists-blue.jpg">JPG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/png/badge-fiware-evangelists-blue.png">PNG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-blue.svg">SVG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/eps/badge-fiware-evangelists-blue.eps">EPS</option>
                             </select>
                             <input type="submit" value="download" class="material-symbols-outlined dwl" />
                         </form>
@@ -63,12 +63,12 @@ To download a badge select the preferred image format and click on the download 
                 <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                         <select id="filename">
-                            <option value="#">JPG</option>
-                            <option value="#">PNG</option>
-                            <option value="#">SVG</option>
-                            <option value="#">EPS</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/jpg/badge-fiware-evangelists-blue.jpg">JPG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/png/badge-fiware-evangelists-blue.png">PNG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-blue.svg">SVG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/eps/badge-fiware-evangelists-blue.eps">EPS</option>
                         </select>
-                            <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
                     </form>
                 </div>
             </div>
@@ -79,10 +79,10 @@ To download a badge select the preferred image format and click on the download 
                             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                             <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                                 <select id="filename">
-                                    <option value="#">JPG</option>
-                                    <option value="#">PNG</option>
-                                    <option value="#">SVG</option>
-                                    <option value="#">EPS</option>
+                                    <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/jpg/badge-fiware-evangelists-black.jpg">JPG</option>
+                                    <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/png/badge-fiware-evangelists-black.png">PNG</option>
+                                    <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-black.svg">SVG</option>
+                                    <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/eps/badge-fiware-evangelists-black.eps">EPS</option>
                                 </select>
                                 <input type="submit" value="download" class="material-symbols-outlined dwl" />
                             </form>
@@ -92,10 +92,10 @@ To download a badge select the preferred image format and click on the download 
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                             <select id="filename">
-                                <option value="#">JPG</option>
-                                <option value="#">PNG</option>
-                                <option value="#">SVG</option>
-                                <option value="#">EPS</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/jpg/badge-fiware-evangelists-black.jpg">JPG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/png/badge-fiware-evangelists-black.png">PNG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-black.svg">SVG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/eps/badge-fiware-evangelists-black.eps">EPS</option>
                             </select>
                             <input type="submit" value="download" class="material-symbols-outlined dwl" />
                         </form>
@@ -108,10 +108,10 @@ To download a badge select the preferred image format and click on the download 
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                             <select id="filename">
-                                <option value="#">JPG</option>
-                                <option value="#">PNG</option>
-                                <option value="#">SVG</option>
-                                <option value="#">EPS</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/jpg/badge-fiware-evangelists-white.jpg">JPG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/png/badge-fiware-evangelists-white.png">PNG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-white.svg">SVG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/eps/badge-fiware-evangelists-white.eps">EPS</option>
                             </select>
                             <input type="submit" value="download" class="material-symbols-outlined dwl" />
                         </form>
@@ -121,10 +121,10 @@ To download a badge select the preferred image format and click on the download 
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                         <select id="filename">
-                            <option value="#">JPG</option>
-                            <option value="#">PNG</option>
-                            <option value="#">SVG</option>
-                            <option value="#">EPS</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/jpg/badge-fiware-evangelists-white.jpg">JPG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/png/badge-fiware-evangelists-white.png">PNG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-white.svg">SVG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/eps/badge-fiware-evangelists-white.eps">EPS</option>
                         </select>
                         <input type="submit" value="download" class="material-symbols-outlined dwl" />
                     </form>

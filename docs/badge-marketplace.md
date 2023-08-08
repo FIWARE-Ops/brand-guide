@@ -36,10 +36,10 @@ To download a badge select the preferred image format and click on the download 
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/powered-by-fiware.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
-                        <option value="#">JPG</option>
-                        <option value="#">PNG</option>
-                        <option value="#">SVG</option>
-                        <option value="#">EPS</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/jpg/powered-by-fiware.jpg">JPG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/png/powered-by-fiware.png">PNG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/powered-by-fiware.svg">SVG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/eps/powered-by-fiware.eps">EPS</option>
                     </select>
                 <input type="submit" value="download" class="material-symbols-outlined dwl" />
             </form>
@@ -62,10 +62,10 @@ To download a badge select the preferred image format and click on the download 
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/fiware-ready.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
-                        <option value="#">JPG</option>
-                        <option value="#">PNG</option>
-                        <option value="#">SVG</option>
-                        <option value="#">EPS</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/jpg/fiware-ready.jpg">JPG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/png/fiware-ready.png">PNG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/fiware-ready.svg">SVG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/eps/fiware-ready.eps">EPS</option>
                     </select>
                 <input type="submit" value="download" class="material-symbols-outlined dwl" />
             </form>
@@ -88,10 +88,10 @@ To download a badge select the preferred image format and click on the download 
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/cities-4-cities.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
-                        <option value="#">JPG</option>
-                        <option value="#">PNG</option>
-                        <option value="#">SVG</option>
-                        <option value="#">EPS</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/jpg/cities-4-cities.jpg">JPG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/png/cities-4-cities.png">PNG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/cities-4-cities.svg">SVG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/eps/cities-4-cities.eps">EPS</option>
                     </select>
                 <input type="submit" value="download" class="material-symbols-outlined dwl" />
             </form>
@@ -114,10 +114,10 @@ To download a badge select the preferred image format and click on the download 
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/support-services.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
             <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
-                        <option value="#">JPG</option>
-                        <option value="#">PNG</option>
-                        <option value="#">SVG</option>
-                        <option value="#">EPS</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/jpg/support-services.jpg">JPG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/png/support-services.png">PNG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/support-services.svg">SVG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/eps/support-services.eps">EPS</option>
                     </select>
                 <input type="submit" value="download" class="material-symbols-outlined dwl" />
             </form>
