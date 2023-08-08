@@ -29,10 +29,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
                 <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                 <form onsubmit="this.action = document.getElementById('filename').value">
                     <select id="filename">
-                        <option value="#">JPG</option>
-                        <option value="#">PNG</option>
-                        <option value="#">SVG</option>
-                        <option value="#">EPS</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/jpg/logo-fiware-foundation.jpg">JPG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/png/logo-fiware-foundation.png">PNG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation.svg">SVG</option>
+                        <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/eps/logo-fiware-foundation.eps">EPS</option>
                     </select>
                     <input type="submit" value="download" class="material-symbols-outlined dwl" />
                 </form>
@@ -48,10 +48,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
                         <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form onsubmit="this.action = document.getElementById('filename').value">
                             <select id="filename">
-                                <option value="#">JPG</option>
-                                <option value="#">PNG</option>
-                                <option value="#">SVG</option>
-                                <option value="#">EPS</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/jpg/logo-fiware-foundation-blue.jpg">JPG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/png/logo-fiware-foundation-blue.png">PNG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-blue.svg">SVG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/eps/logo-fiware-foundation-blue.eps">EPS</option>
                             </select>
                             <input type="submit" value="download" class="material-symbols-outlined dwl" />
                         </form>
@@ -61,10 +61,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form onsubmit="this.action = document.getElementById('filename').value">
                         <select id="filename">
-                            <option value="#">JPG</option>
-                            <option value="#">PNG</option>
-                            <option value="#">SVG</option>
-                            <option value="#">EPS</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/jpg/logo-fiware-foundation-blue.jpg">JPG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/png/logo-fiware-foundation-blue.png">PNG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-blue.svg">SVG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/eps/logo-fiware-foundation-blue.eps">EPS</option>
                         </select>
                         <input type="submit" value="download" class="material-symbols-outlined dwl" />
                     </form>
@@ -77,10 +77,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
                         <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form onsubmit="this.action = document.getElementById('filename').value">
                             <select id="filename">
-                                <option value="#">JPG</option>
-                                <option value="#">PNG</option>
-                                <option value="#">SVG</option>
-                                <option value="#">EPS</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/jpg/logo-fiware-foundation-black.jpg">JPG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/png/logo-fiware-foundation-black.png">PNG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-black.svg">SVG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/eps/logo-fiware-foundation-black.eps">EPS</option>
                             </select>
                             <input type="submit" value="download" class="material-symbols-outlined dwl" />
                         </form>
@@ -90,10 +90,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form onsubmit="this.action = document.getElementById('filename').value">
                         <select id="filename">
-                            <option value="#">JPG</option>
-                            <option value="#">PNG</option>
-                            <option value="#">SVG</option>
-                            <option value="#">EPS</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/jpg/logo-fiware-foundation-black.jpg">JPG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/png/logo-fiware-foundation-black.png">PNG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-black.svg">SVG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/eps/logo-fiware-foundation-black.eps">EPS</option>
                         </select>
                         <input type="submit" value="download" class="material-symbols-outlined dwl" />
                     </form>
@@ -106,10 +106,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form onsubmit="this.action = document.getElementById('filename').value">
                             <select id="filename">
-                                <option value="#">JPG</option>
-                                <option value="#">PNG</option>
-                                <option value="#">SVG</option>
-                                <option value="#">EPS</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/jpg/logo-fiware-foundation-white.jpg">JPG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/png/logo-fiware-foundation-white.png">PNG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-white.svg">SVG</option>
+                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/eps/logo-fiware-foundation-white.eps">EPS</option>
                             </select>
                             <input type="submit" value="download" class="material-symbols-outlined dwl" />
                         </form>
@@ -119,10 +119,10 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form onsubmit="this.action = document.getElementById('filename').value">
                         <select id="filename">
-                            <option value="#">JPG</option>
-                            <option value="#">PNG</option>
-                            <option value="#">SVG</option>
-                            <option value="#">EPS</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/jpg/logo-fiware-foundation-white.jpg">JPG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/png/logo-fiware-foundation-white.png">PNG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-white.svg">SVG</option>
+                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/eps/logo-fiware-foundation-white.eps">EPS</option>
                         </select>
                         <input type="submit" value="download" class="material-symbols-outlined dwl" />
                     </form>
