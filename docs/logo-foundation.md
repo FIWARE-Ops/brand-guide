@@ -15,6 +15,8 @@
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
+To download a logo select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use them within an tag.
+
 <div class="primary-btn">
     <a href="https://www.fiware.org/foundation/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
