@@ -108,7 +108,6 @@ To download a logo select the preferred image format and click on the download b
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-foundation-white').value">
                             <select id="logo-fiware-foundation-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/jpg/logo-fiware-foundation-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/png/logo-fiware-foundation-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-white.svg">SVG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/eps/logo-fiware-foundation-white.eps">EPS</option>
@@ -121,7 +120,6 @@ To download a logo select the preferred image format and click on the download b
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-foundation-white').value">
                         <select id="logo-fiware-foundation-white">
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/jpg/logo-fiware-foundation-white.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/png/logo-fiware-foundation-white.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/svg/logo-fiware-foundation-white.svg">SVG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware-foundation/eps/logo-fiware-foundation-white.eps">EPS</option>

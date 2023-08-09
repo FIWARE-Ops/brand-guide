@@ -81,7 +81,6 @@ To download a logo select the preferred image format and click on the download b
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/accelerator/svg/logo-fiware-accelerator-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-accelerator-white').value">
                             <select id="logo-fiware-accelerator-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/accelerator/jpg/logo-fiware-accelerator-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/accelerator/png/logo-fiware-accelerator-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/accelerator/svg/logo-fiware-accelerator-white.svg">SVG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/accelerator/eps/logo-fiware-accelerator-white.eps">EPS</option>
@@ -94,7 +93,6 @@ To download a logo select the preferred image format and click on the download b
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/accelerator/svg/logo-fiware-accelerator-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-accelerator-white').value">
                         <select id="logo-fiware-accelerator-white">
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/accelerator/jpg/logo-fiware-accelerator-white.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/accelerator/png/logo-fiware-accelerator-white.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/accelerator/svg/logo-fiware-accelerator-white.svg">SVG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/accelerator/eps/logo-fiware-accelerator-white.eps">EPS</option>
@@ -201,7 +199,6 @@ To download a logo select the preferred image format and click on the download b
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('logo-fgs-white').value">
                             <select id="logo-fgs-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/jpg/logo-fgs-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/png/logo-fgs-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-white.svg">SVG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/eps/logo-fgs-white.eps">EPS</option>
@@ -214,7 +211,6 @@ To download a logo select the preferred image format and click on the download b
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form target="_blank" onsubmit="this.action = document.getElementById('logo-fgs-white').value">
                         <select id="logo-fgs-white">
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/jpg/logo-fgs-white.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/png/logo-fgs-white.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-white.svg">SVG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/eps/logo-fgs-white.eps">EPS</option>
@@ -296,7 +292,6 @@ To download a logo select the preferred image format and click on the download b
                             <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                             <form target="_blank" onsubmit="this.action = document.getElementById('logo-fgs-secondary-white').value">
                                 <select id="logo-fgs-secondary-white">
-                                    <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/jpg/logo-fgs-secondary-white.jpg">JPG</option>
                                     <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/png/logo-fgs-secondary-white.png">PNG</option>
                                     <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary-white.svg">SVG</option>
                                     <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/eps/logo-fgs-secondary-white.eps">EPS</option>
@@ -309,7 +304,6 @@ To download a logo select the preferred image format and click on the download b
                         <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('logo-fgs-secondary-white').value">
                             <select id="logo-fgs-secondary-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/jpg/logo-fgs-secondary-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/png/logo-fgs-secondary-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary-white.svg">SVG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/eps/logo-fgs-secondary-white.eps">EPS</option>
@@ -422,7 +416,6 @@ To download a logo select the preferred image format and click on the download b
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/ihubs/svg/logo-fiware-ihubs-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-ihubs-white').value">
                             <select id="logo-fiware-ihubs-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/ihubs/jpg/logo-fiware-ihubs-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/ihubs/png/logo-fiware-ihubs-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/ihubs/svg/logo-fiware-ihubs-white.svg">SVG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/ihubs/eps/logo-fiware-ihubs-white.eps">EPS</option>
@@ -435,7 +428,6 @@ To download a logo select the preferred image format and click on the download b
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/ihubs/svg/logo-fiware-ihubs-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-ihubs-white').value">
                         <select id="logo-fiware-ihubs-white">
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/ihubs/jpg/logo-fiware-ihubs-white.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/ihubs/png/logo-fiware-ihubs-white.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/ihubs/svg/logo-fiware-ihubs-white.svg">SVG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/ihubs/eps/logo-fiware-ihubs-white.eps">EPS</option>
@@ -512,7 +504,6 @@ To download a logo select the preferred image format and click on the download b
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/impact-stories/svg/logo-fiware-impact-stories-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-impact-stories-white').value">
                             <select id="logo-fiware-impact-stories-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/impact-stories/jpg/logo-fiware-impact-stories-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/impact-stories/png/logo-fiware-impact-stories-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/impact-stories/svg/logo-fiware-impact-stories-white.svg">SVG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/impact-stories/eps/logo-fiware-impact-stories-white.eps">EPS</option>
@@ -525,7 +516,6 @@ To download a logo select the preferred image format and click on the download b
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/impact-stories/svg/logo-fiware-impact-stories-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-impact-stories-white').value">
                         <select id="logo-fiware-impact-stories-white">
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/impact-stories/jpg/logo-fiware-impact-stories-white.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/impact-stories/png/logo-fiware-impact-stories-white.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/impact-stories/svg/logo-fiware-impact-stories-white.svg">SVG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/impact-stories/eps/logo-fiware-impact-stories-white.eps">EPS</option>
@@ -632,7 +622,6 @@ To download a logo select the preferred image format and click on the download b
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fiware-lab/svg/logo-fiware-lab-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-lab-white').value">
                             <select id="logo-fiware-lab-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fiware-lab/jpg/logo-fiware-lab-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fiware-lab/png/logo-fiware-lab-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fiware-lab/svg/logo-fiware-lab-white.svg">SVG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fiware-lab/eps/logo-fiware-lab-white.eps">EPS</option>
@@ -645,7 +634,6 @@ To download a logo select the preferred image format and click on the download b
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fiware-lab/svg/logo-fiware-lab-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-lab-white').value">
                         <select id="logo-fiware-lab-white">
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fiware-lab/jpg/logo-fiware-lab-white.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fiware-lab/png/logo-fiware-lab-white.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fiware-lab/svg/logo-fiware-lab-white.svg">SVG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fiware-lab/eps/logo-fiware-lab-white.eps">EPS</option>
@@ -752,7 +740,6 @@ To download a logo select the preferred image format and click on the download b
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/svg/logo-fiware-marketplace-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-marketplace-white').value">
                             <select id="logo-fiware-marketplace-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/jpg/logo-fiware-marketplace-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/png/logo-fiware-marketplace-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/svg/logo-fiware-marketplace-white.svg">SVG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/eps/logo-fiware-marketplace-white.eps">EPS</option>
@@ -765,7 +752,6 @@ To download a logo select the preferred image format and click on the download b
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/svg/logo-fiware-marketplace-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-marketplace-white').value">
                         <select id="logo-fiware-marketplace-white">
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/jpg/logo-fiware-marketplace-white.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/png/logo-fiware-marketplace-white.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/svg/logo-fiware-marketplace-white.svg">SVG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/marketplace/eps/logo-fiware-marketplace-white.eps">EPS</option>
@@ -872,7 +858,6 @@ To download a logo select the preferred image format and click on the download b
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fisab/svg/logo-fisab-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('logo-fisab-white').value">
                             <select id="logo-fisab-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fisab/png/logo-fisab-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fisab/svg/logo-fisab-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fisab/svg/logo-fisab-white.svg">SVG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fisab/eps/logo-fisab-white.eps">EPS</option>
@@ -885,7 +870,6 @@ To download a logo select the preferred image format and click on the download b
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fisab/svg/logo-fisab-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form target="_blank" onsubmit="this.action = document.getElementById('logo-fisab-white').value">
                         <select id="logo-fisab-white">
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fisab/png/logo-fisab-white.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fisab/svg/logo-fisab-white.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fisab/svg/logo-fisab-white.svg">SVG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fisab/eps/logo-fisab-white.eps">EPS</option>

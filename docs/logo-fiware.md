@@ -40,7 +40,7 @@ The Main Logo, preferably in its coloured version, should be used whenever possi
                         <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/svg/logo-fiware.svg">SVG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/eps/logo-fiware.eps">EPS</option>
                     </select>
-                    <input type="submit" value="download" class="material-symbols-outlined dwl" />
+                    <input type="submit" value="download" class="material-symbols-outlined dwl"/>
                 </form>
             </div>
         </div>
@@ -112,7 +112,6 @@ The Main Logo, preferably in its coloured version, should be used whenever possi
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/svg/logo-fiware-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-white').value">
                             <select id="logo-fiware-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/jpg/logo-fiware-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/png/logo-fiware-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/svg/logo-fiware-white.svg">SVG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/eps/logo-fiware-white.eps">EPS</option>
@@ -125,7 +124,6 @@ The Main Logo, preferably in its coloured version, should be used whenever possi
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/svg/logo-fiware-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-white').value">
                         <select id="logo-fiware-white">
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/jpg/logo-fiware-white.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/png/logo-fiware-white.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/svg/logo-fiware-white.svg">SVG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/eps/logo-fiware-white.eps">EPS</option>
@@ -513,7 +511,6 @@ The Full Logo (combination of the FIWARE logo and its tagline) should be used wh
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/svg/logo-fiware-full-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-full-white').value">
                             <select id="logo-fiware-full-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/jpg/logo-fiware-full-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/png/logo-fiware-full-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/svg/logo-fiware-full-white.svg">SVG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/eps/logo-fiware-full-white.eps">EPS</option>
@@ -526,7 +523,6 @@ The Full Logo (combination of the FIWARE logo and its tagline) should be used wh
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/svg/logo-fiware-full-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-full-white').value">
                         <select id="logo-fiware-full-white">
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/jpg/logo-fiware-full-white.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/png/logo-fiware-full-white.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/svg/logo-fiware-full-white.svg">SVG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/eps/logo-fiware-full-white.eps">EPS</option>
@@ -678,7 +674,6 @@ The Secondary Logo should be used only when the layout does not allow for the Ma
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-secondary-white').value">
                             <select id="logo-fiware-secondary-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/jpg/logo-fiware-secondary-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/png/logo-fiware-secondary-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary-white.svg">SVG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/eps/logo-fiware-secondary-white.eps">EPS</option>
@@ -691,7 +686,6 @@ The Secondary Logo should be used only when the layout does not allow for the Ma
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-secondary-white').value">
                         <select id="logo-fiware-secondary-white">
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/jpg/logo-fiware-secondary-white.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/png/logo-fiware-secondary-white.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary-white.svg">SVG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/eps/logo-fiware-secondary-white.eps">EPS</option>

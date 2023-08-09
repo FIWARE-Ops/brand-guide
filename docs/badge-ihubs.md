@@ -113,7 +113,6 @@ To download a badge select the preferred image format and click on the download 
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                         <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-ihubs-white').value">
                             <select id="badge-fiware-ihubs-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/jpg/badge-fiware-ihubs-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/png/badge-fiware-ihubs-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-white.svg">SVG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/eps/badge-fiware-ihubs-white.eps">EPS</option>
@@ -126,7 +125,6 @@ To download a badge select the preferred image format and click on the download 
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
                     <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-ihubs-white').value">
                         <select id="badge-fiware-ihubs-white">
-                            <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/jpg/badge-fiware-ihubs-white.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/png/badge-fiware-ihubs-white.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-white.svg">SVG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/eps/badge-fiware-ihubs-white.eps">EPS</option>
