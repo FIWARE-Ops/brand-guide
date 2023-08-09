@@ -34,8 +34,8 @@ To download a badge select the preferred image format and click on the download 
         <div class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs.svg" alt="Main Logo" onContextMenu="return false;">
             <div class="dwl-container">
                 <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
-                    <select id="filename">
+                <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-ihubs').value">
+                    <select id="badge-fiware-ihubs">
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/jpg/badge-fiware-ihubs.jpg">JPG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/png/badge-fiware-ihubs.png">PNG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs.svg">SVG</option>
@@ -53,8 +53,8 @@ To download a badge select the preferred image format and click on the download 
                 <div  class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
                     <div class="dwl-container-m">
                         <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
-                            <select id="filename">
+                        <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-ihubs-blue').value">
+                            <select id="badge-fiware-ihubs-blue">
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/jpg/badge-fiware-ihubs-blue.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/png/badge-fiware-ihubs-blue.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-blue.svg">SVG</option>
@@ -66,8 +66,8 @@ To download a badge select the preferred image format and click on the download 
                 </div>
                 <div class="dwl-container">
                 <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                    <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
-                        <select id="filename">
+                    <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-ihubs-blue').value">
+                        <select id="badge-fiware-ihubs-blue">
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/jpg/badge-fiware-ihubs-blue.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/png/badge-fiware-ihubs-blue.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-blue.svg">SVG</option>
@@ -82,8 +82,8 @@ To download a badge select the preferred image format and click on the download 
                     <div class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-black.svg" alt="Main Logo Black" onContextMenu="return false;">
                         <div class="dwl-container-m">
                             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                            <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
-                                <select id="filename">
+                            <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-ihubs-black').value">
+                                <select id="badge-fiware-ihubs-black">
                                     <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/jpg/badge-fiware-ihubs-black.jpg">JPG</option>
                                     <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/png/badge-fiware-ihubs-black.png">PNG</option>
                                     <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-black.svg">SVG</option>
@@ -95,8 +95,8 @@ To download a badge select the preferred image format and click on the download 
                     </div>
                     <div class="dwl-container">
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
-                            <select id="filename">
+                        <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-ihubs-black').value">
+                            <select id="badge-fiware-ihubs-black">
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/jpg/badge-fiware-ihubs-black.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/png/badge-fiware-ihubs-black.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-black.svg">SVG</option>
@@ -111,8 +111,8 @@ To download a badge select the preferred image format and click on the download 
                 <div class="logo-container negative square"><img src="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-white.svg" alt="Main Logo White" onContextMenu="return false;">
                     <div class="dwl-container-m">
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
-                            <select id="filename">
+                        <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-ihubs-white').value">
+                            <select id="badge-fiware-ihubs-white">
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/jpg/badge-fiware-ihubs-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/png/badge-fiware-ihubs-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-white.svg">SVG</option>
@@ -124,8 +124,8 @@ To download a badge select the preferred image format and click on the download 
                 </div>
                 <div class="dwl-container">
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                    <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
-                        <select id="filename">
+                    <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-ihubs-white').value">
+                        <select id="badge-fiware-ihubs-white">
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/jpg/badge-fiware-ihubs-white.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/png/badge-fiware-ihubs-white.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/ihubs/svg/badge-fiware-ihubs-white.svg">SVG</option>

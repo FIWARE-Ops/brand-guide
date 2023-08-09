@@ -29,8 +29,8 @@ To download a badge select the preferred image format and click on the download 
         <div class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists.svg" alt="Main Logo" onContextMenu="return false;">
             <div class="dwl-container">
                 <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
-                    <select id="filename">
+                <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-evangelists').value">
+                    <select id="badge-fiware-evangelists">
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/jpg/badge-fiware-evangelists.jpg">JPG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/png/badge-fiware-evangelists.png">PNG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists.svg">SVG</option>
@@ -48,8 +48,8 @@ To download a badge select the preferred image format and click on the download 
                 <div  class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
                     <div class="dwl-container-m">
                         <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
-                            <select id="filename">
+                        <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-evangelists-blue').value">
+                            <select id="badge-fiware-evangelists-blue">
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/jpg/badge-fiware-evangelists-blue.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/png/badge-fiware-evangelists-blue.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-blue.svg">SVG</option>
@@ -61,8 +61,8 @@ To download a badge select the preferred image format and click on the download 
                 </div>
                 <div class="dwl-container">
                 <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                    <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
-                        <select id="filename">
+                    <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-evangelists-blue').value">
+                        <select id="badge-fiware-evangelists-blue">
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/jpg/badge-fiware-evangelists-blue.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/png/badge-fiware-evangelists-blue.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-blue.svg">SVG</option>
@@ -77,8 +77,8 @@ To download a badge select the preferred image format and click on the download 
                     <div class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-black.svg" alt="Main Logo Black" onContextMenu="return false;">
                         <div class="dwl-container-m">
                             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                            <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
-                                <select id="filename">
+                            <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-evangelists-black').value">
+                                <select id="badge-fiware-evangelists-black">
                                     <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/jpg/badge-fiware-evangelists-black.jpg">JPG</option>
                                     <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/png/badge-fiware-evangelists-black.png">PNG</option>
                                     <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-black.svg">SVG</option>
@@ -90,8 +90,8 @@ To download a badge select the preferred image format and click on the download 
                     </div>
                     <div class="dwl-container">
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
-                            <select id="filename">
+                        <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-evangelists-black').value">
+                            <select id="badge-fiware-evangelists-black">
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/jpg/badge-fiware-evangelists-black.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/png/badge-fiware-evangelists-black.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-black.svg">SVG</option>
@@ -106,8 +106,8 @@ To download a badge select the preferred image format and click on the download 
                 <div class="logo-container negative square"><img src="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-white.svg" alt="Main Logo White" onContextMenu="return false;">
                     <div class="dwl-container-m">
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
-                            <select id="filename">
+                        <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-evangelists-white').value">
+                            <select id="badge-fiware-evangelists-white">
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/jpg/badge-fiware-evangelists-white.jpg">JPG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/png/badge-fiware-evangelists-white.png">PNG</option>
                                 <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-white.svg">SVG</option>
@@ -119,8 +119,8 @@ To download a badge select the preferred image format and click on the download 
                 </div>
                 <div class="dwl-container">
                     <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                    <form target="_blank" onsubmit="this.action = document.getElementById('filename').value">
-                        <select id="filename">
+                    <form target="_blank" onsubmit="this.action = document.getElementById('badge-fiware-evangelists-white').value">
+                        <select id="badge-fiware-evangelists-white">
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/jpg/badge-fiware-evangelists-white.jpg">JPG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/png/badge-fiware-evangelists-white.png">PNG</option>
                             <option value="https://www.fiware.org/custom/brand-guide/img/badges/evangelists/svg/badge-fiware-evangelists-white.svg">SVG</option>

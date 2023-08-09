@@ -15,7 +15,7 @@
 
 Available colour swatches for Adobe Illustrator in <a href="https://www.lifewire.com/ase-file-2619688" target="_blank">ASE</a> and Adobe Photoshop in <a href="https://www.lifewire.com/aco-file-2619477" target="_blank">ACO</a> file formats. For the web, CSS variables and colour codes in Hex, RGB and CMYK formats are also available.
 
-To get the colour code from each colour module click on the copy icon, and the HEX code will get copied to your clipboard. Alternatively, download the files above in order to obtain the other additional colour codes.
+To get the colour code from each colour module click on the copy icon, and the HEX code will get copied to your clipboard. Alternatively, download the files below in order to obtain the other additional colour codes.
 
 <div class="cta-container">
     <div class="secondary-btn">
