@@ -19,16 +19,16 @@ To get the colour code from each colour module click on the copy icon, and the H
 
 <div class="cta-container">
     <div class="secondary-btn">
-        <a href="#" target="_blank"><span class="material-symbols-outlined">download</span>RGB Colour Swatches</a>
+        <a href="https://www.fiware.org/custom/brand-guide/colour/fiware/fiware-rgb-colour-swatches.zip" download><span class="material-symbols-outlined">download</span>RGB Colour Swatches</a>
     </div>
     <div class="secondary-btn">
-        <a href="#" target="_blank"><span class="material-symbols-outlined">download</span>CMYK Colour Swatches</a>
+        <a href="https://www.fiware.org/custom/brand-guide/colour/fiware/fiware-cmyk-colour-swatches.zip" download><span class="material-symbols-outlined">download</span>CMYK Colour Swatches</a>
     </div>
     <div class="secondary-btn">
-        <a href="#" target="_blank"><span class="material-symbols-outlined">download</span>CSS Variables</a>
+        <a href="https://www.fiware.org/custom/brand-guide/colour/fiware/fiware-css-colour-variables.zip" download><span class="material-symbols-outlined">download</span>CSS Variables</a>
     </div>
     <div class="secondary-btn">
-        <a href="#" target="_blank"><span class="material-symbols-outlined">download</span>Colour Codes</a>
+        <a href="https://www.fiware.org/custom/brand-guide/colour/fiware/fiware-colour-codes.zip" download><span class="material-symbols-outlined">download</span>Colour Codes</a>
     </div>
 </div>
 
