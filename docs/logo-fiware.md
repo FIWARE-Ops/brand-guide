@@ -52,15 +52,6 @@ The Main Logo, preferably in its coloured version, should be used whenever possi
                 <div class="logo-container copy-content"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/svg/logo-fiware-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
                     <div class="dwl-container-m">
                         <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/svg/logo-fiware-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-blue').value">
-                            <select id="logo-fiware-blue">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/jpg/logo-fiware-blue.jpg">JPG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/png/logo-fiware-blue.png">PNG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/svg/logo-fiware-blue.svg">SVG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/eps/logo-fiware-blue.eps">EPS</option>
-                            </select>
-                            <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                        </form>
                     </div>
                 </div>
                 <div class="dwl-container">
@@ -81,15 +72,6 @@ The Main Logo, preferably in its coloured version, should be used whenever possi
                 <div class="logo-container copy-content"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/svg/logo-fiware-black.svg" alt="Main Logo Black" onContextMenu="return false;">
                     <div class="dwl-container-m">
                         <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/svg/logo-fiware-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-black').value">
-                            <select id="logo-fiware-black">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/jpg/logo-fiware-black.jpg">JPG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/png/logo-fiware-black.png">PNG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/svg/logo-fiware-black.svg">SVG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/eps/logo-fiware-black.eps">EPS</option>
-                            </select>
-                            <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                        </form>
                     </div>
                 </div>
                 <div class="dwl-container">
@@ -110,14 +92,6 @@ The Main Logo, preferably in its coloured version, should be used whenever possi
                 <div class="logo-container negative copy-content"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/svg/logo-fiware-white.svg" alt="Main Logo White" onContextMenu="return false;">
                     <div class="dwl-container-m">
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/svg/logo-fiware-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-white').value">
-                            <select id="logo-fiware-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/png/logo-fiware-white.png">PNG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/svg/logo-fiware-white.svg">SVG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/primary/eps/logo-fiware-white.eps">EPS</option>
-                            </select>
-                            <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                        </form>
                     </div>
                 </div>
                 <div class="dwl-container">
@@ -450,16 +424,6 @@ The Full Logo (combination of the FIWARE logo and its tagline) should be used wh
                 <h4>Monochrome</h4>
                 <div  class="logo-container copy-content"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/svg/logo-fiware-full-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
                     <div class="dwl-container-m">
-                        <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/svg/logo-fiware-full-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-full-blue').value">
-                            <select id="logo-fiware-full-blue">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/jpg/logo-fiware-full-blue.jpg">JPG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/png/logo-fiware-full-blue.png">PNG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/svg/logo-fiware-full-blue.svg">SVG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/eps/logo-fiware-full-blue.eps">EPS</option>
-                            </select>
-                            <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                        </form>
                     </div>
                 </div>
                 <div class="dwl-container">
@@ -480,15 +444,6 @@ The Full Logo (combination of the FIWARE logo and its tagline) should be used wh
                 <div class="logo-container copy-content"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/svg/logo-fiware-full-black.svg" alt="Main Logo Black">
                     <div class="dwl-container-m">
                         <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/svg/logo-fiware-full-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-full-black').value">
-                            <select id="logo-fiware-full-black">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/jpg/logo-fiware-full-black.jpg">JPG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/png/logo-fiware-full-black.png">PNG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/svg/logo-fiware-full-black.svg">SVG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/eps/logo-fiware-full-black.eps">EPS</option>
-                            </select>
-                            <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                        </form>
                     </div>
                 </div>
                 <div class="dwl-container">
@@ -509,14 +464,6 @@ The Full Logo (combination of the FIWARE logo and its tagline) should be used wh
                 <div class="logo-container negative copy-content"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/svg/logo-fiware-full-white.svg" alt="Main Logo White" onContextMenu="return false;">
                     <div class="dwl-container-m">
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/svg/logo-fiware-full-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-full-white').value">
-                            <select id="logo-fiware-full-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/png/logo-fiware-full-white.png">PNG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/svg/logo-fiware-full-white.svg">SVG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/full/eps/logo-fiware-full-white.eps">EPS</option>
-                            </select>
-                                <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                        </form>
                     </div>
                 </div>
                 <div class="dwl-container">
@@ -614,15 +561,6 @@ The Secondary Logo should be used only when the layout does not allow for the Ma
                 <div  class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary-blue.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
                     <div class="dwl-container-m">
                         <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary-blue.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-secondary-blue').value">
-                            <select id="logo-fiware-secondary-blue">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/jpg/logo-fiware-secondary-blue.jpg">JPG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/png/logo-fiware-secondary-blue.png">PNG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary-blue.svg">SVG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/eps/logo-fiware-secondary-blue.eps">EPS</option>
-                            </select>
-                            <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                        </form>
                     </div>
                 </div>
                 <div class="dwl-container">
@@ -643,15 +581,6 @@ The Secondary Logo should be used only when the layout does not allow for the Ma
                     <div class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary-black.svg" alt="Main Logo Black" onContextMenu="return false;">
                         <div class="dwl-container-m">
                             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                            <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-secondary-black').value">
-                                <select id="logo-fiware-secondary-black">
-                                    <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/jpg/logo-fiware-secondary-black.jpg">JPG</option>
-                                    <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/png/logo-fiware-secondary-black.png">PNG</option>
-                                    <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary-black.svg">SVG</option>
-                                    <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/eps/logo-fiware-secondary-black.eps">EPS</option>
-                                </select>
-                                <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                            </form>
                         </div>
                     </div>
                     <div class="dwl-container">
@@ -672,14 +601,6 @@ The Secondary Logo should be used only when the layout does not allow for the Ma
                 <div class="logo-container negative square"><img src="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary-white.svg" alt="Main Logo White" onContextMenu="return false;">
                     <div class="dwl-container-m">
                         <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('logo-fiware-secondary-white').value">
-                            <select id="logo-fiware-secondary-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/png/logo-fiware-secondary-white.png">PNG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/svg/logo-fiware-secondary-white.svg">SVG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/fiware/secondary/eps/logo-fiware-secondary-white.eps">EPS</option>
-                            </select>
-                            <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                        </form>
                     </div>
                 </div>
                 <div class="dwl-container">
