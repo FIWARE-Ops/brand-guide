@@ -1398,8 +1398,8 @@ select#size_select-system {
     position: absolute;
     z-index: 1030;
     display: block;
-    font-size: 12px;
-    line-height: 1.4;
+    font-size: 11px;
+    line-height: 1.1;
     opacity: 0;
     filter: alpha(opacity=0);
     visibility: visible;
@@ -1428,8 +1428,8 @@ select#size_select-system {
 }
 
 .tooltip-inner {
-    max-width: 200px;
-    padding: 3px 8px;
+    width: 55px;
+    padding: 3px 5px;
     color: #fff;
     text-align: center;
     text-decoration: none;
