@@ -13,7 +13,7 @@
 
 # FIWARE Ecosystem
 
-The FIWARE Ecosystem logo collection have been designed following the FIWARE Visual Identity in terms of colour, fonts, and proportions. As well as following this approach, all of them keep a clear and strong recognisability.
+The FIWARE Ecosystem logo collection has been designed following the FIWARE Visual Identity in terms of colour, fonts, and proportions. In addition to following this approach, each logo keeps a clear and distinct identity.
 
 To download a logo select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use them within an tag.
 
