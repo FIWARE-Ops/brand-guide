@@ -13,12 +13,12 @@
 
 # FIWARE Ecosystem
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+The FIWARE Ecosystem logo collection have been designed following the FIWARE Visual Identity in terms of colour, fonts, and proportions. As well as following this approach, all of them keep a clear and strong recognisability.
 
 To download a logo select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use them within an tag.
 
 ## FIWARE Accelerator
-<p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+<!-- <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> -->
 <div class="primary-btn">
     <a href="https://www.fiware.org/community/fiware-accelerator-programme/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
@@ -90,7 +90,7 @@ To download a logo select the preferred image format and click on the download b
 
 
 ## FIWARE Global Summit
-<p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+<!-- <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> -->
 <div class="primary-btn">
     <a href="https://www.fiware.org/global-summit/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
@@ -347,7 +347,7 @@ To download a logo select the preferred image format and click on the download b
 
 
 ## FIWARE Impact Stories
-<p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+<!-- <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> -->
 <div class="primary-btn">
     <a href="https://www.fiware.org/about-us/impact-stories/svg/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
@@ -418,7 +418,7 @@ To download a logo select the preferred image format and click on the download b
 
 
 ## FIWARE Lab
-<p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+<!-- <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> -->
 <div class="primary-btn">
     <a href="https://fiware-lab-academy.readthedocs.io/en/latest/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
@@ -510,7 +510,7 @@ To download a logo select the preferred image format and click on the download b
 
 
 ## FIWARE Marketplace
-<p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+<!-- <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> -->
 <div class="primary-btn">
     <a href="https://www.fiware.org/marketplace/svg/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
@@ -602,7 +602,7 @@ To download a logo select the preferred image format and click on the download b
 
 
 ## FIWARE Scientific Advisory Board
-<p class="description">FIWARE Scientific Advisory Board lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient.</p>
+<!-- <p class="description">FIWARE Scientific Advisory Board lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient.</p> -->
 <div class="primary-btn">
     <a href="https://www.fiware.org/governance/fisab/svg/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>

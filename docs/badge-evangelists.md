@@ -13,8 +13,6 @@
 
 <h1>FIWARE Evangelists</h1>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-
 To download a badge select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use them within an <img> tag.
 
 <div class="primary-btn">
