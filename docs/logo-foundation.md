@@ -13,7 +13,7 @@
 
 <h1>FIWARE Foundation</h1>
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+The FIWARE Foundation difference from the FIWARE logo only for the Foundation term addition. This is to enhance the Brand recognisability but also to make them look as a single entity. That's why the FIWARE Foundation logo should be only used for funded projects, on institutional materials, and internal stationery.
 
 To download a logo select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use them within an tag.
 
