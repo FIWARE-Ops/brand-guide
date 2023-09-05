@@ -13,7 +13,7 @@
 
 # FIWARE Domains
 
-Standardized FIWARE badges should be used to represent the categories found within the FIWARE Domains.
+Standardised FIWARE badges should be used to represent the categories found within the FIWARE Domains.
 
 To download a badge select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use them within an <img> tag.
 
