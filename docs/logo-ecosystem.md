@@ -13,12 +13,13 @@
 
 # FIWARE Ecosystem
 
-The FIWARE Ecosystem logo collection has been designed following the FIWARE Visual Identity in terms of colour, fonts, and proportions. In addition to following this approach, each logo keeps a clear and distinct identity.
+FIWARE is well known for its successful and growing ecosystem allowing all qualified players to actively participate in or contribute to certain programs and activities. FIWARE encourages these players to indicate and promote the programs activities by using the respective logos. Major FIWARE Ecosystem programs and activities include: FIWARE Accelerator Program, FIWARE iHubs, FIWARE Impact Stories, FIWARE Lab, FIWARE Marketplace, FIWARE Scientific Advisory Board.
+The collection of FIWARE Ecosystem logos is design with high attention to the FIWARE Visual Identity in terms of color, fonts, and proportions. At the same time, each logo keeps a clear and distinct identity.
 
-To download a logo select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use them within an tag.
+**To download a logo:** Select the preferred image format and click on the download button. Alternatively, you can click on the copy icon to receive the badge image URL with which you can access the logo hosted on our CDN server and use it within a tag.
 
 ## FIWARE Accelerator
-<!-- <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> -->
+<p class="description">The FIWARE Accelerator Programme supports accelerators and funding organisations to promote their funding opportunities and services, enlarge their ecosystems, accelerate funding, and allow programme members to collaborate with FIWARE members from high-potential start-ups to global players to bring innovative smart solutions and their providers to success.</p>
 <div class="primary-btn">
     <a href="https://www.fiware.org/community/fiware-accelerator-programme/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
@@ -82,166 +83,6 @@ To download a logo select the preferred image format and click on the download b
                         </select>
                         <input type="submit" value="download" class="material-symbols-outlined dwl" />
                     </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-## FIWARE Global Summit
-<!-- <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> -->
-<div class="primary-btn">
-    <a href="https://www.fiware.org/global-summit/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
-</div>
-
-<div class="section-container">
-    <div class="main-container">
-        <div class="title-container">
-            <h4>Color</h4>
-        </div>
-        <div class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs.svg" alt="Main Logo" onContextMenu="return false;">
-            <div class="dwl-container">
-                <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                <form target="_blank" onsubmit="this.action = document.getElementById('logo-fgs').value">
-                    <select id="logo-fgs">
-                        <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/jpg/logo-fgs.jpg">JPG</option>
-                        <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/png/logo-fgs.png">PNG</option>
-                        <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs.svg">SVG</option>
-                        <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/eps/logo-fgs.eps">EPS</option>
-                    </select>
-                    <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                </form>
-            </div>
-        </div>
-    </div>
-    <div class="grid">
-        <div class="grid-items">
-            <div class="col-3 scroll-x">
-                <h4>Monochrome</h4>
-                <div  class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-orange.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-                    <div class="dwl-container-m">
-                        <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-orange.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                    </div>
-                </div>
-                <div class="dwl-container">
-                <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-orange.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                    <form target="_blank" onsubmit="this.action = document.getElementById('logo-fgs-orange').value">
-                        <select id="logo-fgs-orange">
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/jpg/logo-fgs-orange.jpg">JPG</option>
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/png/logo-fgs-orange.png">PNG</option>
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-orange.svg">SVG</option>
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/eps/logo-fgs-orange.eps">EPS</option>
-                        </select>
-                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                    </form>
-                </div>
-            </div>
-            <div class="col-3 scroll-x">
-                <h4>Black</h4>
-                    <div class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                        <div class="dwl-container-m">
-                            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        </div>
-                    </div>
-                    <div class="dwl-container">
-                    <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('logo-fgs-black').value">
-                            <select id="logo-fgs-black">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/jpg/logo-fgs-black.jpg">JPG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/png/logo-fgs-black.png">PNG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-black.svg">SVG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/eps/logo-fgs-black.eps">EPS</option>
-                            </select>
-                            <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                        </form>
-                    </div>
-            </div>
-            <div class="col-3 scroll-x">
-                <h4>White</h4>
-                <div class="logo-container negative square"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-white.svg" alt="Main Logo White" onContextMenu="return false;">
-                    <div class="dwl-container-m">
-                        <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                    </div>
-                </div>
-                <div class="dwl-container">
-                    <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                    <form target="_blank" onsubmit="this.action = document.getElementById('logo-fgs-white').value">
-                        <select id="logo-fgs-white">
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/png/logo-fgs-white.png">PNG</option>
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-white.svg">SVG</option>
-                            <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/eps/logo-fgs-white.eps">EPS</option>
-                        </select>
-                        <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="secondary-container">
-        <div class="title-container">
-            <h3 class="title-section">Secondary</h3>
-        </div>
-        <div class="grid">
-            <div class="grid-items">
-                <div class="col-3 scroll-x">
-                    <h4>Monochrome</h4>
-                    <div class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary.svg" alt="Main Logo Monochrome" onContextMenu="return false;">
-                        <div class="dwl-container-m">
-                            <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        </div>
-                    </div>
-                    <div class="dwl-container">
-                    <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('logo-fgs-secondary').value">
-                            <select id="logo-fgs-secondary">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/jpg/logo-fgs-secondary.jpg">JPG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/png/logo-fgs-secondary.png">PNG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary.svg">SVG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/eps/logo-fgs-secondary.eps">EPS</option>
-                            </select>
-                            <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                        </form>
-                    </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <h4>Black</h4>
-                        <div class="logo-container square"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary-black.svg" alt="Main Logo Black" onContextMenu="return false;">
-                            <div class="dwl-container-m">
-                                <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                            </div>
-                        </div>
-                        <div class="dwl-container">
-                        <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary-black.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                            <form target="_blank" onsubmit="this.action = document.getElementById('logo-fgs-secondary-black').value">
-                                <select id="logo-fgs-secondary-black">
-                                    <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/jpg/logo-fgs-secondary-black.jpg">JPG</option>
-                                    <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/png/logo-fgs-secondary-black.png">PNG</option>
-                                    <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary-black.svg">SVG</option>
-                                    <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/eps/logo-fgs-secondary-black.eps">EPS</option>
-                                </select>
-                                <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                            </form>
-                        </div>
-                </div>
-                <div class="col-3 scroll-x">
-                    <h4>White</h4>
-                    <div class="logo-container negative square"><img src="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary-white.svg" alt="Main Logo White" onContextMenu="return false;">
-                        <div class="dwl-container-m">
-                            <button class="copy ico-negative" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        </div>
-                    </div>
-                    <div class="dwl-container">
-                        <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary-white.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-                        <form target="_blank" onsubmit="this.action = document.getElementById('logo-fgs-secondary-white').value">
-                            <select id="logo-fgs-secondary-white">
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/png/logo-fgs-secondary-white.png">PNG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/svg/logo-fgs-secondary-white.svg">SVG</option>
-                                <option value="https://www.fiware.org/custom/brand-guide/img/logo/ecosystem/fgs/eps/logo-fgs-secondary-white.eps">EPS</option>
-                            </select>
-                            <input type="submit" value="download" class="material-symbols-outlined dwl" />
-                        </form>
-                    </div>
                 </div>
             </div>
         </div>
@@ -347,7 +188,7 @@ To download a logo select the preferred image format and click on the download b
 
 
 ## FIWARE Impact Stories
-<!-- <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> -->
+<p class="description">Impact Stories are true inspiring stories of innovation and business impact from the FIWARE Community for the world of users and those looking for best practices. This logo type has no icon but is purely name-based with a ‘frame’, a speech bubble. The name says “FIWARE Impact Stories” to show in one blink of an eye what the reader can expect.</p>
 <div class="primary-btn">
     <a href="https://www.fiware.org/about-us/impact-stories/svg/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
@@ -418,7 +259,7 @@ To download a logo select the preferred image format and click on the download b
 
 
 ## FIWARE Lab
-<!-- <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> -->
+<p class="description">FIWARE Lab is the non-commercial sandbox environment of the FIWARE Community. It offers for free the capability to innovate and experiment with the FIWARE Technologies. The FIWARE Lab logo consists of a name (FIWARE Lab) and the shapes of four circles. Least symbolize the many and diverse locations and types of FIWARE Labs existing, in a modern and minimalistic way.</p>
 <div class="primary-btn">
     <a href="https://fiware-lab-academy.readthedocs.io/en/latest/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
@@ -510,7 +351,7 @@ To download a logo select the preferred image format and click on the download b
 
 
 ## FIWARE Marketplace
-<!-- <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> -->
+<p class="description">The FIWARE Marketplace is the place to find the best suppliers for FIWARE based products and services. It has been known for many years to be the one-stop-shop to learn about what suppliers, member and partners can do for those looking for best-practices, ideas and support. The logo consists of the FIWARE icon combined with the logo name ‘FIWAREMarketplace’.</p>
 <div class="primary-btn">
     <a href="https://www.fiware.org/marketplace/svg/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>

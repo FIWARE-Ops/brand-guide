@@ -28,6 +28,7 @@ nav:
     - 'FIWARE': 'logo-fiware.md' 
     - 'FIWARE Foundation': 'logo-foundation.md'
     - 'FIWARE Ecosystem': 'logo-ecosystem.md'
+    - 'FIWARE Events': 'logo-events.md'
   - 'Badges': 
     - 'FIWARE Catalogue': 'badge-catalogue.md'
     - 'FIWARE Domains': 'badge-domains.md'
