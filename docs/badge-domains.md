@@ -28,13 +28,13 @@ Standardised FIWARE badges should be used to represent the categories found with
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-agrifood.svg" alt="FIWARE Smart AgriFood" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-agrifood.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('smart-agrifood').value">
-                    <select id="smart-agrifood">
-                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/jpg/smart-agrifood.jpg">JPG</option>
-                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/png/smart-agrifood.png">PNG</option>
-                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-agrifood.svg">SVG</option>
-                        <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/eps/smart-agrifood.eps">EPS</option>
-                    </select>
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('agrifood').value">
+                <select id="agrifood">
+                    <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/jpg/smart-agrifood.jpg">JPG</option>
+                    <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/png/smart-agrifood.png">PNG</option>
+                    <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-agrifood.svg">SVG</option>
+                    <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/eps/smart-agrifood.eps">EPS</option>
+                </select>
                 <input type="submit" value="download" class="material-symbols-outlined dwl" />
             </form>
         </div>
@@ -52,8 +52,8 @@ Standardised FIWARE badges should be used to represent the categories found with
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-cities.svg" alt="FIWARE Smart Cities" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-cities.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('smart-cities').value">
-                    <select id="smart-cities">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('cities').value">
+                    <select id="cities">
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/jpg/smart-cities.jpg">JPG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/png/smart-cities.png">PNG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-cities.svg">SVG</option>
@@ -76,8 +76,8 @@ Standardised FIWARE badges should be used to represent the categories found with
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-energy.svg" alt="FIWARE Smart Energy" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-energy.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('smart-energy').value">
-                    <select id="smart-energy">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('energy').value">
+                    <select id="energy">
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/jpg/smart-energy.jpg">JPG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/png/smart-energy.png">PNG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-energy.svg">SVG</option>
@@ -100,8 +100,8 @@ Standardised FIWARE badges should be used to represent the categories found with
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-industry.svg" alt="FIWARE Smart Industry" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-industry.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('smart-industry').value">
-                    <select id="smart-industry">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('industry').value">
+                    <select id="industry">
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/jpg/smart-industry.jpg">JPG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/png/smart-industry.png">PNG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-industry.svg">SVG</option>
@@ -124,8 +124,8 @@ Standardised FIWARE badges should be used to represent the categories found with
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-water.svg" alt="FIWARE Smart Industry" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-water.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('smart-water').value">
-                    <select id="smart-water">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('water').value">
+                    <select id="water">
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/jpg/smart-water.jpg">JPG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/png/smart-water.png">PNG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/domains/svg/smart-water.svg">SVG</option>

@@ -34,8 +34,8 @@ Standardised FIWARE badges should be used to represent the categories found with
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/powered-by-fiware.svg" alt="Powered by FIWARE badge" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/powered-by-fiware.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('powered-by-fiware').value">
-                    <select id="powered-by-fiware">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('poweredbyfiware').value">
+                    <select id="poweredbyfiware">
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/jpg/powered-by-fiware.jpg">JPG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/png/powered-by-fiware.png">PNG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/powered-by-fiware.svg">SVG</option>
@@ -60,8 +60,8 @@ Standardised FIWARE badges should be used to represent the categories found with
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/fiware-ready.svg" alt="FIWARE Ready badge" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/fiware-ready.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('fiware-ready').value">
-                    <select id="fiware-ready">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('fiwareready').value">
+                    <select id="fiwareready">
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/jpg/fiware-ready.jpg">JPG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/png/fiware-ready.png">PNG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/fiware-ready.svg">SVG</option>
@@ -86,8 +86,8 @@ Standardised FIWARE badges should be used to represent the categories found with
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/cities-4-cities.svg" alt="Cities4Cities badge" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/cities-4-cities.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('cities-4-cities').value">
-                    <select id="cities-4-cities">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('cities4cities').value">
+                    <select id="cities4cities">
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/jpg/cities-4-cities.jpg">JPG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/png/cities-4-cities.png">PNG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/cities-4-cities.svg">SVG</option>
@@ -112,8 +112,8 @@ Standardised FIWARE badges should be used to represent the categories found with
         <img class="badge" src="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/support-services.svg" alt="Cities4Cities badge" onContextMenu="return false;">
         <div class="dwl-container">
             <button class="copy" data-clipboard-text="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/support-services.svg" data-original-title="Copied!"><span class="material-symbols-outlined">content_copy</span></button>
-            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('support-services').value">
-                    <select id="support-services">
+            <form class="badge-dwl" target="_blank" onsubmit="this.action = document.getElementById('supportservices').value">
+                    <select id="supportservices">
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/jpg/support-services.jpg">JPG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/png/support-services.png">PNG</option>
                         <option value="https://www.fiware.org/custom/brand-guide/img/badges/marketplace/svg/support-services.svg">SVG</option>
