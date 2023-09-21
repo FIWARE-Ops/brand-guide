@@ -13,7 +13,7 @@
 
 <h1>FIWARE Evangelists</h1>
 
-**To download a badge:** Select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use them within an <img> tag.
+**To download a badge:** Select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use it.
 
 <div class="primary-btn">
     <a href="https://www.fiware.org/community/evangelists/svg/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>

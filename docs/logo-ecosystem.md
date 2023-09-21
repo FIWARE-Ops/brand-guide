@@ -16,7 +16,7 @@
 FIWARE is well known for its successful and growing ecosystem allowing all qualified players to actively participate in or contribute to certain programs and activities. FIWARE encourages these players to indicate and promote the programs activities by using the respective logos. Major FIWARE Ecosystem programs and activities include: FIWARE Accelerator Program, FIWARE iHubs, FIWARE Impact Stories, FIWARE Lab, FIWARE Marketplace, FIWARE Scientific Advisory Board.
 The collection of FIWARE Ecosystem logos is design with high attention to the FIWARE Visual Identity in terms of color, fonts, and proportions. At the same time, each logo keeps a clear and distinct identity.
 
-**To download a logo:** Select the preferred image format and click on the download button. Alternatively, you can click on the copy icon to receive the badge image URL with which you can access the logo hosted on our CDN server and use it within a tag.
+**To download a logo:** Select the preferred image format and click on the download button. Alternatively, you can click on the copy icon to receive the badge image URL with which you can access the logo hosted on our CDN server and use it.
 
 ## FIWARE Accelerator
 <p class="description">The FIWARE Accelerator Programme supports accelerators and funding organisations to promote their funding opportunities and services, enlarge their ecosystems, accelerate funding, and allow programme members to collaborate with FIWARE members from high-potential start-ups to global players to bring innovative smart solutions and their providers to success.</p>

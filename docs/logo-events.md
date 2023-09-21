@@ -15,7 +15,7 @@
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-**To download a logo:** Select the preferred image format and click on the download button. Alternatively, you can click on the copy icon to receive the badge image URL with which you can access the logo hosted on our CDN server and use it within a tag.
+**To download a logo:** Select the preferred image format and click on the download button. Alternatively, you can click on the copy icon to receive the badge image URL with which you can access the logo hosted on our CDN server and use it.
 
 ## FIWARE Global Summit
 <!-- <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> -->

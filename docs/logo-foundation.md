@@ -15,7 +15,7 @@
 
 The FIWARE Foundation logo differs from the FIWARE logo only in one respect - the addition of the term “Foundation”. This enhances separate Brand recognition whilst maintaining an overall single corporate entity. This is why the FIWARE Foundation logo should be only used for funded projects, and on institutional materials and internal stationery.
 
-**To download a logo:** Select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use them within an tag.
+**To download a logo:** Select the preferred image format and click on the download button. Alternatively, you can click on the copy icon to receive the badge image URL with which you can access the logo hosted on our CDN server and use it.
 
 <div class="primary-btn">
     <a href="https://www.fiware.org/foundation/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>

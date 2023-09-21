@@ -15,7 +15,7 @@
 
 The iHub Badge is a symbol of highest quality and optimum performance. The FIWARE iHubs Program is a trend-setter. All FIWARE iHubs with whom we work in our local and global competence network are certified, systematically trained, and supported with diverse services.
 
-**To download a badge:** Sselect the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use them within an <img> tag.
+**To download a badge:** Select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use it.
 
 <div class="cta-container">
     <div class="primary-btn">
