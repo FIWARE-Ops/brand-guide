@@ -181,9 +181,9 @@ To get the colour code from each colour module click on the copy icon, and the H
         <div class="grid">
             <div class="colour-items">
                 <div class="col-3 scroll-x">
-                    <div class="colour-container bg-purple-500">
+                    <div class="colour-container bg-blue-500">
                         <div class="dwl-container">
-                            <span class="colour-label">purple 500</span>
+                            <span class="colour-label">blue 500</span>
                             <button class="copy ico-colour" data-clipboard-text="#9b6cc3" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
@@ -196,9 +196,9 @@ To get the colour code from each colour module click on the copy icon, and the H
                     </div>
                 </div>
                 <div class="col-3 scroll-x">
-                    <div class="colour-container bg-purple-400">
+                    <div class="colour-container bg-blue-400">
                         <div class="dwl-container">
-                            <span class="colour-label">purple 400</span>
+                            <span class="colour-label">blue 400</span>
                             <button class="copy ico-colour" data-clipboard-text="#af89cf" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
@@ -211,9 +211,9 @@ To get the colour code from each colour module click on the copy icon, and the H
                     </div>
                 </div>
                 <div class="col-3 scroll-x">
-                    <div class="colour-container bg-purple-300">
+                    <div class="colour-container bg-blue-300">
                         <div class="dwl-container">
-                            <span class="colour-label">purple 300</span>
+                            <span class="colour-label">blue 300</span>
                             <button class="copy ico-colour" data-clipboard-text="#c3a6db" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
@@ -226,9 +226,9 @@ To get the colour code from each colour module click on the copy icon, and the H
                     </div>
                 </div>
                 <div class="col-3 scroll-x">
-                    <div class="colour-container bg-purple-200">
+                    <div class="colour-container bg-blue-200">
                         <div class="dwl-container">
-                            <span class="colour-label">purple 200</span>
+                            <span class="colour-label">blue 200</span>
                             <button class="copy ico-colour" data-clipboard-text="#d7c4e7" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
@@ -241,9 +241,9 @@ To get the colour code from each colour module click on the copy icon, and the H
                     </div>
                 </div>
                 <div class="col-3 scroll-x">
-                    <div class="colour-container bg-purple-100">
+                    <div class="colour-container bg-blue-100">
                         <div class="dwl-container">
-                            <span class="colour-label">purple 100</span>
+                            <span class="colour-label">blue 100</span>
                             <button class="copy ico-colour" data-clipboard-text="#ebe1f3" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>

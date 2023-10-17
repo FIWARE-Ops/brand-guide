@@ -12,11 +12,11 @@
     --secondary-200: 229, 245, 247;
     --secondary-100: 244, 251, 252;
 
-    --purple-500: 155, 108, 195;
-    --purple-400: 175, 137, 207;
-    --purple-300: 195, 166, 219;
-    --purple-200: 215, 196, 231;
-    --purple-100: 235, 225, 243;
+    --blue-500: 0, 95, 185;
+    --blue-400: 77, 144, 205;
+    --blue-300: 153, 193, 225;
+    --blue-200: 204, 224, 240;
+    --blue-100: 229, 239, 247;
 
     --green-500: 21, 169, 124;
     --green-400: 67, 186, 150;
@@ -145,28 +145,28 @@ div[role="navigation"] hr {
     border: 1px solid rgba(var(--gray-400), 0) !important;
 }
 
-.bg-purple-500 {
-    background-color: rgba(var(--purple-500), 1);
+.bg-blue-500 {
+    background-color: rgba(var(--blue-500), 1);
     border: 1px solid rgba(var(--gray-400), 0) !important;
 }
 
-.bg-purple-400 {
-    background-color: rgba(var(--purple-400), 1);
+.bg-blue-400 {
+    background-color: rgba(var(--blue-400), 1);
     border: 1px solid rgba(var(--gray-400), 0) !important;
 }
 
-.bg-purple-300 {
-    background-color: rgba(var(--purple-300), 1);
+.bg-blue-300 {
+    background-color: rgba(var(--blue-300), 1);
     border: 1px solid rgba(var(--gray-400), 0) !important;
 }
 
-.bg-purple-200 {
-    background-color: rgba(var(--purple-200), 1);
+.bg-blue-200 {
+    background-color: rgba(var(--blue-200), 1);
     border: 1px solid rgba(var(--gray-400), 0) !important;
 }
 
-.bg-purple-100 {
-    background-color: rgba(var(--purple-100), 1);
+.bg-blue-100 {
+    background-color: rgba(var(--blue-100), 1);
     border: 1px solid rgba(var(--gray-400), 0) !important;
 }
 
