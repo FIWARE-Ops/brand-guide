@@ -18,7 +18,9 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 **To download a logo:** Select the preferred image format and click on the download button. Alternatively, you can click on the copy icon to receive the badge image URL with which you can access the logo hosted on our CDN server and use it.
 
 ## FIWARE Global Summit
-<!-- <p class="description">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p> -->
+<p class="description">FIWARE Global Summit (FGS) stands for one of the leading Open Source conferences for entrepreneurs, public administrations, academia, developers, start-ups, and technologists inviting participants from all over the world. It’s open to all FIWARE enthusiasts and newbies, members and partners, from startups to global players, public admins and academia, from developers to strategists, from project managers to CEOs. We are connecting demand and supply, innovation and hands-on recipes.</p>
+<p class="description">It’s FIWARE’s lighthouse conference that provides a helping hand to those who want to change the world, foretell the future, and transform markets for the better, based on recognised Open Source technology. FIWARE helps today’s disruptors fully grasp what tomorrow has in store and how they can be part of this transformation journey.</p>
+<p class="description">The whole FIWARE ecosystem is invited to spread the world about FGS and invite all their communities to this yearly happening.</p>
 <div class="primary-btn">
     <a href="https://www.fiware.org/global-summit/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
 </div>
@@ -175,3 +177,7 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
         </div>
     </div>
 </div>
+
+## FIWARE Day / FIWARE Open Day
+<p class="description">A FIWARE DAY, or a FIWARE OPEN DAY, is an event that provides throughout an entire day information, educational and networking opportunities for industrial players, start-ups, researchers, developers, and public actors involved in the creation of digital products, solutions and services across a specific country or region. Often, these days are organised under the leadership of a local industrial player or a FIWARE iHubs or in collaboration with a city, or even an entire local/regional ecosystem.</p>
+<p class="description">A new design and positioning is under development for 2024.</p>
