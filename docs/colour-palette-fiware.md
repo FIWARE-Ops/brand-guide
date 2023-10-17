@@ -176,19 +176,19 @@ To get the colour code from each colour module click on the copy icon, and the H
 ## Tertiary Colours
 
 <div class="section-container">
-    <h3>Purple</h3>
+    <h3>Blue</h3>
     <div class="module-container">
         <div class="grid">
             <div class="colour-items">
                 <div class="col-3 scroll-x">
                     <div class="colour-container bg-blue-500">
                         <div class="dwl-container">
-                            <span class="colour-label">blue 500</span>
-                            <button class="copy ico-colour" data-clipboard-text="#9b6cc3" data-original-title="Copied!">
+                            <span class="colour-label negative">blue 500</span>
+                            <button class="copy ico-negative" data-clipboard-text="#9b6cc3" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
-                        <div class="colour-settings">
+                        <div class="colour-settings negative">
                             <div class="colour-code"><span class="colour-method">hex</span>#9b6cc3</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>154, 108, 195</div>
                             <div class="colour-code"><span class="colour-method">cmyk</span>50, 60, 0, 0</div>
@@ -198,12 +198,12 @@ To get the colour code from each colour module click on the copy icon, and the H
                 <div class="col-3 scroll-x">
                     <div class="colour-container bg-blue-400">
                         <div class="dwl-container">
-                            <span class="colour-label">blue 400</span>
-                            <button class="copy ico-colour" data-clipboard-text="#af89cf" data-original-title="Copied!">
+                            <span class="colour-label negative">blue 400</span>
+                            <button class="copy ico-negative" data-clipboard-text="#af89cf" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
-                        <div class="colour-settings">
+                        <div class="colour-settings negative">
                             <div class="colour-code"><span class="colour-method">hex</span>#af89cf</div>
                             <div class="colour-code"><span class="colour-method">rgb</span>176, 137, 207</div>
                             <div class="colour-code"><span class="colour-method">cmyk</span>40, 48, 0, 0</div>
