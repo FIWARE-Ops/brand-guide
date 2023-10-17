@@ -184,14 +184,14 @@ To get the colour code from each colour module click on the copy icon, and the H
                     <div class="colour-container bg-blue-500">
                         <div class="dwl-container">
                             <span class="colour-label negative">blue 500</span>
-                            <button class="copy ico-negative" data-clipboard-text="#9b6cc3" data-original-title="Copied!">
+                            <button class="copy ico-negative" data-clipboard-text="#005fb9" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings negative">
-                            <div class="colour-code"><span class="colour-method">hex</span>#9b6cc3</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>154, 108, 195</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>50, 60, 0, 0</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#005fb9</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>0, 95, 155</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>90, 60, 0, 0</div>
                         </div>
                     </div>
                 </div>
@@ -199,14 +199,14 @@ To get the colour code from each colour module click on the copy icon, and the H
                     <div class="colour-container bg-blue-400">
                         <div class="dwl-container">
                             <span class="colour-label negative">blue 400</span>
-                            <button class="copy ico-negative" data-clipboard-text="#af89cf" data-original-title="Copied!">
+                            <button class="copy ico-negative" data-clipboard-text="#4d90cd" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings negative">
-                            <div class="colour-code"><span class="colour-method">hex</span>#af89cf</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>176, 137, 207</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>40, 48, 0, 0</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#4d90cd</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>77, 144, 205</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>70, 35, 0, 0</div>
                         </div>
                     </div>
                 </div>
@@ -214,14 +214,14 @@ To get the colour code from each colour module click on the copy icon, and the H
                     <div class="colour-container bg-blue-300">
                         <div class="dwl-container">
                             <span class="colour-label">blue 300</span>
-                            <button class="copy ico-colour" data-clipboard-text="#c3a6db" data-original-title="Copied!">
+                            <button class="copy ico-colour" data-clipboard-text="#99c1e1" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#c3a6db</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>195, 166, 219</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>30, 36, 0, 0</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#99c1e1</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>153, 193, 225</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>44, 15, 5, 0</div>
                         </div>
                     </div>
                 </div>
@@ -229,14 +229,14 @@ To get the colour code from each colour module click on the copy icon, and the H
                     <div class="colour-container bg-blue-200">
                         <div class="dwl-container">
                             <span class="colour-label">blue 200</span>
-                            <button class="copy ico-colour" data-clipboard-text="#d7c4e7" data-original-title="Copied!">
+                            <button class="copy ico-colour" data-clipboard-text="#cce0f0" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#d7c4e7</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>215, 196, 231</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>20, 24, 0, 0</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#cce0f0</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>204, 224, 240</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>20, 6, 3, 0</div>
                         </div>
                     </div>
                 </div>
@@ -244,14 +244,14 @@ To get the colour code from each colour module click on the copy icon, and the H
                     <div class="colour-container bg-blue-100">
                         <div class="dwl-container">
                             <span class="colour-label">blue 100</span>
-                            <button class="copy ico-colour" data-clipboard-text="#ebe1f3" data-original-title="Copied!">
+                            <button class="copy ico-colour" data-clipboard-text="#e5eff7" data-original-title="Copied!">
                             <span class="material-symbols-outlined">content_copy</span>
                             </button>
                         </div>
                         <div class="colour-settings">
-                            <div class="colour-code"><span class="colour-method">hex</span>#ebe1f3</div>
-                            <div class="colour-code"><span class="colour-method">rgb</span>235, 225, 243</div>
-                            <div class="colour-code"><span class="colour-method">cmyk</span>10, 12, 0, 0</div>
+                            <div class="colour-code"><span class="colour-method">hex</span>#e5eff7</div>
+                            <div class="colour-code"><span class="colour-method">rgb</span>229, 239, 247</div>
+                            <div class="colour-code"><span class="colour-method">cmyk</span>10, 3, 2, 0</div>
                         </div>
                     </div>
                 </div>
