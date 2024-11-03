@@ -11,9 +11,9 @@
 <meta name="twitter:image" content="https://www.fiware.org/wp-content/uploads/FF_Banner_General.png">
 </div>
 
-# FIWARE Marketplace
+# FIWARE Showcase
 
-Standardised FIWARE badges should be used to represent the categories found within the FIWARE Marketplace.
+Standardised FIWARE badges should be used to represent the categories found within the FIWARE Showcase.
 
 **To download a badge:** Select the preferred image format and click on the download button. Alternatively, you can also click on the copy icon to obtain the URL for the badge image hosted on our CDN server and use it.
 

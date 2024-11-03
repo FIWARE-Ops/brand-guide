@@ -350,7 +350,7 @@ The collection of FIWARE Ecosystem logos is design with high attention to the FI
 </div>
 
 
-## FIWARE Marketplace
+<!-- ## FIWARE Marketplace
 <p class="description">The FIWARE Marketplace is the place to find the best suppliers for FIWARE based products and services. It has been known for many years to be the one-stop-shop to learn about what suppliers, member and partners can do for those looking for best-practices, ideas and support. The logo consists of the FIWARE icon combined with the logo name ‘FIWAREMarketplace’.</p>
 <div class="primary-btn">
     <a href="https://www.fiware.org/marketplace/svg/" target="_blank"><span class="material-symbols-outlined">open_in_new</span>Visit the website</a>
@@ -439,7 +439,7 @@ The collection of FIWARE Ecosystem logos is design with high attention to the FI
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 
 ## FIWARE Scientific Advisory Board
